@@ -25,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        _rigidbody.velocity = MoveInput * speed;    
+        _rigidbody.velocity = MoveInput * speed;
     }
 
     void OnMove(InputValue inputValue)
@@ -45,8 +45,8 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetFloat("LastHorizontal", MoveInput.x);
             animator.SetFloat("LastVertical", MoveInput.y);
+            
         }
-
         #endregion
     }
 }
