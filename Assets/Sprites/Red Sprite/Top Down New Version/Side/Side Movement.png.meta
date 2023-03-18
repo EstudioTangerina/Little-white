@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cb869ed476f8bfd4ab39704eea258cc9
+guid: f1884e730a7ef724e8b85fc32dec585a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,12 +117,96 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack 1_0
+      name: Side Movement_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 21
-        width: 29
+        x: 25
+        y: 214
+        width: 10
+        height: 23
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4e7d0f46d1c124a9bedfc8927d48bd
+      internalID: -1135646838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 214
+        width: 10
+        height: 23
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb368a60a8fd55498e417d22afc3edb
+      internalID: -393382772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 214
+        width: 10
+        height: 22
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9615eb9c981ee7d4f8c694e10032c8bc
+      internalID: 1130933575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 214
+        width: 11
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb86900cb84f914d988886ef310477c
+      internalID: -1313830664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 214
+        width: 13
         height: 24
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -131,20 +215,314 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d16450f9267b6144893ecb2e03821f4
-      internalID: 1352479783
+      spriteID: d791058962819f94299a6b85f3cc47a2
+      internalID: 891222226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_1
+      name: Side Movement_5
       rect:
         serializedVersion: 2
-        x: 46
+        x: 344
+        y: 214
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fef736cd0668549af904b91efb4c60
+      internalID: -734337882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 150
+        width: 11
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b7b63da2b37642b4798d2a065f628
+      internalID: -1430418579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 150
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277e527c16960934191cca34dc5db9e3
+      internalID: 1808135531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 150
+        width: 11
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a4223bc2d7204984c56791ed2f71d
+      internalID: -1122645673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 150
+        width: 11
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cd1323cbc9421409191cbc45bb2d02
+      internalID: 1864471311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 151
+        width: 11
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf14a83be85abf47af82392689db533
+      internalID: -31860460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 151
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21141a9bc5393864888ee4806753c72c
+      internalID: -2106318264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 86
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221bf4bb622d5f448913f5202100ca5e
+      internalID: -75568906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 86
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1aadc6b080d9442913d537f10cfa0e
+      internalID: -1576164112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 86
+        width: 11
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938b76a7e0fc4d42914e49e191f3c00
+      internalID: -570591402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 86
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed367e4730616e54eb2e19d1321e5b57
+      internalID: -87956720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 87
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d4e27bee6c0e478945476888a2fb6
+      internalID: 937512027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 87
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62557b391aa2c864cbd442d1dbd35295
+      internalID: -80445938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 22
+        width: 11
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b698b174bcb52a4ba0303a0c7c22a89
+      internalID: -319582592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Movement_19
+      rect:
+        serializedVersion: 2
+        x: 89
         y: 21
-        width: 16
-        height: 20
+        width: 10
+        height: 22
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,61 +530,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75dbb9c03f7d2b6438ecaf895a15014e
-      internalID: -1470064294
+      spriteID: c399c2157b01da849b8f96b1ec27439c
+      internalID: 341037376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_2
+      name: Side Movement_20
       rect:
         serializedVersion: 2
-        x: 81
-        y: 19
-        width: 28
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97bd8a1e01b71cc40b8f18d736075475
-      internalID: -1230738706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_3
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 19
-        width: 25
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f27ef7611950add429bd16b40482f565
-      internalID: 1321287992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_4
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 19
-        width: 22
+        x: 153
+        y: 22
+        width: 10
         height: 21
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -215,103 +551,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2cc85db776f836240b8c005393f6410f
-      internalID: -271449812
+      spriteID: d576381387e4a7c41a05325307b52235
+      internalID: -1393409268
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_5
+      name: Side Movement_21
       rect:
         serializedVersion: 2
-        x: 201
-        y: 19
-        width: 20
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f64e504b01dc3404ea4ce794e6f881c0
-      internalID: -1756715637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_6
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 19
-        width: 20
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e522311b9439d8458c68213ed746241
-      internalID: 1141434889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_7
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 19
-        width: 16
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e89b5f66b612ef14589477f79f90e958
-      internalID: 1022361973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_8
-      rect:
-        serializedVersion: 2
-        x: 314
-        y: 19
-        width: 21
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b3286c9f4bd3e143ba627956810be87
-      internalID: -1386078068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_9
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 19
-        width: 18
+        x: 217
+        y: 22
+        width: 11
         height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -320,155 +572,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99a9b21d36b255742927477076f1647c
-      internalID: 1622868779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_10
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 19
-        width: 19
-        height: 23
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71fe05ecd63c17943bb14da2fc08b992
-      internalID: -82229034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_11
-      rect:
-        serializedVersion: 2
-        x: 418
-        y: 9
-        width: 31
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7167f7b1e3c3c3d47abec23fc3bc0ccb
-      internalID: 1619911170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_12
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 11
-        width: 27
-        height: 23
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 105d6dfc90cf40642a9366dafb069844
-      internalID: -5906015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_13
-      rect:
-        serializedVersion: 2
-        x: 495
-        y: 13
-        width: 25
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5028bfea9ed53d444b0191161199b221
-      internalID: 1341648029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_14
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 13
-        width: 20
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc92d5568d870de43b6f9b468818d3a5
-      internalID: 1533031507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_15
-      rect:
-        serializedVersion: 2
-        x: 574
-        y: 13
-        width: 19
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 120dded5fe4512f4dabc644743941f75
-      internalID: -1234113089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_16
-      rect:
-        serializedVersion: 2
-        x: 612
-        y: 13
-        width: 18
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 927f787e72656ab44862506460620b2a
-      internalID: -2006225872
+      spriteID: 40ccb803e2a98bf4796bfaa51c26437e
+      internalID: -1713091264
       vertices: []
       indices: 
       edges: []
@@ -484,23 +589,28 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Attack 1_0: 1352479783
-      Attack 1_1: -1470064294
-      Attack 1_10: -82229034
-      Attack 1_11: 1619911170
-      Attack 1_12: -5906015
-      Attack 1_13: 1341648029
-      Attack 1_14: 1533031507
-      Attack 1_15: -1234113089
-      Attack 1_16: -2006225872
-      Attack 1_2: -1230738706
-      Attack 1_3: 1321287992
-      Attack 1_4: -271449812
-      Attack 1_5: -1756715637
-      Attack 1_6: 1141434889
-      Attack 1_7: 1022361973
-      Attack 1_8: -1386078068
-      Attack 1_9: 1622868779
+      Side Movement_0: -1135646838
+      Side Movement_1: -393382772
+      Side Movement_10: -31860460
+      Side Movement_11: -2106318264
+      Side Movement_12: -75568906
+      Side Movement_13: -1576164112
+      Side Movement_14: -570591402
+      Side Movement_15: -87956720
+      Side Movement_16: 937512027
+      Side Movement_17: -80445938
+      Side Movement_18: -319582592
+      Side Movement_19: 341037376
+      Side Movement_2: 1130933575
+      Side Movement_20: -1393409268
+      Side Movement_21: -1713091264
+      Side Movement_3: -1313830664
+      Side Movement_4: 891222226
+      Side Movement_5: -734337882
+      Side Movement_6: -1430418579
+      Side Movement_7: 1808135531
+      Side Movement_8: -1122645673
+      Side Movement_9: 1864471311
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

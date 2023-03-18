@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         AnimationPlayer();
+        FlipSprite();
     }
 
     void FixedUpdate()
@@ -36,7 +37,6 @@ public class PlayerMovement : MonoBehaviour
     void AnimationPlayer()
     {
         #region Move
-
         animator.SetFloat("Horizontal", MoveInput.x);
         animator.SetFloat("Vertical", MoveInput.y);
         animator.SetFloat("Speed", MoveInput.sqrMagnitude);
@@ -48,5 +48,14 @@ public class PlayerMovement : MonoBehaviour
             
         }
         #endregion
+    }
+
+    void FlipSprite()
+    {
+        bool playerHasSpeed = Mathf.Abs(_rigidbody.velocity.x) > Mathf.Epsilon;
+        if(playerHasSpeed)
+        {
+            transform.localScale = new Vector2(Mathf.Sign(_rigidbody.velocity.x), transform.localScale.y);
+        }
     }
 }

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cb869ed476f8bfd4ab39704eea258cc9
+guid: b895dd0f0b4b7994b8f9b6dd916283c1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,12 +117,96 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack 1_0
+      name: Back Movement_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 21
-        width: 29
+        x: 26
+        y: 214
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c38cde593cb78b45a7f9fd62f576ba0
+      internalID: -13161784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 214
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8d52669cc6f041bbb6db892952087
+      internalID: 1192305965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 214
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210bc2ac8c1e9f54eb05dbb80b2749d5
+      internalID: -1352472956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 214
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b83831098264a4a8bcdda6c2482fcf
+      internalID: -1516357249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 214
+        width: 14
         height: 24
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -131,20 +215,314 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d16450f9267b6144893ecb2e03821f4
-      internalID: 1352479783
+      spriteID: f7926e0003f70ac4eab5f4cf5163f546
+      internalID: -15244128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_1
+      name: Back Movement_5
       rect:
         serializedVersion: 2
-        x: 46
+        x: 346
+        y: 214
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea80d64a55040dd4aba3000a397ac0cc
+      internalID: 1897441002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 151
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4a9210c575e74090114717050537b
+      internalID: -1145632546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 152
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f2b7352cf89e4f85d98f996776c2f
+      internalID: 1786435262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 151
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f0ad06cc345847ac63830be84fa16
+      internalID: 2136157560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 151
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d5c783ee2c1974fb630d0a2626b483
+      internalID: -745235301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320a4ce0c298ba34eabb11649bf3fd7c
+      internalID: 2107503732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 151
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5493b516b1af4a94299bf9a629e7df5a
+      internalID: 776502866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 86
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bb85998b23eee4680334a303f4a349
+      internalID: -1532569661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 86
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29a321df68bae948b241beb709ff252
+      internalID: 2146348883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 87
+        width: 13
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aca41399a4a7cc4e9aa49ed476123cf
+      internalID: -345405213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 86
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b84a72083c55748b30e2ae189bd583
+      internalID: 1066950971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 86
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6786294b24e54994a40b417da9b1c
+      internalID: -657206952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 87
+        width: 13
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee2b525816d6a4da096f290410837c
+      internalID: -1315181806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 22
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871ace9cac8c8dd4ab1871dff7275ce1
+      internalID: -390471761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Movement_19
+      rect:
+        serializedVersion: 2
+        x: 89
         y: 21
-        width: 16
-        height: 20
+        width: 14
+        height: 22
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,61 +530,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75dbb9c03f7d2b6438ecaf895a15014e
-      internalID: -1470064294
+      spriteID: f835b4c7f783644479b6ec855da4a140
+      internalID: 633865994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_2
+      name: Back Movement_20
       rect:
         serializedVersion: 2
-        x: 81
-        y: 19
-        width: 28
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97bd8a1e01b71cc40b8f18d736075475
-      internalID: -1230738706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_3
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 19
-        width: 25
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f27ef7611950add429bd16b40482f565
-      internalID: 1321287992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_4
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 19
-        width: 22
+        x: 153
+        y: 22
+        width: 14
         height: 21
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -215,103 +551,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2cc85db776f836240b8c005393f6410f
-      internalID: -271449812
+      spriteID: aca4f8a924d425a43835234c269d3b3f
+      internalID: -576320187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_5
+      name: Back Movement_21
       rect:
         serializedVersion: 2
-        x: 201
-        y: 19
-        width: 20
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f64e504b01dc3404ea4ce794e6f881c0
-      internalID: -1756715637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_6
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 19
-        width: 20
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e522311b9439d8458c68213ed746241
-      internalID: 1141434889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_7
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 19
-        width: 16
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e89b5f66b612ef14589477f79f90e958
-      internalID: 1022361973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_8
-      rect:
-        serializedVersion: 2
-        x: 314
-        y: 19
-        width: 21
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b3286c9f4bd3e143ba627956810be87
-      internalID: -1386078068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_9
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 19
-        width: 18
+        x: 218
+        y: 22
+        width: 12
         height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -320,155 +572,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99a9b21d36b255742927477076f1647c
-      internalID: 1622868779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_10
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 19
-        width: 19
-        height: 23
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71fe05ecd63c17943bb14da2fc08b992
-      internalID: -82229034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_11
-      rect:
-        serializedVersion: 2
-        x: 418
-        y: 9
-        width: 31
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7167f7b1e3c3c3d47abec23fc3bc0ccb
-      internalID: 1619911170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_12
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 11
-        width: 27
-        height: 23
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 105d6dfc90cf40642a9366dafb069844
-      internalID: -5906015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_13
-      rect:
-        serializedVersion: 2
-        x: 495
-        y: 13
-        width: 25
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5028bfea9ed53d444b0191161199b221
-      internalID: 1341648029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_14
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 13
-        width: 20
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc92d5568d870de43b6f9b468818d3a5
-      internalID: 1533031507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_15
-      rect:
-        serializedVersion: 2
-        x: 574
-        y: 13
-        width: 19
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 120dded5fe4512f4dabc644743941f75
-      internalID: -1234113089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_16
-      rect:
-        serializedVersion: 2
-        x: 612
-        y: 13
-        width: 18
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 927f787e72656ab44862506460620b2a
-      internalID: -2006225872
+      spriteID: 3af36094a6e9b2b42b53899e0214181c
+      internalID: -125579233
       vertices: []
       indices: 
       edges: []
@@ -484,23 +589,28 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Attack 1_0: 1352479783
-      Attack 1_1: -1470064294
-      Attack 1_10: -82229034
-      Attack 1_11: 1619911170
-      Attack 1_12: -5906015
-      Attack 1_13: 1341648029
-      Attack 1_14: 1533031507
-      Attack 1_15: -1234113089
-      Attack 1_16: -2006225872
-      Attack 1_2: -1230738706
-      Attack 1_3: 1321287992
-      Attack 1_4: -271449812
-      Attack 1_5: -1756715637
-      Attack 1_6: 1141434889
-      Attack 1_7: 1022361973
-      Attack 1_8: -1386078068
-      Attack 1_9: 1622868779
+      Back Movement_0: -13161784
+      Back Movement_1: 1192305965
+      Back Movement_10: 2107503732
+      Back Movement_11: 776502866
+      Back Movement_12: -1532569661
+      Back Movement_13: 2146348883
+      Back Movement_14: -345405213
+      Back Movement_15: 1066950971
+      Back Movement_16: -657206952
+      Back Movement_17: -1315181806
+      Back Movement_18: -390471761
+      Back Movement_19: 633865994
+      Back Movement_2: -1352472956
+      Back Movement_20: -576320187
+      Back Movement_21: -125579233
+      Back Movement_3: -1516357249
+      Back Movement_4: -15244128
+      Back Movement_5: 1897441002
+      Back Movement_6: -1145632546
+      Back Movement_7: 1786435262
+      Back Movement_8: 2136157560
+      Back Movement_9: -745235301
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

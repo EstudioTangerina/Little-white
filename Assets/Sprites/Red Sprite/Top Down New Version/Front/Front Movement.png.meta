@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cb869ed476f8bfd4ab39704eea258cc9
+guid: 848f7dfeacf972c4eb2b53d70e188f73
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,12 +117,96 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack 1_0
+      name: Front Movement_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 21
-        width: 29
+        x: 26
+        y: 214
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6479ada37d4294997c13b098443251
+      internalID: -608824077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 214
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d96ad58f7817c4b88e7b4cb8538c95
+      internalID: 1005375528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 214
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b154cfdeee9334594b0b946c09ee69
+      internalID: 1734825412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 214
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8a057ff7f0ef84182d8c0a610d9ab7
+      internalID: 1222639862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 214
+        width: 14
         height: 24
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -131,20 +215,314 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d16450f9267b6144893ecb2e03821f4
-      internalID: 1352479783
+      spriteID: 2e86341321876254ca46dbfdd4c63e10
+      internalID: 754574553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_1
+      name: Front Movement_5
       rect:
         serializedVersion: 2
-        x: 46
+        x: 346
+        y: 214
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71074cbb10648043a4e29eab00ba231
+      internalID: -152173568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 150
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da3023ace4899049944bc8d0ca1670c
+      internalID: 87665684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 151
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbbadfce413c7b4ea601c8ed80ab61e
+      internalID: 1889373816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 150
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028955b20454a784b80b8416f4743e0f
+      internalID: 449650720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 150
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d545ecb5cc07aa42a253457a726e3b1
+      internalID: 1492554797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 151
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc07fb430c905e49ad67bec1961c4bf
+      internalID: 1717851074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 150
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579d1bd2c90b5714eaccfd5745801861
+      internalID: 865819951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 86
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14fcff7216b40341b0af87f1cccd9da
+      internalID: -1609746247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 86
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8955a7bb07db1524684514b85665a641
+      internalID: 1214082739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 87
+        width: 13
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7859165cb11721546a0413aafd3da480
+      internalID: 207250801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 86
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f14f7e3ddcb9041a59453a2ecfb60b
+      internalID: -190573860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 86
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1144448ba268849bc466c027560d98
+      internalID: 1489174950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 87
+        width: 13
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985675f64fe89374f8b2fb2484b70a0e
+      internalID: 376536786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 22
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8740acc5a85c74ebe69b8b90f14330
+      internalID: -1908407009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Movement_19
+      rect:
+        serializedVersion: 2
+        x: 89
         y: 21
-        width: 16
-        height: 20
+        width: 14
+        height: 22
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,61 +530,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75dbb9c03f7d2b6438ecaf895a15014e
-      internalID: -1470064294
+      spriteID: 909b348812dacd446a10dd76af315a1e
+      internalID: -1874429440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_2
+      name: Front Movement_20
       rect:
         serializedVersion: 2
-        x: 81
-        y: 19
-        width: 28
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97bd8a1e01b71cc40b8f18d736075475
-      internalID: -1230738706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_3
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 19
-        width: 25
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f27ef7611950add429bd16b40482f565
-      internalID: 1321287992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_4
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 19
-        width: 22
+        x: 153
+        y: 22
+        width: 14
         height: 21
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -215,103 +551,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2cc85db776f836240b8c005393f6410f
-      internalID: -271449812
+      spriteID: 579fac014f9e0b045bb72eb70d8e7325
+      internalID: 1009019060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_5
+      name: Front Movement_21
       rect:
         serializedVersion: 2
-        x: 201
-        y: 19
-        width: 20
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f64e504b01dc3404ea4ce794e6f881c0
-      internalID: -1756715637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_6
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 19
-        width: 20
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e522311b9439d8458c68213ed746241
-      internalID: 1141434889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_7
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 19
-        width: 16
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e89b5f66b612ef14589477f79f90e958
-      internalID: 1022361973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_8
-      rect:
-        serializedVersion: 2
-        x: 314
-        y: 19
-        width: 21
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b3286c9f4bd3e143ba627956810be87
-      internalID: -1386078068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_9
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 19
-        width: 18
+        x: 218
+        y: 22
+        width: 12
         height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -320,155 +572,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99a9b21d36b255742927477076f1647c
-      internalID: 1622868779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_10
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 19
-        width: 19
-        height: 23
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71fe05ecd63c17943bb14da2fc08b992
-      internalID: -82229034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_11
-      rect:
-        serializedVersion: 2
-        x: 418
-        y: 9
-        width: 31
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7167f7b1e3c3c3d47abec23fc3bc0ccb
-      internalID: 1619911170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_12
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 11
-        width: 27
-        height: 23
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 105d6dfc90cf40642a9366dafb069844
-      internalID: -5906015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_13
-      rect:
-        serializedVersion: 2
-        x: 495
-        y: 13
-        width: 25
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5028bfea9ed53d444b0191161199b221
-      internalID: 1341648029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_14
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 13
-        width: 20
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc92d5568d870de43b6f9b468818d3a5
-      internalID: 1533031507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_15
-      rect:
-        serializedVersion: 2
-        x: 574
-        y: 13
-        width: 19
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 120dded5fe4512f4dabc644743941f75
-      internalID: -1234113089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack 1_16
-      rect:
-        serializedVersion: 2
-        x: 612
-        y: 13
-        width: 18
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 927f787e72656ab44862506460620b2a
-      internalID: -2006225872
+      spriteID: 701817f140fe1a14cb1f69a1c078c304
+      internalID: -824497361
       vertices: []
       indices: 
       edges: []
@@ -484,23 +589,28 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Attack 1_0: 1352479783
-      Attack 1_1: -1470064294
-      Attack 1_10: -82229034
-      Attack 1_11: 1619911170
-      Attack 1_12: -5906015
-      Attack 1_13: 1341648029
-      Attack 1_14: 1533031507
-      Attack 1_15: -1234113089
-      Attack 1_16: -2006225872
-      Attack 1_2: -1230738706
-      Attack 1_3: 1321287992
-      Attack 1_4: -271449812
-      Attack 1_5: -1756715637
-      Attack 1_6: 1141434889
-      Attack 1_7: 1022361973
-      Attack 1_8: -1386078068
-      Attack 1_9: 1622868779
+      Front Movement_0: -608824077
+      Front Movement_1: 1005375528
+      Front Movement_10: 1717851074
+      Front Movement_11: 865819951
+      Front Movement_12: -1609746247
+      Front Movement_13: 1214082739
+      Front Movement_14: 207250801
+      Front Movement_15: -190573860
+      Front Movement_16: 1489174950
+      Front Movement_17: 376536786
+      Front Movement_18: -1908407009
+      Front Movement_19: -1874429440
+      Front Movement_2: 1734825412
+      Front Movement_20: 1009019060
+      Front Movement_21: -824497361
+      Front Movement_3: 1222639862
+      Front Movement_4: 754574553
+      Front Movement_5: -152173568
+      Front Movement_6: 87665684
+      Front Movement_7: 1889373816
+      Front Movement_8: 449650720
+      Front Movement_9: 1492554797
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

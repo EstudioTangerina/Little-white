@@ -176,7 +176,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SideIdle_Right
-  m_Speed: 1
+  m_Speed: 0.5
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -205,7 +205,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -7163069741653472492}
-    m_Position: {x: 440, y: -30, z: 0}
+    m_Position: {x: 340, y: 20, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -331,7 +331,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SideIdle_Left
-  m_Speed: 0.6
+  m_Speed: 0.5
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -414,22 +414,22 @@ AnimatorStateMachine:
     m_Position: {x: 980, y: -120, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -7078342997972857803}
-    m_Position: {x: -290, y: -230, z: 0}
+    m_Position: {x: -290, y: -150, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -9108585080382432904}
-    m_Position: {x: -290, y: 260, z: 0}
+    m_Position: {x: -290, y: 90, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 5792163505959488257}
-    m_Position: {x: -290, y: 330, z: 0}
+    m_Position: {x: -290, y: 150, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8841063415825619028}
-    m_Position: {x: -290, y: 120, z: 0}
+    m_Position: {x: -290, y: 30, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -3687135800282562570}
     m_Position: {x: -290, y: -90, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4098134169671873333}
-    m_Position: {x: -290, y: -20, z: 0}
+    m_Position: {x: -290, y: -30, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2048487561913777592}
     m_Position: {x: 980, y: -180, z: 0}
@@ -460,13 +460,16 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: -4068334043842043027}
     m_Position: {x: 980, y: -300, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 9084230297511376396}
+    m_Position: {x: -290, y: 220, z: 0}
   m_ChildStateMachines:
   - serializedVersion: 1
     m_StateMachine: {fileID: -7220083542442712020}
-    m_Position: {x: 300, y: 10, z: 0}
+    m_Position: {x: 300, y: -120, z: 0}
   - serializedVersion: 1
     m_StateMachine: {fileID: -582565591570561355}
-    m_Position: {x: 300, y: 180, z: 0}
+    m_Position: {x: 300, y: 110, z: 0}
   m_AnyStateTransitions: []
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
@@ -532,7 +535,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: BackIdle
-  m_Speed: 0.6
+  m_Speed: 0.5
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -590,7 +593,7 @@ AnimatorStateMachine:
     m_Position: {x: 30, y: 420, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7777813281869275084}
-    m_Position: {x: -250, y: 200, z: 0}
+    m_Position: {x: 30, y: 580, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8027483408506063864}
     m_Position: {x: 410, y: 10, z: 0}
@@ -605,7 +608,7 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 50, y: 500, z: 0}
+  m_AnyStatePosition: {x: -280, y: 190, z: 0}
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 540, y: 420, z: 0}
@@ -618,7 +621,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Idle
-  m_Speed: 0.6
+  m_Speed: 0.5
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -650,43 +653,43 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Horizontal
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Vertical
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Speed
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: LastHorizontal
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: LastVertical
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: AnimationsIdlesChange
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Idle
@@ -980,7 +983,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SleepTiredLazy
-  m_Speed: 0.6
+  m_Speed: 0.5
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -7889808533330218767}
@@ -1073,3 +1076,29 @@ BlendTree:
   m_UseAutomaticThresholds: 1
   m_NormalizedBlendValues: 0
   m_BlendType: 2
+--- !u!1102 &9084230297511376396
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Attack1
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 1acca3b72c053f444b9b140e2be65881, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
