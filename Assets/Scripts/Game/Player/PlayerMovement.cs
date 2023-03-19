@@ -36,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
 
     void AnimationPlayer()
     {
-        #region Move
+        #region Walking
         animator.SetFloat("Horizontal", MoveInput.x);
         animator.SetFloat("Vertical", MoveInput.y);
         animator.SetFloat("Speed", MoveInput.sqrMagnitude);
@@ -47,6 +47,12 @@ public class PlayerMovement : MonoBehaviour
             animator.SetFloat("LastVertical", MoveInput.y);
             
         }
+        #endregion
+
+        #region Running
+
+        bool isRunning = Input.GetKey(KeyCode.LeftShift) && (MoveInput.x != 0 || MoveInput.y != 0);
+        animator.SetBool("Running", isRunning);
         #endregion
     }
 
