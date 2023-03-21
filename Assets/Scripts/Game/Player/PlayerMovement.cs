@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField]
     float speed;
+    public float speedMultiplier;
 
     private Rigidbody2D _rigidbody;
     Vector2 MoveInput;
@@ -26,12 +27,30 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        _rigidbody.velocity = MoveInput * speed;
+        if (animator.GetBool("Running") == true)
+        {
+            _rigidbody.velocity = MoveInput * speed * speedMultiplier;
+        }
+        else
+        {
+            _rigidbody.velocity = MoveInput * speed;
+        }
     }
 
     void OnMove(InputValue inputValue)
     {
         MoveInput = inputValue.Get<Vector2>();
+    }
+
+    void OnAim(InputValue inputValueAim)
+    {
+        bool isAiming = inputValueAim.isPressed;
+        animator.SetBool("Aiming", isAiming);
+
+        if(!isAiming)
+        {
+            animator.SetBool("Aiming", false);
+        }
     }
 
     void AnimationPlayer()
@@ -53,6 +72,7 @@ public class PlayerMovement : MonoBehaviour
 
         bool isRunning = Input.GetKey(KeyCode.LeftShift) && (MoveInput.x != 0 || MoveInput.y != 0);
         animator.SetBool("Running", isRunning);
+        
         #endregion
     }
 
