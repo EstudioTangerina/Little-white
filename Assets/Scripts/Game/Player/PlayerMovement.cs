@@ -13,6 +13,9 @@ public class PlayerMovement : MonoBehaviour
     Vector2 MoveInput;
     private Animator animator;
 
+    public int combo;
+    public bool attack;
+
     void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
@@ -53,6 +56,17 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    void OnFire(InputValue inputValueFire)
+    {
+        bool isAttacking = inputValueFire.isPressed;
+
+        if(isAttacking && !attack)
+        {
+            attack = true;
+            animator.SetTrigger("" + combo);
+        }
+    }
+
     void AnimationPlayer()
     {
         #region Walking
@@ -72,7 +86,7 @@ public class PlayerMovement : MonoBehaviour
 
         bool isRunning = Input.GetKey(KeyCode.LeftShift) && (MoveInput.x != 0 || MoveInput.y != 0);
         animator.SetBool("Running", isRunning);
-        
+
         #endregion
     }
 
@@ -83,5 +97,21 @@ public class PlayerMovement : MonoBehaviour
         {
             transform.localScale = new Vector2(Mathf.Sign(_rigidbody.velocity.x), transform.localScale.y);
         }
+    }
+
+
+    public void Start_Combo()
+    {
+        attack = false;
+        if(combo < 2)
+        {
+            combo++;
+        }
+    }
+
+    public void Finish_ani()
+    {
+        attack = false;
+        combo = 0;
     }
 }
