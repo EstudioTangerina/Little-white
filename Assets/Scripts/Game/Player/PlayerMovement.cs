@@ -38,11 +38,29 @@ public class PlayerMovement : MonoBehaviour
         {
             _rigidbody.velocity = MoveInput * speed;
         }
+
+        if(MoveInput.x == 0 || MoveInput.y == 0)
+        {
+            animator.SetBool("Running", false);
+        }
     }
 
     void OnMove(InputValue inputValue)
     {
         MoveInput = inputValue.Get<Vector2>();
+    }
+
+    void OnRun(InputValue inputValueRun)
+    {
+        if(inputValueRun.isPressed && (MoveInput.x != 0 || MoveInput.y != 0))
+        {
+            animator.SetBool("Running", true);
+        }else
+        {
+            animator.SetBool("Running", false);
+        }
+
+        
     }
 
     void OnAim(InputValue inputValueAim)
@@ -53,6 +71,7 @@ public class PlayerMovement : MonoBehaviour
         if(!isAiming)
         {
             animator.SetBool("Aiming", false);
+            animator.SetBool("Shooting", true);
         }
     }
 
@@ -81,13 +100,6 @@ public class PlayerMovement : MonoBehaviour
             
         }
         #endregion
-
-        #region Running
-
-        bool isRunning = Input.GetKey(KeyCode.LeftShift) && (MoveInput.x != 0 || MoveInput.y != 0);
-        animator.SetBool("Running", isRunning);
-
-        #endregion
     }
 
     void FlipSprite()
@@ -99,11 +111,11 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-
+    #region Combo
     public void Start_Combo()
     {
         attack = false;
-        if(combo < 2)
+        if(combo < 1)
         {
             combo++;
         }
@@ -113,5 +125,12 @@ public class PlayerMovement : MonoBehaviour
     {
         attack = false;
         combo = 0;
+    }
+
+    #endregion
+
+    public void FinishShoot()
+    {
+        animator.SetBool("Shooting", false);
     }
 }
