@@ -660,8 +660,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0.5
   speedMultiplier: 2
+  MoveInput: {x: 0, y: 0}
   combo: 0
   attack: 0
+  andando: 0
+  arrowPrefab: {fileID: 1142558964182149208, guid: 62f5ad34292acf7409f445a54e1a943a, type: 3}
+  directionWhenStopped: {x: 0, y: 0}
 --- !u!1 &213051639
 GameObject:
   m_ObjectHideFlags: 0

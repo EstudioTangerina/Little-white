@@ -10,11 +10,15 @@ public class PlayerMovement : MonoBehaviour
     public float speedMultiplier;
 
     private Rigidbody2D _rigidbody;
-    Vector2 MoveInput;
+    public Vector2 MoveInput;
     private Animator animator;
 
     public int combo;
     public bool attack;
+    public bool andando;
+
+    public GameObject arrowPrefab;
+    public Vector3 directionWhenStopped;
 
     void Awake()
     {
@@ -26,6 +30,7 @@ public class PlayerMovement : MonoBehaviour
     {
         AnimationPlayer();
         FlipSprite();
+        ShootCheck();
     }
 
     void FixedUpdate()
@@ -33,15 +38,11 @@ public class PlayerMovement : MonoBehaviour
         if (animator.GetBool("Running") == true)
         {
             _rigidbody.velocity = MoveInput * speed * speedMultiplier;
+            andando = true;
         }
         else
         {
             _rigidbody.velocity = MoveInput * speed;
-        }
-
-        if(MoveInput.x == 0 || MoveInput.y == 0)
-        {
-            animator.SetBool("Running", false);
         }
     }
 
@@ -52,15 +53,15 @@ public class PlayerMovement : MonoBehaviour
 
     void OnRun(InputValue inputValueRun)
     {
-        if(inputValueRun.isPressed && (MoveInput.x != 0 || MoveInput.y != 0))
+        if (inputValueRun.isPressed && (MoveInput.x != 0 || MoveInput.y != 0))
         {
             animator.SetBool("Running", true);
-        }else
+        }
+        else
         {
             animator.SetBool("Running", false);
+            andando = false;
         }
-
-        
     }
 
     void OnAim(InputValue inputValueAim)
@@ -68,7 +69,7 @@ public class PlayerMovement : MonoBehaviour
         bool isAiming = inputValueAim.isPressed;
         animator.SetBool("Aiming", isAiming);
 
-        if(!isAiming)
+        if (!isAiming)
         {
             animator.SetBool("Aiming", false);
             animator.SetBool("Shooting", true);
@@ -79,7 +80,7 @@ public class PlayerMovement : MonoBehaviour
     {
         bool isAttacking = inputValueFire.isPressed;
 
-        if(isAttacking && !attack)
+        if (isAttacking && !attack)
         {
             attack = true;
             animator.SetTrigger("" + combo);
@@ -93,11 +94,11 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Vertical", MoveInput.y);
         animator.SetFloat("Speed", MoveInput.sqrMagnitude);
 
-        if(MoveInput.x == 1 || MoveInput.x == -1 || MoveInput.y == 1 || MoveInput.y == -1)
+        if (MoveInput.x == 1 || MoveInput.x == -1 || MoveInput.y == 1 || MoveInput.y == -1)
         {
             animator.SetFloat("LastHorizontal", MoveInput.x);
             animator.SetFloat("LastVertical", MoveInput.y);
-            
+
         }
         #endregion
     }
@@ -105,7 +106,7 @@ public class PlayerMovement : MonoBehaviour
     void FlipSprite()
     {
         bool playerHasSpeed = Mathf.Abs(_rigidbody.velocity.x) > Mathf.Epsilon;
-        if(playerHasSpeed)
+        if (playerHasSpeed)
         {
             transform.localScale = new Vector2(Mathf.Sign(_rigidbody.velocity.x), transform.localScale.y);
         }
@@ -115,7 +116,7 @@ public class PlayerMovement : MonoBehaviour
     public void Start_Combo()
     {
         attack = false;
-        if(combo < 1)
+        if (combo < 1)
         {
             combo++;
         }
@@ -129,8 +130,48 @@ public class PlayerMovement : MonoBehaviour
 
     #endregion
 
+   
+    public void Shoot()
+    {
+        if (directionWhenStopped != Vector3.zero)
+        {
+            GameObject arrow = Instantiate(arrowPrefab, transform.position, Quaternion.identity);
+            ArrowController arrowController = arrow.GetComponent<ArrowController>();
+            arrowController.direction = directionWhenStopped;
+        }
+    }
+
     public void FinishShoot()
     {
         animator.SetBool("Shooting", false);
+        animator.SetBool("Aiming", false);
+    }
+
+    void ShootCheck()
+    {
+        if (MoveInput.y == 1)
+        {
+            directionWhenStopped = Vector3.up;
+            arrowPrefab.GetComponent<SpriteRenderer>().flipY = false;
+        }
+        else if (MoveInput.y == -1)
+        {
+            directionWhenStopped = Vector3.down;
+            arrowPrefab.GetComponent<SpriteRenderer>().flipY = true;
+        }
+        else if (MoveInput.x == -1)
+        {
+            directionWhenStopped = Vector3.left;
+            arrowPrefab.GetComponent<SpriteRenderer>().flipY = false;
+        }
+        else if (MoveInput.x == 1)
+        {        
+            directionWhenStopped = Vector3.right;
+            arrowPrefab.GetComponent<SpriteRenderer>().flipY = false;
+        }
+        if (_rigidbody.velocity.magnitude == 0)
+        {
+           
+        }
     }
 }
