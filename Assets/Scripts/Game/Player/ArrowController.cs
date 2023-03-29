@@ -11,9 +11,14 @@ public class ArrowController : MonoBehaviour
 
     public GameObject Player;
 
+    public float newYPosition = 0.085f;
+
+    public GameObject currentPosition;
+
     void Start()
     {
         Player = GameObject.FindGameObjectWithTag("Player");
+        currentPosition = GameObject.FindGameObjectWithTag("PointerSide");
 
         Vector3 lowerLeftCorner = Camera.main.ViewportToWorldPoint(new Vector3(0, 0, 0));
         Vector3 upperRightCorner = Camera.main.ViewportToWorldPoint(new Vector3(1, 1, 0));
@@ -26,6 +31,8 @@ public class ArrowController : MonoBehaviour
         xMax = upperRightCorner.x + halfWidth;
         yMin = lowerLeftCorner.y - halfHeight;
         yMax = upperRightCorner.y + halfHeight;
+
+        //currentPosition.transform.position = transform.position;
     }
 
     void Update()
@@ -46,12 +53,14 @@ public class ArrowController : MonoBehaviour
         {
             direction = Vector3.up;
             transform.rotation = Quaternion.Euler(new Vector3(0, 0, 90));
+            transform.position = currentPosition.transform.position;
         }
         
         if(direction.x == 1 && Player.GetComponent<PlayerMovement>().directionWhenStopped != Vector3.zero)
         {
             direction = Vector3.up;
             transform.rotation = Quaternion.Euler(new Vector3(0, 0, -90));
+            transform.position = currentPosition.transform.position;
         }
     }
 }
