@@ -665,6 +665,8 @@ MonoBehaviour:
   combo: 0
   attack: 0
   andando: 0
+  idleTime: 5
+  elapsedTime: 0
   arrowPrefab: {fileID: 1142558964182149208, guid: 62f5ad34292acf7409f445a54e1a943a, type: 3}
   directionWhenStopped: {x: 0, y: 0, z: 0}
 --- !u!1 &213051639
@@ -13861,7 +13863,7 @@ Tilemap:
       - {fileID: 2112398494, guid: 6d4d331e23bb4ad48a66b6e0b783b75a, type: 3}
       - {fileID: -43005547, guid: 6d4d331e23bb4ad48a66b6e0b783b75a, type: 3}
       - {fileID: -1078943581, guid: 6d4d331e23bb4ad48a66b6e0b783b75a, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -9, y: -4, z: 0}
@@ -17616,7 +17618,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: -867367235, guid: faca3ace843ae504781aab2df3c627f6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

@@ -15,7 +15,9 @@ public class PlayerMovement : MonoBehaviour
 
     public int combo;
     public bool attack;
-    public bool andando;
+    public bool andando = false;
+    public float idleTime = 5f; // Tempo em segundos antes de iniciar a animação de idle
+    public float elapsedTime = 0f;
 
     public GameObject arrowPrefab;
     public Vector3 directionWhenStopped;
@@ -31,6 +33,7 @@ public class PlayerMovement : MonoBehaviour
         AnimationPlayer();
         FlipSprite();
         ShootCheck();
+        IdleAnimations();
     }
 
     void FixedUpdate()
@@ -43,6 +46,7 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             _rigidbody.velocity = MoveInput * speed;
+            
         }
     }
 
@@ -74,6 +78,10 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("Aiming", false);
             animator.SetBool("Shooting", true);
         }
+        else
+        {
+            elapsedTime = 0f;
+        }
     }
 
     void OnFire(InputValue inputValueFire)
@@ -84,6 +92,7 @@ public class PlayerMovement : MonoBehaviour
         {
             attack = true;
             animator.SetTrigger("" + combo);
+            elapsedTime = 0f;
         }
     }
 
@@ -169,9 +178,52 @@ public class PlayerMovement : MonoBehaviour
             directionWhenStopped = Vector3.right;
             arrowPrefab.GetComponent<SpriteRenderer>().flipY = false;
         }
-        if (_rigidbody.velocity.magnitude == 0)
+    }
+
+
+    void IdleAnimations()
+    {
+        AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
+        if (MoveInput.magnitude > 0f)
         {
-           
+            andando = true;
+            elapsedTime = 0f;
+        } 
+        else
+        {
+            elapsedTime += Time.deltaTime;
+            andando = false;
+        }
+
+        if (!andando && elapsedTime >= idleTime)
+        {
+            animator.SetBool("isSitting", true);
+            speed = 0f;
+        }
+        
+        if (!andando && stateInfo.IsName("SitIdle") && stateInfo.normalizedTime >= 1.0f)
+        {
+            animator.SetBool("Sitting", true);
+            animator.SetBool("isSitting", false);
+        }
+
+        if(stateInfo.IsName("ContinuieSitIdle") && speed == 0f)
+        {
+            if (Input.anyKeyDown)
+            {
+                animator.SetBool("Sitting", false);
+                animator.SetBool("isSitting", false);
+                elapsedTime = 0f;
+            }
+        }
+
+        if (!andando && (stateInfo.IsName("StandIdle") && stateInfo.normalizedTime >= 1.0f))
+        {
+            animator.SetTrigger("Standing");
+            //elapsedTime = 0f;
+            AnimationPlayer();
+            speed = 0.5f;
+
         }
     }
 }
