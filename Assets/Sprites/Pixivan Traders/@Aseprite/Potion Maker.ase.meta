@@ -1,7 +1,920 @@
 fileFormatVersion: 2
 guid: b79d3ed3b4329ce48955b23d9b965074
-DefaultImporter:
+ScriptedImporter:
+  internalIDToNameTable: []
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Potion Maker_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 25
+      height: 33
+    spriteID: 9ac5d10a0507b9240b7328fee730d017
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: -12}
+  - name: Potion Maker_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 45
+      width: 25
+      height: 33
+    spriteID: b3f1769009bffb14b8f1eb1aa4e5978d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 29}
+  - name: Potion Maker_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 86
+      width: 25
+      height: 33
+    spriteID: 3e1c450a29d6d9f4889d4863a0977f71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 70}
+  - name: Potion Maker_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 127
+      width: 25
+      height: 33
+    spriteID: 0374912ccd6a28246852fa134a9449b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 111}
+  - name: Potion Maker_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 168
+      width: 25
+      height: 33
+    spriteID: b2e4605280b0d174d9472d164822a515
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 152}
+  - name: Potion Maker_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 209
+      width: 25
+      height: 33
+    spriteID: 1ff5db5f1aa3e8f4ab1e58e59debd0e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 193}
+  - name: Potion Maker_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 4
+      width: 25
+      height: 33
+    spriteID: 5ab1ae6353fb8ce4d92830c101e22905
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 17, y: -12}
+  - name: Potion Maker_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 45
+      width: 25
+      height: 33
+    spriteID: ba0c64c8c7999e94e8e15ae3372c7e28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 17, y: 29}
+  - name: Potion Maker_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 86
+      width: 25
+      height: 33
+    spriteID: 5ac02089724f4a74f8e741223efa3f76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 17, y: 70}
+  - name: Potion Maker_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 127
+      width: 25
+      height: 33
+    spriteID: c6b296ab20656354181793774bcfb507
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 17, y: 111}
+  - name: Potion Maker_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 168
+      width: 25
+      height: 33
+    spriteID: 30a57bf7d2a406244a94292684a59fb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 17, y: 152}
+  - name: Potion Maker_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 209
+      width: 25
+      height: 33
+    spriteID: b7c27011294ba99428bd649fc82e5056
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 17, y: 193}
+  - name: Potion Maker_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 4
+      width: 25
+      height: 33
+    spriteID: 54671b501ad521048b3e1a15329e17e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: -12}
+  - name: Potion Maker_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 45
+      width: 25
+      height: 33
+    spriteID: 3e5129ea07b01f6479f9f57114afe326
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 29}
+  - name: Potion Maker_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 86
+      width: 25
+      height: 33
+    spriteID: 20c2aa35c85fa234481ef59b6a100569
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 70}
+  - name: Potion Maker_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 127
+      width: 25
+      height: 33
+    spriteID: 8210df627c31f8f4e97943fe58b336ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 111}
+  - name: Potion Maker_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 168
+      width: 25
+      height: 33
+    spriteID: 95df4abfda7cb1f48ac6fb6b63e4b2e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 152}
+  - name: Potion Maker_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 209
+      width: 25
+      height: 33
+    spriteID: b842c384a84393d448442ac3887d586f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 193}
+  - name: Potion Maker_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 4
+      width: 25
+      height: 33
+    spriteID: 5fc83505040d884499fca123136c7888
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: -12}
+  - name: Potion Maker_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 118
+      width: 25
+      height: 29
+    spriteID: ddc32f5d865a9c04c9fdcb24d1e1dba5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 102}
+  - name: Potion Maker_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 45
+      width: 25
+      height: 30
+    spriteID: a1deaf882354e434fade8bd495bd6afc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 29}
+  - name: Potion Maker_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 83
+      width: 25
+      height: 30
+    spriteID: 6fb8320c267e0aa43b10e2b513dc509b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 67}
+  - name: Potion Maker_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 121
+      width: 25
+      height: 30
+    spriteID: 111276a19897e34469b8d0f61b37de94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 105}
+  - name: Potion Maker_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 159
+      width: 25
+      height: 30
+    spriteID: af7f88792b918c444b833b9d72b2f57c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 143}
+  - name: Potion Maker_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 197
+      width: 25
+      height: 30
+    spriteID: 05ad5c937332e9e4492cbfa33e743520
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 181}
+  - name: Potion Maker_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 4
+      width: 25
+      height: 30
+    spriteID: 48370f88810c9e44ba18ff707a5de264
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: -12}
+  - name: Potion Maker_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 42
+      width: 25
+      height: 30
+    spriteID: e5f2cec1b6d80544bb630e231d8e9843
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 26}
+  - name: Potion Maker_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 80
+      width: 25
+      height: 30
+    spriteID: 7d8e0a85874ec594e9cb7dc4228f1a23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 64}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1003130427
+    name: Potion Maker
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Potion Maker_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 9ac5d10a0507b9240b7328fee730d017
+    - name: Potion Maker_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: b3f1769009bffb14b8f1eb1aa4e5978d
+    - name: Potion Maker_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 3e1c450a29d6d9f4889d4863a0977f71
+    - name: Potion Maker_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 0374912ccd6a28246852fa134a9449b0
+    - name: Potion Maker_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: b2e4605280b0d174d9472d164822a515
+    - name: Potion Maker_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 1ff5db5f1aa3e8f4ab1e58e59debd0e6
+    - name: Potion Maker_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 5ab1ae6353fb8ce4d92830c101e22905
+    - name: Potion Maker_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: ba0c64c8c7999e94e8e15ae3372c7e28
+    - name: Potion Maker_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 5ac02089724f4a74f8e741223efa3f76
+    - name: Potion Maker_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: c6b296ab20656354181793774bcfb507
+    - name: Potion Maker_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 30a57bf7d2a406244a94292684a59fb9
+    - name: Potion Maker_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: b7c27011294ba99428bd649fc82e5056
+    - name: Potion Maker_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 54671b501ad521048b3e1a15329e17e8
+    - name: Potion Maker_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 3e5129ea07b01f6479f9f57114afe326
+    - name: Potion Maker_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 20c2aa35c85fa234481ef59b6a100569
+    - name: Potion Maker_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 8210df627c31f8f4e97943fe58b336ef
+    - name: Potion Maker_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 95df4abfda7cb1f48ac6fb6b63e4b2e1
+    - name: Potion Maker_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: b842c384a84393d448442ac3887d586f
+    - name: Potion Maker_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 5fc83505040d884499fca123136c7888
+    - name: Potion Maker_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: ddc32f5d865a9c04c9fdcb24d1e1dba5
+    - name: Potion Maker_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: a1deaf882354e434fade8bd495bd6afc
+    - name: Potion Maker_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 6fb8320c267e0aa43b10e2b513dc509b
+    - name: Potion Maker_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 111276a19897e34469b8d0f61b37de94
+    - name: Potion Maker_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: af7f88792b918c444b833b9d72b2f57c
+    - name: Potion Maker_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 05ad5c937332e9e4492cbfa33e743520
+    - name: Potion Maker_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 48370f88810c9e44ba18ff707a5de264
+    - name: Potion Maker_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: e5f2cec1b6d80544bb630e231d8e9843
+    - name: Potion Maker_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: -20
+        y: -16
+        width: 64
+        height: 64
+      spriteId: 7d8e0a85874ec594e9cb7dc4228f1a23
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 25, y: 33}
