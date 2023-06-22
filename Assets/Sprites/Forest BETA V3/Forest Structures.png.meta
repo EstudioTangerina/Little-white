@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,9 +43,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -69,7 +69,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -108,7 +108,952 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Forest Structures_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 320
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d02adc3dcad44aa30c33ff2c4d43a
+      internalID: 1975026962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 292
+        width: 10
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9577af9ca95b84c9bf72558287ed85
+      internalID: 1010857416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 272
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5798b699710046bdfabf9cdeec452
+      internalID: 1979503849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 160
+        width: 44
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97397ffea18bce4982e33a1dc83a219
+      internalID: -1810800457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 311
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb4aab7b45e6524f917d03bea9e675f
+      internalID: -933665642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 311
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcca766c581180e49b8145251fc4f91d
+      internalID: -811719858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 82
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 6, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d0c04125a1984f89bb04e92d1daee
+      internalID: 798303356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab5aed8d1a7d294bb19815a7f8da4cd
+      internalID: 1706041212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 292
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b227613b81a71714894c6d8927138aad
+      internalID: -1785263931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 289
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cff1bf1675ece4f982de4dcabe1dd7
+      internalID: -1158991099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 272
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc83135de42a345aca8984159e57ec
+      internalID: -1085859175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 216
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47bd65f924ff794bb713303707bdce9
+      internalID: 1181330966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaaf2815bc39664197831eab1a9c6f8
+      internalID: -96813455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 256
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9f4024d88f5224a9e6386e688d9a05
+      internalID: -998737766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 256
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725779277bffdbd4ebe9efeaa2d691e8
+      internalID: -1064985776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b5400c7f214b94792d465c57984d3c
+      internalID: 517772882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 225
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf9e1b836d18749958c0707c4d91c8
+      internalID: -451871246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539f6941f64578b43961803984579dd8
+      internalID: 1769835673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 225
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efeaa9c2b63e2d418c322e198bcff6e
+      internalID: 1241388070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 176
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a5f574c464a69419c3034f1b2adf0e
+      internalID: -661606272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 217
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb1df9de0598846b78071c1d5f30d4
+      internalID: 107419304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb927173ff50e3418ba03ec49c75861
+      internalID: 2065893407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 186
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c98308f1752304290d40535ba82dc1
+      internalID: 1826990478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 189
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8afdbfe29088ac49a72eb110a894ee7
+      internalID: 1676601337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 192
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f82794d47b17241a9593ed1e093619
+      internalID: 177026492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 186
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2761225e2625a40a57b81511c570bd
+      internalID: -1226469906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 189
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d9c4469a97f2e45a38802c63a3c893
+      internalID: -787614807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 190
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ae5a704c4cebe4eb8b3b65ac7c7a08
+      internalID: -440898900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727c78c4326c4244daa0075e475bd336
+      internalID: 1826969637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c6fdd51ee133d43b2e918ede0a4a6d
+      internalID: -589110822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b85b07d8335e499e1a9f87f2034be
+      internalID: 2087929031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c36c5573993764478ba9c2f8a774688
+      internalID: -1163072501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70daa9ef1edf374dbf3fa759ddbd2b2
+      internalID: 382400993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b00d32931df8440a99449b8561a607
+      internalID: -727009758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 26
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5ffe564e187664582c940f8d2a6e02
+      internalID: -680627163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e55f02fa7399974cb3972c4d301059c
+      internalID: 920750379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 17
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc3d2989d103e145a26174f394a79c8
+      internalID: 618442216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_38
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 17
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1336d7b580a24d9463ca3fd0722a3
+      internalID: -1634064654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 16
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32330a842c66665458aab6e381df122c
+      internalID: 488925164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 16
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f316a781b3ddbd449d6d9d6a44b18fa
+      internalID: 1080020634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62569e689bf71f64c8833955407720a0
+      internalID: -127242561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 82
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd2a8dd5ee487459edccaffbbd973e
+      internalID: 1679021444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0a139a4fcbcb42a99d6c93e675a79
+      internalID: 327104187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 82
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be84c7d1b1b7b9a419328f1a8d895dc3
+      internalID: 212025001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 8, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5091344536829644ab498cd64875a40c
+      internalID: -610602492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +1064,52 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Forest Structures_0: 1975026962
+      Forest Structures_1: 1010857416
+      Forest Structures_10: -1085859175
+      Forest Structures_11: 1181330966
+      Forest Structures_12: -96813455
+      Forest Structures_13: -998737766
+      Forest Structures_14: -1064985776
+      Forest Structures_15: 517772882
+      Forest Structures_16: -451871246
+      Forest Structures_17: 1769835673
+      Forest Structures_18: 1241388070
+      Forest Structures_19: -661606272
+      Forest Structures_2: 1979503849
+      Forest Structures_20: 107419304
+      Forest Structures_21: 2065893407
+      Forest Structures_22: 1826990478
+      Forest Structures_23: 1676601337
+      Forest Structures_24: 177026492
+      Forest Structures_25: -1226469906
+      Forest Structures_26: -787614807
+      Forest Structures_27: -440898900
+      Forest Structures_28: 1679021444
+      Forest Structures_29: 1826969637
+      Forest Structures_3: -1810800457
+      Forest Structures_30: -589110822
+      Forest Structures_31: 2087929031
+      Forest Structures_32: -1163072501
+      Forest Structures_33: 382400993
+      Forest Structures_34: -727009758
+      Forest Structures_35: -680627163
+      Forest Structures_36: 920750379
+      Forest Structures_37: 618442216
+      Forest Structures_38: -1634064654
+      Forest Structures_39: 488925164
+      Forest Structures_4: -933665642
+      Forest Structures_40: 1080020634
+      Forest Structures_41: -127242561
+      Forest Structures_42: 327104187
+      Forest Structures_43: 212025001
+      Forest Structures_44: -610602492
+      Forest Structures_5: -811719858
+      Forest Structures_6: 798303356
+      Forest Structures_7: 1706041212
+      Forest Structures_8: -1785263931
+      Forest Structures_9: -1158991099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
