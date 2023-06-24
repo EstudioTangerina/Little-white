@@ -32,7 +32,7 @@ public class PlayerMovement : MonoBehaviour
     {
         AnimationPlayer();
         FlipSprite();
-        ShootCheck();
+        //ShootCheck();
         IdleAnimations();
     }
 
@@ -68,34 +68,6 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    void OnAim(InputValue inputValueAim)
-    {
-        bool isAiming = inputValueAim.isPressed;
-        animator.SetBool("Aiming", isAiming);
-
-        if (!isAiming)
-        {
-            animator.SetBool("Aiming", false);
-            animator.SetBool("Shooting", true);
-        }
-        else
-        {
-            elapsedTime = 0f;
-        }
-    }
-
-    void OnFire(InputValue inputValueFire)
-    {
-        bool isAttacking = inputValueFire.isPressed;
-
-        if (isAttacking && !attack)
-        {
-            attack = true;
-            animator.SetTrigger("" + combo);
-            elapsedTime = 0f;
-        }
-    }
-
     void AnimationPlayer()
     {
         #region Walking
@@ -121,6 +93,19 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    #region Attack
+    /*void OnFire(InputValue inputValueFire)
+    {
+        bool isAttacking = inputValueFire.isPressed;
+
+        if (isAttacking && !attack)
+        {
+            attack = true;
+            animator.SetTrigger("" + combo);
+            elapsedTime = 0f;
+        }
+    }
+
     #region Combo
     public void Start_Combo()
     {
@@ -138,8 +123,26 @@ public class PlayerMovement : MonoBehaviour
     }
 
     #endregion
+    */
+    #endregion
 
-   
+    #region Shoot
+    /*void OnAim(InputValue inputValueAim)
+    {
+        bool isAiming = inputValueAim.isPressed;
+        animator.SetBool("Aiming", isAiming);
+
+        if (!isAiming)
+        {
+            animator.SetBool("Aiming", false);
+            animator.SetBool("Shooting", true);
+        }
+        else
+        {
+            elapsedTime = 0f;
+        }
+    }
+
     public void Shoot()
     {
         if (directionWhenStopped != Vector3.zero)
@@ -178,8 +181,8 @@ public class PlayerMovement : MonoBehaviour
             directionWhenStopped = Vector3.right;
             arrowPrefab.GetComponent<SpriteRenderer>().flipY = false;
         }
-    }
-
+    }*/
+    #endregion
 
     void IdleAnimations()
     {
