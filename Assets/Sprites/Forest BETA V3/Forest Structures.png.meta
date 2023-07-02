@@ -245,7 +245,7 @@ TextureImporter:
         height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 11, y: 0, z: 6, w: 4}
+      border: {x: 11, y: 10, z: 6, w: 6}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1054,6 +1054,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Forest Structures_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526791595c7b6b246bbcbe03b106c332
+      internalID: 682127201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest Structures_46
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c814f793a298dc4a90c7119df0b67b8
+      internalID: -113737049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1105,6 +1147,8 @@ TextureImporter:
       Forest Structures_42: 327104187
       Forest Structures_43: 212025001
       Forest Structures_44: -610602492
+      Forest Structures_45: 682127201
+      Forest Structures_46: -113737049
       Forest Structures_5: -811719858
       Forest Structures_6: 798303356
       Forest Structures_7: 1706041212
