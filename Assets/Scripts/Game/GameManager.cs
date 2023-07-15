@@ -26,13 +26,13 @@ public class GameManager : MonoBehaviour
         if (horaAtual < tempoDia)
         {
             float t = horaAtual / tempoDia; // Interpolação linear entre 0 e 1
-            luz.color = Color.Lerp(corNoite, corDia, t);
+            luz.color = Color.Lerp(corDia, corNoite, t);
             luzLago.intensity = Mathf.Lerp(0.6f, 0f, t);
         }
         else
         {
             float t = (horaAtual - tempoDia) / tempoNoite; // Interpolação linear entre 0 e 1
-            luz.color = Color.Lerp(corDia, corNoite, t);
+            luz.color = Color.Lerp(corNoite, corDia, t);
             luzLago.intensity = Mathf.Lerp(0f, 0.6f, t);
         }
     }
