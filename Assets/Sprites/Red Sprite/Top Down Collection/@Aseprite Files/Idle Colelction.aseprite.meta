@@ -2,7 +2,27 @@ fileFormatVersion: 2
 guid: cdd52e6d3187cd444ab5800c1a4a359f
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Crying
+    second: {fileID: 7400000, guid: 9dce736c6f2311d448d3c0b2279e56a0, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Sleep
+    second: {fileID: 7400000, guid: d82653a266d9cfa42b5114e2108e200f, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Smug
+    second: {fileID: 7400000, guid: bfe7b6050231c2f419b133089d24deb8, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Tag
+    second: {fileID: 7400000, guid: 221493ce137c6204792a4ae5f7134113, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -95,7 +115,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638255649978372154
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -2202,7 +2222,43 @@ ScriptedImporter:
       spriteId: 187680d87f6f57941ac50bd784bf4ad7
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 16, y: 26}
