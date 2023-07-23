@@ -66,6 +66,11 @@ ScriptedImporter:
   - first:
       type: UnityEngine:AnimationClip
       assembly: UnityEngine.AnimationModule
+      name: Shieldle
+    second: {fileID: 7400000, guid: a3e1ed129bb91f947ac2219a115dd55c, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
       name: Shot
     second: {fileID: 7400000, guid: 84cb043ea3617f341b328f28d0341caf, type: 2}
   - first:
@@ -175,7 +180,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638255653466277751
+  platformSettingsDirtyTick: 638256393193788965
   textureAssetName: 
   singleSpriteImportData:
   - name: 

@@ -51,6 +51,11 @@ ScriptedImporter:
   - first:
       type: UnityEngine:AnimationClip
       assembly: UnityEngine.AnimationModule
+      name: ShiIdle
+    second: {fileID: 7400000, guid: f87ba1ce547eb5948886e913fbb68e86, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
       name: Shield
     second: {fileID: 7400000, guid: 6c9541ed075c9254a85ef3a5e1e78d83, type: 2}
   - first:
@@ -165,7 +170,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638255653248118067
+  platformSettingsDirtyTick: 638256391930061718
   textureAssetName: 
   singleSpriteImportData:
   - name: 

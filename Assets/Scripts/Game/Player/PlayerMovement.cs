@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.InputSystem;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -22,6 +23,7 @@ public class PlayerMovement : MonoBehaviour
     public GameObject arrowPrefab;
     public Vector3 directionWhenStopped;
 
+
     void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
@@ -33,7 +35,7 @@ public class PlayerMovement : MonoBehaviour
         AnimationPlayer();
         FlipSprite();
         //ShootCheck();
-        IdleAnimations();
+        //IdleAnimations();
     }
 
     void FixedUpdate()
@@ -48,6 +50,11 @@ public class PlayerMovement : MonoBehaviour
             _rigidbody.velocity = MoveInput * speed;
             
         }
+
+        if (MoveInput == Vector2.zero)
+        {
+            animator.SetBool("Running", false);
+        }
     }
 
     void OnMove(InputValue inputValue)
@@ -57,10 +64,13 @@ public class PlayerMovement : MonoBehaviour
 
     void OnRun(InputValue inputValueRun)
     {
+
+        // Verifica se o jogador está pressionando o botão de corrida e se há movimento
         if (inputValueRun.isPressed && (MoveInput.x != 0 || MoveInput.y != 0))
         {
             animator.SetBool("Running", true);
         }
+        // Verifica se o jogador está pressionando o botão de corrida, mas não há movimento nos eixos x e y
         else
         {
             animator.SetBool("Running", false);
@@ -86,10 +96,18 @@ public class PlayerMovement : MonoBehaviour
 
     void FlipSprite()
     {
-        bool playerHasSpeed = Mathf.Abs(_rigidbody.velocity.x) > Mathf.Epsilon;
+        /*bool playerHasSpeed = Mathf.Abs(_rigidbody.velocity.x) > Mathf.Epsilon;
         if (playerHasSpeed)
         {
-            transform.localScale = new Vector2(Mathf.Sign(_rigidbody.velocity.x), transform.localScale.y);
+            //transform.localScale = new Vector2(Mathf.Sign(_rigidbody.velocity.x), transform.localScale.y);
+        }*/
+
+        if(MoveInput.x < -0.01f)
+        {
+            GetComponent<SpriteRenderer>().flipX = true;
+        } else if (MoveInput.x > 0.01f)
+        {
+            GetComponent<SpriteRenderer>().flipX = false;
         }
     }
 
@@ -184,6 +202,7 @@ public class PlayerMovement : MonoBehaviour
     }*/
     #endregion
 
+    /*
     void IdleAnimations()
     {
         AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
@@ -228,5 +247,5 @@ public class PlayerMovement : MonoBehaviour
             speed = 0.5f;
 
         }
-    }
+    }*/
 }

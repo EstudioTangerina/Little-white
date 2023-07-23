@@ -76,6 +76,11 @@ ScriptedImporter:
   - first:
       type: UnityEngine:AnimationClip
       assembly: UnityEngine.AnimationModule
+      name: Shieldle
+    second: {fileID: 7400000, guid: 1d590355a38e80a449b27dac05ae46ed, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
       name: Spear Pierce
     second: {fileID: 7400000, guid: 148d45eb4372eed4a82afebe72f7138c, type: 2}
   - first:
@@ -180,7 +185,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638255654064216927
+  platformSettingsDirtyTick: 638256393399438551
   textureAssetName: 
   singleSpriteImportData:
   - name: 
