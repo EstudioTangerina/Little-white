@@ -35,7 +35,7 @@ public class PlayerMovement : MonoBehaviour
         AnimationPlayer();
         FlipSprite();
         //ShootCheck();
-        //IdleAnimations();
+        IdleAnimations();
     }
 
     void FixedUpdate()
@@ -202,7 +202,6 @@ public class PlayerMovement : MonoBehaviour
     }*/
     #endregion
 
-    /*
     void IdleAnimations()
     {
         AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
@@ -219,11 +218,20 @@ public class PlayerMovement : MonoBehaviour
 
         if (!andando && elapsedTime >= idleTime)
         {
-            animator.SetBool("isSitting", true);
+            animator.Play("Smug");
             speed = 0f;
         }
-        
-        if (!andando && stateInfo.IsName("SitIdle") && stateInfo.normalizedTime >= 1.0f)
+
+        if (stateInfo.IsName("Smug") && speed == 0f)
+        {
+            if (Input.anyKeyDown)
+            {
+                animator.Play("Idle Direction");
+                elapsedTime = 0f;
+            }
+        }
+
+        /*if (!andando && stateInfo.IsName("SitIdle") && stateInfo.normalizedTime >= 1.0f)
         {
             animator.SetBool("Sitting", true);
             animator.SetBool("isSitting", false);
@@ -246,6 +254,6 @@ public class PlayerMovement : MonoBehaviour
             AnimationPlayer();
             speed = 0.5f;
 
-        }
-    }*/
+        }*/
+    }
 }
