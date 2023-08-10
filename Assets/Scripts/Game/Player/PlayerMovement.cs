@@ -228,6 +228,7 @@ public class PlayerMovement : MonoBehaviour
             {
                 animator.Play("Idle Direction");
                 elapsedTime = 0f;
+                speed = 0.5f;
             }
         }
 
