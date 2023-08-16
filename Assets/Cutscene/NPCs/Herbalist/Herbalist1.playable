@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     txtToParse: {fileID: 4900000, guid: d023e8da08f87e040a05b42cda419b84, type: 3}
-    lineToStart: 40
-    lineToBreak: 40
+    lineToStart: 41
+    lineToBreak: 41
     textSpeed: 50
     pauseUntilTalkEnd: 1
     autoPass: 0
@@ -236,8 +236,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     txtToParse: {fileID: 4900000, guid: d023e8da08f87e040a05b42cda419b84, type: 3}
-    lineToStart: 26
-    lineToBreak: 26
+    lineToStart: 27
+    lineToBreak: 27
     textSpeed: 50
     pauseUntilTalkEnd: 1
     autoPass: 0
@@ -1011,8 +1011,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     txtToParse: {fileID: 4900000, guid: d023e8da08f87e040a05b42cda419b84, type: 3}
-    lineToStart: 34
-    lineToBreak: 35
+    lineToStart: 35
+    lineToBreak: 36
     textSpeed: 50
     pauseUntilTalkEnd: 1
     autoPass: 0
@@ -1031,8 +1031,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     txtToParse: {fileID: 4900000, guid: d023e8da08f87e040a05b42cda419b84, type: 3}
-    lineToStart: 28
-    lineToBreak: 29
+    lineToStart: 29
+    lineToBreak: 30
     textSpeed: 50
     pauseUntilTalkEnd: 1
     autoPass: 0
@@ -1192,8 +1192,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     txtToParse: {fileID: 4900000, guid: d023e8da08f87e040a05b42cda419b84, type: 3}
-    lineToStart: 31
-    lineToBreak: 32
+    lineToStart: 32
+    lineToBreak: 33
     textSpeed: 50
     pauseUntilTalkEnd: 1
     autoPass: 0
@@ -1212,8 +1212,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   template:
     txtToParse: {fileID: 4900000, guid: d023e8da08f87e040a05b42cda419b84, type: 3}
-    lineToStart: 37
-    lineToBreak: 38
+    lineToStart: 38
+    lineToBreak: 39
     textSpeed: 50
     pauseUntilTalkEnd: 1
     autoPass: 0
