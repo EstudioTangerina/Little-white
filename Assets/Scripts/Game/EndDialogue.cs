@@ -10,6 +10,7 @@ public class EndDialogue : MonoBehaviour
     public PlayableDirector director;
     public GameObject player;
     public GameObject TalkArea;
+    public GameObject OtherTalkArea;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,6 +24,7 @@ public class EndDialogue : MonoBehaviour
         {
             fix = true;
             player.GetComponent<PlayerMovement>().enabled = true;
+            OtherTalkArea.SetActive(true);
         }
     }
 }

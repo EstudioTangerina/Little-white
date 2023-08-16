@@ -21,3 +21,21 @@ BlackSmith: Acredito que ela deva saber uma forma de você voltar.
 BlackSmith: Ela vai muito pra floresta então acredito que vá ser de grande ajuda.
 //Speech Happy
 [title=BlackSmith-end]
+
+[title=Herbalist-begin]
+Herbalist: Olá menininha, eu nunca vi você por aqui, por acaso é uma moradora nova ?
+//Speech Tag
+Herbalist: Ah [jitter=5 angle=1]hahaha[/jitter] que falta de educação minha !
+Herbalist: <size=32>Meu nome é Ofélia, as pessoas me chamas de garota das ervas. Isso é pelo fato de eu conseguir criar poções com elas</size> [jitter=5 angle=1]hihihi.[/jitter] 
+//Speech Smug
+Herbalist: Ah, desculpa mocinha, eu fico muito empolgada com esse assunto.
+Herbalist: Mas acredito que o Kleb tenha te falado algo sobre como você volta pra sua casa né ?
+//Speech Shock
+Herbalist: [jitter=5 angle=1]Hahaha[/jitter]. Sempre quando é algo relacionado a floresta ele recorre a mim.
+Herbalist: Mas posso ver isso pra você, eu só preciso que você faça algo pra mim rapidinho.
+//Speech Normal
+Herbalist: Bem ao Oeste daqui, existe um lago que se chama lago perdido.
+Herbalist: Lá tem um brotinho de árvore que está encantado com algo que eu queria pesquisar sobre.
+//Speech Anxious
+Herbalist: <size=32>Pode ficar bem tranquila, eu vou a essa floresta desde que eu era pequena, então é 0% de chance de algum monstro aparecer !!</size>
+[title=Herbalist-end]
