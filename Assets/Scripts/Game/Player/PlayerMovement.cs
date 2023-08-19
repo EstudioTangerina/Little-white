@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D _rigidbody;
     public Vector2 MoveInput;
-    private Animator animator;
+    public Animator animator;
 
     public int combo;
     public bool attack;
@@ -23,11 +23,11 @@ public class PlayerMovement : MonoBehaviour
     public GameObject arrowPrefab;
     public Vector3 directionWhenStopped;
 
-
     void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        
     }
 
     void Update()
@@ -57,7 +57,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    void OnMove(InputValue inputValue)
+    public void OnMove(InputValue inputValue)
     {
         MoveInput = inputValue.Get<Vector2>();
     }
@@ -228,7 +228,7 @@ public class PlayerMovement : MonoBehaviour
             {
                 animator.Play("Idle Direction");
                 elapsedTime = 0f;
-                speed = 0.5f;
+                speed = 1f;
             }
         }
 
