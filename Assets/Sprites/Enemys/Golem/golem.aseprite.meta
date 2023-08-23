@@ -1,0 +1,3608 @@
+fileFormatVersion: 2
+guid: fe1c4eb650f348c45815e6ad449497c9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: golem_Frame_4
+    originalName: 
+    pivot: {x: 0.5166667, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 444
+      width: 60
+      height: 64
+    spriteID: bb6a0ba7c7673e848a28ba3c656caaf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 444}
+  - name: golem_Frame_5
+    originalName: 
+    pivot: {x: 0.52459013, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 73
+      width: 61
+      height: 64
+    spriteID: 91b552d7ae4e8b64bb1c0f80fffbc45b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 73}
+  - name: golem_Frame_6
+    originalName: 
+    pivot: {x: 0.5166667, y: -0.061538465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 145
+      width: 60
+      height: 65
+    spriteID: b3bcb61d3f483f444be86c03ea10324c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 145}
+  - name: golem_Frame_7
+    originalName: 
+    pivot: {x: 0.5166667, y: -0.061538465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 218
+      width: 60
+      height: 65
+    spriteID: d44bd78d11c493c4da856d34eeab5268
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 218}
+  - name: golem_Frame_8
+    originalName: 
+    pivot: {x: 0.5166667, y: -0.061538465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 291
+      width: 60
+      height: 65
+    spriteID: 576244ee4850cc34fac441c18cc0c133
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 291}
+  - name: golem_Frame_9
+    originalName: 
+    pivot: {x: 0.48333332, y: -0.048387095}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 732
+      width: 60
+      height: 62
+    spriteID: 26d985f5b09133c49a74f36ade6a33a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 732}
+  - name: golem_Frame_10
+    originalName: 
+    pivot: {x: 0.48333332, y: -0.04761905}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 516
+      width: 60
+      height: 63
+    spriteID: f0e84bee1e8dc2748a331a995c286f13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 516}
+  - name: golem_Frame_11
+    originalName: 
+    pivot: {x: 0.4912281, y: -0.046153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 873
+      width: 57
+      height: 65
+    spriteID: 9903e2806b1b8c94da798d462a749694
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 873}
+  - name: golem_Frame_12
+    originalName: 
+    pivot: {x: 0.48214287, y: -0.046153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 378
+      width: 56
+      height: 65
+    spriteID: 3042d725d000fdc45bcc11f1aaa86d2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 378}
+  - name: golem_Frame_13
+    originalName: 
+    pivot: {x: 0.48214287, y: -0.046875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 808
+      width: 56
+      height: 64
+    spriteID: c946f8cf0e508274b8f7d4b48ebc3b0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 808}
+  - name: golem_Frame_14
+    originalName: 
+    pivot: {x: 0.45762712, y: -0.08064517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 236
+      width: 59
+      height: 62
+    spriteID: 07f498be451a61d408827160922c47b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 236}
+  - name: golem_Frame_15
+    originalName: 
+    pivot: {x: 0.45762712, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 802
+      width: 59
+      height: 63
+    spriteID: be16d2c1a0cea6943924ea3efa151492
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 802}
+  - name: golem_Frame_16
+    originalName: 
+    pivot: {x: 0.4561403, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 524
+      width: 57
+      height: 63
+    spriteID: 35b790c5bc951c24f85d9697be1f352f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 524}
+  - name: golem_Frame_17
+    originalName: 
+    pivot: {x: 0.4561403, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 595
+      width: 57
+      height: 63
+    spriteID: f191b303a7fb3a64c9e4588f898496b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 595}
+  - name: golem_Frame_18
+    originalName: 
+    pivot: {x: 0.4561403, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 666
+      width: 57
+      height: 63
+    spriteID: 9377e61d2b077824eb2fbbc5c9d97714
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 666}
+  - name: golem_Frame_19
+    originalName: 
+    pivot: {x: 0.58928573, y: -0.046153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 451
+      width: 56
+      height: 65
+    spriteID: 5b23af02ada0f5e40ba111db9d913053
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 451}
+  - name: golem_Frame_20
+    originalName: 
+    pivot: {x: 0.5964913, y: -0.045454543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 658
+      width: 57
+      height: 66
+    spriteID: 68f864df4c2de104388635b9cd37b46d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 658}
+  - name: golem_Frame_21
+    originalName: 
+    pivot: {x: 0.6071429, y: -0.045454543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 946
+      width: 56
+      height: 66
+    spriteID: 3fa17fd83f2261744a368b79331a2476
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 946}
+  - name: golem_Frame_22
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.045454543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 880
+      width: 54
+      height: 66
+    spriteID: e3639e9ec354a4a4a949410b73eede41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 880}
+  - name: golem_Frame_23
+    originalName: 
+    pivot: {x: 0.58928573, y: -0.045454543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 162
+      width: 56
+      height: 66
+    spriteID: 0658ed55afaaaba44a99d2a651045e2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 162}
+  - name: golem_Frame_24
+    originalName: 
+    pivot: {x: 0.5744681, y: -0.045454543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 889
+      width: 47
+      height: 66
+    spriteID: 689f8b76c7a3feb4993dc2d2dd3ae078
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 889}
+  - name: golem_Frame_25
+    originalName: 
+    pivot: {x: 0.5531914, y: -0.08064517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 876
+      width: 47
+      height: 62
+    spriteID: 0150fb5837a35884b8b376cb2280588e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 876}
+  - name: golem_Frame_26
+    originalName: 
+    pivot: {x: 0.6052632, y: -0.06451613}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 877
+      width: 38
+      height: 62
+    spriteID: 32a50a6aa911f174297a7684ffa5566d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 877}
+  - name: golem_Frame_27
+    originalName: 
+    pivot: {x: 0.5799999, y: -0.08196721}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 137
+      width: 50
+      height: 61
+    spriteID: f038914a1853c3b439c0dae2dcbf0566
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 137}
+  - name: golem_Frame_28
+    originalName: 
+    pivot: {x: 0.53999996, y: -0.09836065}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 206
+      width: 50
+      height: 61
+    spriteID: de018ec2e3db13f4180defdd86683d69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 206}
+  - name: golem_Frame_29
+    originalName: 
+    pivot: {x: 0.5675675, y: -0.11666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 947
+      width: 37
+      height: 60
+    spriteID: 6e58e1d0d673afa47b35ad6e0e9b08f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 947}
+  - name: golem_Frame_30
+    originalName: 
+    pivot: {x: 0.44680852, y: -0.06557377}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 341
+      width: 47
+      height: 61
+    spriteID: eb7ecdb6b2a7da34d8ee0853943b2cc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 341}
+  - name: golem_Frame_31
+    originalName: 
+    pivot: {x: 0.42, y: -0.049180325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 275
+      width: 50
+      height: 61
+    spriteID: 93f1e0ab19af0c24db02eff3aad80f32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 275}
+  - name: golem_Frame_32
+    originalName: 
+    pivot: {x: 0.46, y: -0.0862069}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 4
+      width: 50
+      height: 58
+    spriteID: 85fa045cbd80f6743ac512002eece609
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 4}
+  - name: golem_Frame_33
+    originalName: 
+    pivot: {x: 0.53191495, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 753
+      width: 47
+      height: 60
+    spriteID: e7d3060b85a9a4647bff7a8fdcf0af40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 753}
+  - name: golem_Frame_34
+    originalName: 
+    pivot: {x: 0.47272724, y: -0.048387095}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 491
+      width: 55
+      height: 62
+    spriteID: 97280a6f481405548a96605eb5469ac2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 491}
+  - name: golem_Frame_35
+    originalName: 
+    pivot: {x: 0.4230769, y: -0.08474577}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 70
+      width: 52
+      height: 59
+    spriteID: 67ae25105436c18498a6e1ae64e32db0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 70}
+  - name: golem_Frame_36
+    originalName: 
+    pivot: {x: 0.5849057, y: -0.061538465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 350
+      width: 53
+      height: 65
+    spriteID: 77878fac35ddc54438e334f191d83c3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 350}
+  - name: golem_Frame_37
+    originalName: 
+    pivot: {x: 0.5652173, y: -0.06349207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 202
+      width: 46
+      height: 63
+    spriteID: 3dcd55693ee831947b1e5485e3aeebd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 202}
+  - name: golem_Frame_38
+    originalName: 
+    pivot: {x: 0.59375, y: -0.10169492}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 574
+      y: 624
+      width: 32
+      height: 59
+    spriteID: c1c7ca117d5d55241ab66819d426371c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 574, y: 624}
+  - name: golem_Frame_39
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.08064517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 280
+      width: 56
+      height: 62
+    spriteID: 989d07d451505f842990a30294c9c638
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 280}
+  - name: golem_Frame_40
+    originalName: 
+    pivot: {x: 0.61702126, y: -0.09836065}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 410
+      width: 47
+      height: 61
+    spriteID: 4e90d4dd21f1474499d9dd9c446d8364
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 410}
+  - name: golem_Frame_41
+    originalName: 
+    pivot: {x: 0.6, y: -0.09836065}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 624
+      width: 35
+      height: 61
+    spriteID: 05d6dc9c9d1d9d74e9fdf242d332284f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 624}
+  - name: golem_Frame_42
+    originalName: 
+    pivot: {x: 0.3777778, y: -0.06349207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 682
+      width: 45
+      height: 63
+    spriteID: 05442a06fecda42499fee89d49cf07df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 682}
+  - name: golem_Frame_43
+    originalName: 
+    pivot: {x: 0.45098042, y: -0.09836065}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 820
+      width: 51
+      height: 61
+    spriteID: 6e2a360159707804fabde191c02ce279
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 820}
+  - name: golem_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: -0.099999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 273
+      width: 48
+      height: 60
+    spriteID: 8d880e21a81d838458838539e5a57658
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 273}
+  - name: golem_Frame_45
+    originalName: 
+    pivot: {x: 0.5510204, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 542
+      width: 49
+      height: 64
+    spriteID: b7a6b58d4f2c1874f8b87aface961076
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 542}
+  - name: golem_Frame_46
+    originalName: 
+    pivot: {x: 0.4489796, y: -0.08064517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 344
+      width: 49
+      height: 62
+    spriteID: 302e79bb81c0ea0489a65b5fd96c069d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 344}
+  - name: golem_Frame_47
+    originalName: 
+    pivot: {x: 0.42222223, y: -0.099999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 888
+      width: 45
+      height: 60
+    spriteID: 101efbc58de2055429172c584ce0862f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 888}
+  - name: golem_Frame_48
+    originalName: 
+    pivot: {x: 0.52542377, y: -0.056338027}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 59
+      height: 71
+    spriteID: 3620b9210a6a1c9448cd052bf92b850f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: golem_Frame_49
+    originalName: 
+    pivot: {x: 0.4912281, y: -0.056338027}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 83
+      width: 57
+      height: 71
+    spriteID: c252a186a3a93c74ab5f53535ad8aa36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 83}
+  - name: golem_Frame_50
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.055555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 364
+      width: 54
+      height: 72
+    spriteID: fdcb0aaca1fc243448790142431d95ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 364}
+  - name: golem_Frame_51
+    originalName: 
+    pivot: {x: 0.73846155, y: -0.06557377}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 4
+      width: 65
+      height: 61
+    spriteID: a04b75133e1b8bd4dae4a2d7495c825f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 4}
+  - name: golem_Frame_52
+    originalName: 
+    pivot: {x: 0.73015875, y: -0.0754717}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 695
+      width: 63
+      height: 53
+    spriteID: 921a26f0f40c47e4eacf4fb5bd830089
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 695}
+  - name: golem_Frame_53
+    originalName: 
+    pivot: {x: 0.734375, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 4
+      width: 64
+      height: 54
+    spriteID: 64c18e8d468dcc94f92d1975ea69da2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 4}
+  - name: golem_Frame_54
+    originalName: 
+    pivot: {x: 0.73015875, y: -0.06896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 4
+      width: 63
+      height: 58
+    spriteID: 04e9e85751903ce459ab35b959d6ed9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 4}
+  - name: golem_Frame_55
+    originalName: 
+    pivot: {x: 0.48076928, y: -0.14285713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 946
+      width: 52
+      height: 56
+    spriteID: 3adac23fc3c5203438ced0c45c891d4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 946}
+  - name: golem_Frame_56
+    originalName: 
+    pivot: {x: 0.47169816, y: -0.14035088}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 963
+      width: 53
+      height: 57
+    spriteID: ddceadc1d91a6bd439c497a99fc0b547
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 963}
+  - name: golem_Frame_57
+    originalName: 
+    pivot: {x: 0.47169816, y: -0.14035088}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 414
+      width: 53
+      height: 57
+    spriteID: c5137e44f097c99409a54a3674cdb4d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 414}
+  - name: golem_Frame_58
+    originalName: 
+    pivot: {x: 0.462963, y: -0.06}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 186
+      width: 54
+      height: 50
+    spriteID: 250370e809de53f428e554528b93bde4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 186}
+  - name: golem_Frame_59
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 4
+      width: 55
+      height: 50
+    spriteID: 7b3f1ad315b7b2948a62cd7d494ad29f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 4}
+  - name: golem_Frame_60
+    originalName: 
+    pivot: {x: 0.37999997, y: -0.06}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 765
+      width: 50
+      height: 50
+    spriteID: 817511387185dc649ad55b808895b67b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 765}
+  - name: golem_Frame_61
+    originalName: 
+    pivot: {x: 0.462963, y: -0.15686275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 4
+      width: 54
+      height: 51
+    spriteID: 6632a54d17af49d4485e6f19f90638a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 4}
+  - name: golem_Frame_62
+    originalName: 
+    pivot: {x: 0.42222223, y: -0.10344827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 500
+      width: 45
+      height: 58
+    spriteID: 030d3d9f1c7d538488d754270854b641
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 500}
+  - name: golem_Frame_63
+    originalName: 
+    pivot: {x: 0.40476194, y: -0.099999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 697
+      width: 42
+      height: 60
+    spriteID: 6dcffb9b16cbdf347a6b733189b837a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 697}
+  - name: golem_Frame_64
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.09836065}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 616
+      width: 49
+      height: 61
+    spriteID: bebe0c67ede60d348b60b8d897e69965
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 616}
+  - name: golem_Frame_65
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 479
+      width: 44
+      height: 65
+    spriteID: b520217e0c0d23548a32031d3187b8bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 479}
+  - name: golem_Frame_66
+    originalName: 
+    pivot: {x: 0.4888889, y: -0.08474577}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 244
+      width: 45
+      height: 59
+    spriteID: 726afd61992233640aa16ea782faf53e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 244}
+  - name: golem_Frame_67
+    originalName: 
+    pivot: {x: 0.5, y: -0.0862069}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 631
+      width: 44
+      height: 58
+    spriteID: 1a1550de48fa7a645bdf1a9c0c70fcff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 631}
+  - name: golem_Frame_68
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.08474577}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 821
+      width: 47
+      height: 59
+    spriteID: de6deeaa051262040aa96065b0991a98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 821}
+  - name: golem_Frame_69
+    originalName: 
+    pivot: {x: 0.5964913, y: -0.109375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 306
+      width: 57
+      height: 64
+    spriteID: 05e45aaeef123e147adb7d0a4c41a89b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 306}
+  - name: golem_Frame_70
+    originalName: 
+    pivot: {x: 0.6938776, y: -0.109375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 614
+      width: 49
+      height: 64
+    spriteID: 768dc8772ba8eaf42837ca383b4da98d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 614}
+  - name: golem_Frame_71
+    originalName: 
+    pivot: {x: 0.68085104, y: -0.109375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 544
+      width: 47
+      height: 64
+    spriteID: 0dbc26abb0e71d54491c69ee33aa12e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 544}
+  - name: golem_Frame_72
+    originalName: 
+    pivot: {x: 0.4339623, y: -0.06557377}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 133
+      width: 53
+      height: 61
+    spriteID: 52ec101aec7c85c4aa5cee3ec5395710
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 133}
+  - name: golem_Frame_73
+    originalName: 
+    pivot: {x: 0.45098042, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 63
+      width: 51
+      height: 54
+    spriteID: 185c578a81688dc4da48effaa1ade7e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 63}
+  - name: golem_Frame_74
+    originalName: 
+    pivot: {x: 0.45098042, y: -0.0754717}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 125
+      width: 51
+      height: 53
+    spriteID: bd90216c391e66a43a667f515cb225e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 125}
+  - name: golem_Frame_75
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.07017544}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 566
+      width: 45
+      height: 57
+    spriteID: 29d1a2b9ffa20cb46972fce0af2696d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 566}
+  - name: golem_Frame_76
+    originalName: 
+    pivot: {x: 0.462963, y: -0.06779661}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 408
+      width: 54
+      height: 59
+    spriteID: 2a7f91750a9736048aa9329fbca0abca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 408}
+  - name: golem_Frame_77
+    originalName: 
+    pivot: {x: 0.4912281, y: -0.06779661}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 561
+      width: 57
+      height: 59
+    spriteID: fd77ebb5052154c439c5558818269ce6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 561}
+  - name: golem_Frame_78
+    originalName: 
+    pivot: {x: 0.48214287, y: -0.06349207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 138
+      width: 56
+      height: 63
+    spriteID: f094f8c2fb57c914ab31244859dbe98d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 138}
+  - name: golem_Frame_79
+    originalName: 
+    pivot: {x: 0.44680852, y: -0.07142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 372
+      width: 47
+      height: 56
+    spriteID: deb8ae479d6e5564b9186ecb3efca0a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 372}
+  - name: golem_Frame_80
+    originalName: 
+    pivot: {x: 0.46, y: -0.07017544}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 552
+      width: 50
+      height: 57
+    spriteID: 62fafa9054a0da444a470e987beda25b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 552}
+  - name: golem_Frame_81
+    originalName: 
+    pivot: {x: 0.46, y: -0.06896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 70
+      width: 50
+      height: 58
+    spriteID: 34dfe2cce19389049a8936f60029da37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 70}
+  - name: golem_Frame_82
+    originalName: 
+    pivot: {x: 0.5192308, y: -0.09677419}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 202
+      width: 52
+      height: 62
+    spriteID: d340d28dc51ffe4449072022419d07dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 202}
+  - name: golem_Frame_83
+    originalName: 
+    pivot: {x: 0.5471698, y: -0.10169492}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 686
+      width: 53
+      height: 59
+    spriteID: 1eabad37c07782447a1eae70de27ac59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 686}
+  - name: golem_Frame_84
+    originalName: 
+    pivot: {x: 0.47169816, y: -0.09677419}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 823
+      width: 53
+      height: 62
+    spriteID: e0ea3c35ac0ab374f9ec8c7629b01c32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 823}
+  - name: golem_Frame_85
+    originalName: 
+    pivot: {x: 0.47169816, y: -0.1090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 813
+      width: 53
+      height: 55
+    spriteID: 72039edc51ed05d4f82642a0be018d15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 813}
+  - name: golem_Frame_86
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.10344827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 342
+      width: 55
+      height: 58
+    spriteID: c3440bbc804d5094d998bf11d45edbd7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 342}
+  - name: golem_Frame_87
+    originalName: 
+    pivot: {x: 0.4561403, y: -0.10169492}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 628
+      width: 57
+      height: 59
+    spriteID: 2ba52d867ec61c44f8f4eb0dc4b34f91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 628}
+  - name: golem_Frame_88
+    originalName: 
+    pivot: {x: 0.462963, y: -0.06779661}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 475
+      width: 54
+      height: 59
+    spriteID: 48d72439585a5614f9b7e63859975506
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 475}
+  - name: golem_Frame_89
+    originalName: 
+    pivot: {x: 0.48214287, y: -0.06779661}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 756
+      width: 56
+      height: 59
+    spriteID: c1b817f216c3916499d286e2aa2a0d74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 756}
+  - name: golem_Frame_90
+    originalName: 
+    pivot: {x: 0.48214287, y: -0.06349207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 209
+      width: 56
+      height: 63
+    spriteID: 25f4561997295b54ebe57762280460c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 209}
+  - name: golem_Frame_91
+    originalName: 
+    pivot: {x: 0.41509432, y: -0.01724138}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 4
+      width: 53
+      height: 58
+    spriteID: 1de96d0e22220bf488677265f9830127
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 4}
+  - name: golem_Frame_92
+    originalName: 
+    pivot: {x: 0.36363637, y: -0.06382979}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 132
+      width: 55
+      height: 47
+    spriteID: 48a906e99fd018345956361a272867d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 132}
+  - name: golem_Frame_93
+    originalName: 
+    pivot: {x: 0.37288132, y: -0.023255814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 187
+      width: 59
+      height: 43
+    spriteID: 6151c9dd07849624ba16e2bc0d380d4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 187}
+  - name: golem_Frame_94
+    originalName: 
+    pivot: {x: 0.359375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 409
+      width: 64
+      height: 36
+    spriteID: a3693037b08d46441a2ac8ce57751fef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 409}
+  - name: golem_Frame_95
+    originalName: 
+    pivot: {x: 0.31666666, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 535
+      width: 60
+      height: 36
+    spriteID: 06fbac2ec13f3654990f487c06367a2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 535}
+  - name: golem_Frame_96
+    originalName: 
+    pivot: {x: 0.32203388, y: -0.16129033}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 770
+      width: 59
+      height: 31
+    spriteID: 48faea95ef6a315499e4642b4026f3c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 770}
+  - name: golem_Frame_97
+    originalName: 
+    pivot: {x: 0.5192308, y: -0.09677419}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 272
+      width: 52
+      height: 62
+    spriteID: d3bdafacd1256f94d9ea666da62b17ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 272}
+  - name: golem_Frame_98
+    originalName: 
+    pivot: {x: 0.5471698, y: -0.10169492}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 753
+      width: 53
+      height: 59
+    spriteID: 85e51d1a234df3a45a275011051cc4ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 753}
+  - name: golem_Frame_99
+    originalName: 
+    pivot: {x: 0.47169816, y: -0.09677419}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 893
+      width: 53
+      height: 62
+    spriteID: 3370a77b65319154081f3b098076a625
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 893}
+  - name: golem_Frame_100
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.10344827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 956
+      width: 46
+      height: 58
+    spriteID: 5b5c8fd018e0b7c438d71b5e84bbdaf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 956}
+  - name: golem_Frame_101
+    originalName: 
+    pivot: {x: 0.48, y: -0.05660377}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 311
+      width: 50
+      height: 53
+    spriteID: 7128b4ab7e200f34fb64776bb0b55175
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 311}
+  - name: golem_Frame_102
+    originalName: 
+    pivot: {x: 0.421875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 238
+      width: 64
+      height: 39
+    spriteID: 5081c574e0adabe49980de6f58f35901
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 238}
+  - name: golem_Frame_103
+    originalName: 
+    pivot: {x: 0.38235292, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 328
+      width: 68
+      height: 35
+    spriteID: af02ca7fede4519458f894868f7bc63d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 328}
+  - name: golem_Frame_104
+    originalName: 
+    pivot: {x: 0.40000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 285
+      width: 70
+      height: 35
+    spriteID: a6a1ff885d8aaa540a879096b9863d62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 285}
+  - name: golem_Frame_105
+    originalName: 
+    pivot: {x: 0.36363637, y: -0.12903225}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 731
+      width: 66
+      height: 31
+    spriteID: a1b5f565c6af5aa48a89463a3645e2b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 731}
+  - name: golem_Frame_106
+    originalName: 
+    pivot: {x: 0.44680852, y: -0.07142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 436
+      width: 47
+      height: 56
+    spriteID: 006b6fd3e73713d49bcb7e7aa6a03792
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 436}
+  - name: golem_Frame_107
+    originalName: 
+    pivot: {x: 0.46, y: -0.07017544}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 617
+      width: 50
+      height: 57
+    spriteID: e93f0b6519c56a042b6cb3aee4abd3fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 617}
+  - name: golem_Frame_108
+    originalName: 
+    pivot: {x: 0.46, y: -0.06896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 136
+      width: 50
+      height: 58
+    spriteID: a17faf264cb5bce4cae541856b7d2f75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 136}
+  - name: golem_Frame_109
+    originalName: 
+    pivot: {x: 0.4339623, y: -0.035714284}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 685
+      width: 53
+      height: 56
+    spriteID: 71ef60289e5796341add240ae38d7188
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 685}
+  - name: golem_Frame_110
+    originalName: 
+    pivot: {x: 0.4339623, y: -0.04347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 823
+      width: 53
+      height: 46
+    spriteID: 6c89ffd7c3019d24cb6169d319b83904
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 823}
+  - name: golem_Frame_111
+    originalName: 
+    pivot: {x: 0.41379312, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 579
+      width: 58
+      height: 37
+    spriteID: 0305192818319404d91d03006ae8596f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 579}
+  - name: golem_Frame_112
+    originalName: 
+    pivot: {x: 0.37142855, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 495
+      width: 70
+      height: 32
+    spriteID: 692a3c9133dde5148bbbf1f8560394c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 495}
+  - name: golem_Frame_113
+    originalName: 
+    pivot: {x: 0.37662333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 371
+      width: 77
+      height: 30
+    spriteID: 374f4a6dca7e8a7499ea973301fa6715
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 371}
+  - name: golem_Frame_114
+    originalName: 
+    pivot: {x: 0.32394367, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 693
+      width: 71
+      height: 30
+    spriteID: 4fd080cb236d7e9469fb9bf878813446
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 693}
+  - name: golem_Frame_115
+    originalName: 
+    pivot: {x: 0.47169816, y: -0.08928572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 749
+      width: 53
+      height: 56
+    spriteID: f3cbba12bcb2f224291d3a7f4f8c9104
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 749}
+  - name: golem_Frame_116
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.08474577}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 66
+      width: 55
+      height: 59
+    spriteID: 7b8155a12abba66419d0a76b43f4b834
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 66}
+  - name: golem_Frame_117
+    originalName: 
+    pivot: {x: 0.4561403, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 423
+      width: 57
+      height: 60
+    spriteID: e6979561ff6a7584ea7dc32181699d22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 423}
+  - name: golem_Frame_118
+    originalName: 
+    pivot: {x: 0.49056602, y: -0.08771931}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 479
+      width: 53
+      height: 57
+    spriteID: 82c22832ba4235c49926433bc9f4ef01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 479}
+  - name: golem_Frame_119
+    originalName: 
+    pivot: {x: 0.4406779, y: 0.05454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 963
+      width: 59
+      height: 55
+    spriteID: ea50a3a059d3cbd4e84b178f1000d642
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 963}
+  - name: golem_Frame_120
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 453
+      width: 67
+      height: 34
+    spriteID: 6a3bede01d5b75242ab49aea82eba017
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 453}
+  - name: golem_Frame_121
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.029411765}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 90
+      width: 78
+      height: 34
+    spriteID: ff5b118806a09cc4ab5cdf07b3e51578
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 90}
+  - name: golem_Frame_122
+    originalName: 
+    pivot: {x: 0.5584415, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 47
+      width: 77
+      height: 35
+    spriteID: 50b4255ed9d9dba4eaf52c1b94d704d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 47}
+  - name: golem_Frame_123
+    originalName: 
+    pivot: {x: 0.55128205, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 4
+      width: 78
+      height: 35
+    spriteID: 1d6208e763128d845b515e85bd9122a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 4}
+  - name: golem_Frame_0
+    originalName: 
+    pivot: {x: 0.5166667, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 587
+      width: 60
+      height: 63
+    spriteID: 32df090044a4e6044b6eae34d100bad8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 587}
+  - name: golem_Frame_1
+    originalName: 
+    pivot: {x: 0.48333332, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 70
+      width: 60
+      height: 60
+    spriteID: bc10d5a46e1e12c4cad69cfbee2ec91e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 70}
+  - name: golem_Frame_2
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 737
+      width: 57
+      height: 63
+    spriteID: 49591fe1880cbe144acdf6cd131e65d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 737}
+  - name: golem_Frame_3
+    originalName: 
+    pivot: {x: 0.45762712, y: -0.11666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 954
+      width: 59
+      height: 60
+    spriteID: 5c61f7336bc9f7b45b020493e2d5a4a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 954}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 257895862
+    name: golem
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: golem_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 17
+        y: 4
+        width: 60
+        height: 64
+      spriteId: bb6a0ba7c7673e848a28ba3c656caaf9
+    - name: golem_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 16
+        y: 4
+        width: 61
+        height: 64
+      spriteId: 91b552d7ae4e8b64bb1c0f80fffbc45b
+    - name: golem_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 17
+        y: 4
+        width: 60
+        height: 65
+      spriteId: b3bcb61d3f483f444be86c03ea10324c
+    - name: golem_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 17
+        y: 4
+        width: 60
+        height: 65
+      spriteId: d44bd78d11c493c4da856d34eeab5268
+    - name: golem_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 17
+        y: 4
+        width: 60
+        height: 65
+      spriteId: 576244ee4850cc34fac441c18cc0c133
+    - name: golem_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 19
+        y: 3
+        width: 60
+        height: 62
+      spriteId: 26d985f5b09133c49a74f36ade6a33a3
+    - name: golem_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 19
+        y: 3
+        width: 60
+        height: 63
+      spriteId: f0e84bee1e8dc2748a331a995c286f13
+    - name: golem_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 20
+        y: 3
+        width: 57
+        height: 65
+      spriteId: 9903e2806b1b8c94da798d462a749694
+    - name: golem_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 21
+        y: 3
+        width: 56
+        height: 65
+      spriteId: 3042d725d000fdc45bcc11f1aaa86d2b
+    - name: golem_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 21
+        y: 3
+        width: 56
+        height: 64
+      spriteId: c946f8cf0e508274b8f7d4b48ebc3b0b
+    - name: golem_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 21
+        y: 5
+        width: 59
+        height: 62
+      spriteId: 07f498be451a61d408827160922c47b7
+    - name: golem_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 21
+        y: 5
+        width: 59
+        height: 63
+      spriteId: be16d2c1a0cea6943924ea3efa151492
+    - name: golem_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 22
+        y: 5
+        width: 57
+        height: 63
+      spriteId: 35b790c5bc951c24f85d9697be1f352f
+    - name: golem_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 22
+        y: 5
+        width: 57
+        height: 63
+      spriteId: f191b303a7fb3a64c9e4588f898496b5
+    - name: golem_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 22
+        y: 5
+        width: 57
+        height: 63
+      spriteId: 9377e61d2b077824eb2fbbc5c9d97714
+    - name: golem_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 15
+        y: 3
+        width: 56
+        height: 65
+      spriteId: 5b23af02ada0f5e40ba111db9d913053
+    - name: golem_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 14
+        y: 3
+        width: 57
+        height: 66
+      spriteId: 68f864df4c2de104388635b9cd37b46d
+    - name: golem_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 14
+        y: 3
+        width: 56
+        height: 66
+      spriteId: 3fa17fd83f2261744a368b79331a2476
+    - name: golem_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 15
+        y: 3
+        width: 54
+        height: 66
+      spriteId: e3639e9ec354a4a4a949410b73eede41
+    - name: golem_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 15
+        y: 3
+        width: 56
+        height: 66
+      spriteId: 0658ed55afaaaba44a99d2a651045e2b
+    - name: golem_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 21
+        y: 3
+        width: 47
+        height: 66
+      spriteId: 689f8b76c7a3feb4993dc2d2dd3ae078
+    - name: golem_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 22
+        y: 5
+        width: 47
+        height: 62
+      spriteId: 0150fb5837a35884b8b376cb2280588e
+    - name: golem_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 25
+        y: 4
+        width: 38
+        height: 62
+      spriteId: 32a50a6aa911f174297a7684ffa5566d
+    - name: golem_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 19
+        y: 5
+        width: 50
+        height: 61
+      spriteId: f038914a1853c3b439c0dae2dcbf0566
+    - name: golem_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 21
+        y: 6
+        width: 50
+        height: 61
+      spriteId: de018ec2e3db13f4180defdd86683d69
+    - name: golem_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 27
+        y: 7
+        width: 37
+        height: 60
+      spriteId: 6e58e1d0d673afa47b35ad6e0e9b08f5
+    - name: golem_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 27
+        y: 4
+        width: 47
+        height: 61
+      spriteId: eb7ecdb6b2a7da34d8ee0853943b2cc8
+    - name: golem_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 27
+        y: 3
+        width: 50
+        height: 61
+      spriteId: 93f1e0ab19af0c24db02eff3aad80f32
+    - name: golem_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 25
+        y: 5
+        width: 50
+        height: 58
+      spriteId: 85fa045cbd80f6743ac512002eece609
+    - name: golem_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 23
+        y: 5
+        width: 47
+        height: 60
+      spriteId: e7d3060b85a9a4647bff7a8fdcf0af40
+    - name: golem_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 22
+        y: 3
+        width: 55
+        height: 62
+      spriteId: 97280a6f481405548a96605eb5469ac2
+    - name: golem_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 26
+        y: 5
+        width: 52
+        height: 59
+      spriteId: 67ae25105436c18498a6e1ae64e32db0
+    - name: golem_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 17
+        y: 4
+        width: 53
+        height: 65
+      spriteId: 77878fac35ddc54438e334f191d83c3a
+    - name: golem_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 22
+        y: 4
+        width: 46
+        height: 63
+      spriteId: 3dcd55693ee831947b1e5485e3aeebd8
+    - name: golem_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 29
+        y: 6
+        width: 32
+        height: 59
+      spriteId: c1c7ca117d5d55241ab66819d426371c
+    - name: golem_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 17
+        y: 5
+        width: 56
+        height: 62
+      spriteId: 989d07d451505f842990a30294c9c638
+    - name: golem_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 19
+        y: 6
+        width: 47
+        height: 61
+      spriteId: 4e90d4dd21f1474499d9dd9c446d8364
+    - name: golem_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 27
+        y: 6
+        width: 35
+        height: 61
+      spriteId: 05d6dc9c9d1d9d74e9fdf242d332284f
+    - name: golem_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 31
+        y: 4
+        width: 45
+        height: 63
+      spriteId: 05442a06fecda42499fee89d49cf07df
+    - name: golem_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 25
+        y: 6
+        width: 51
+        height: 61
+      spriteId: 6e2a360159707804fabde191c02ce279
+    - name: golem_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 24
+        y: 6
+        width: 48
+        height: 60
+      spriteId: 8d880e21a81d838458838539e5a57658
+    - name: golem_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 21
+        y: 4
+        width: 49
+        height: 64
+      spriteId: b7a6b58d4f2c1874f8b87aface961076
+    - name: golem_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 26
+        y: 5
+        width: 49
+        height: 62
+      spriteId: 302e79bb81c0ea0489a65b5fd96c069d
+    - name: golem_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 29
+        y: 6
+        width: 45
+        height: 60
+      spriteId: 101efbc58de2055429172c584ce0862f
+    - name: golem_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 17
+        y: 4
+        width: 59
+        height: 71
+      spriteId: 3620b9210a6a1c9448cd052bf92b850f
+    - name: golem_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 20
+        y: 4
+        width: 57
+        height: 71
+      spriteId: c252a186a3a93c74ab5f53535ad8aa36
+    - name: golem_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 24
+        y: 4
+        width: 54
+        height: 72
+      spriteId: fdcb0aaca1fc243448790142431d95ee
+    - name: golem_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 0
+        y: 4
+        width: 65
+        height: 61
+      spriteId: a04b75133e1b8bd4dae4a2d7495c825f
+    - name: golem_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 2
+        y: 4
+        width: 63
+        height: 53
+      spriteId: 921a26f0f40c47e4eacf4fb5bd830089
+    - name: golem_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 1
+        y: 4
+        width: 64
+        height: 54
+      spriteId: 64c18e8d468dcc94f92d1975ea69da2e
+    - name: golem_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 2
+        y: 4
+        width: 63
+        height: 58
+      spriteId: 04e9e85751903ce459ab35b959d6ed9e
+    - name: golem_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 23
+        y: 8
+        width: 52
+        height: 56
+      spriteId: 3adac23fc3c5203438ced0c45c891d4c
+    - name: golem_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 23
+        y: 8
+        width: 53
+        height: 57
+      spriteId: ddceadc1d91a6bd439c497a99fc0b547
+    - name: golem_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 23
+        y: 8
+        width: 53
+        height: 57
+      spriteId: c5137e44f097c99409a54a3674cdb4d4
+    - name: golem_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 23
+        y: 3
+        width: 54
+        height: 50
+      spriteId: 250370e809de53f428e554528b93bde4
+    - name: golem_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 23
+        y: 4
+        width: 55
+        height: 50
+      spriteId: 7b3f1ad315b7b2948a62cd7d494ad29f
+    - name: golem_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 29
+        y: 3
+        width: 50
+        height: 50
+      spriteId: 817511387185dc649ad55b808895b67b
+    - name: golem_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 23
+        y: 8
+        width: 54
+        height: 51
+      spriteId: 6632a54d17af49d4485e6f19f90638a0
+    - name: golem_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 29
+        y: 6
+        width: 45
+        height: 58
+      spriteId: 030d3d9f1c7d538488d754270854b641
+    - name: golem_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 31
+        y: 6
+        width: 42
+        height: 60
+      spriteId: 6dcffb9b16cbdf347a6b733189b837a1
+    - name: golem_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 31
+        y: 6
+        width: 49
+        height: 61
+      spriteId: bebe0c67ede60d348b60b8d897e69965
+    - name: golem_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 26
+        y: 5
+        width: 44
+        height: 65
+      spriteId: b520217e0c0d23548a32031d3187b8bc
+    - name: golem_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 26
+        y: 5
+        width: 45
+        height: 59
+      spriteId: 726afd61992233640aa16ea782faf53e
+    - name: golem_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 26
+        y: 5
+        width: 44
+        height: 58
+      spriteId: 1a1550de48fa7a645bdf1a9c0c70fcff
+    - name: golem_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 24
+        y: 5
+        width: 47
+        height: 59
+      spriteId: de6deeaa051262040aa96065b0991a98
+    - name: golem_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 14
+        y: 7
+        width: 57
+        height: 64
+      spriteId: 05e45aaeef123e147adb7d0a4c41a89b
+    - name: golem_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 14
+        y: 7
+        width: 49
+        height: 64
+      spriteId: 768dc8772ba8eaf42837ca383b4da98d
+    - name: golem_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 16
+        y: 7
+        width: 47
+        height: 64
+      spriteId: 0dbc26abb0e71d54491c69ee33aa12e7
+    - name: golem_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 25
+        y: 4
+        width: 53
+        height: 61
+      spriteId: 52ec101aec7c85c4aa5cee3ec5395710
+    - name: golem_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 25
+        y: 4
+        width: 51
+        height: 54
+      spriteId: 185c578a81688dc4da48effaa1ade7e9
+    - name: golem_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 25
+        y: 4
+        width: 51
+        height: 53
+      spriteId: bd90216c391e66a43a667f515cb225e5
+    - name: golem_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 24
+        y: 4
+        width: 45
+        height: 57
+      spriteId: 29d1a2b9ffa20cb46972fce0af2696d2
+    - name: golem_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 23
+        y: 4
+        width: 54
+        height: 59
+      spriteId: 2a7f91750a9736048aa9329fbca0abca
+    - name: golem_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 20
+        y: 4
+        width: 57
+        height: 59
+      spriteId: fd77ebb5052154c439c5558818269ce6
+    - name: golem_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 21
+        y: 4
+        width: 56
+        height: 63
+      spriteId: f094f8c2fb57c914ab31244859dbe98d
+    - name: golem_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 27
+        y: 4
+        width: 47
+        height: 56
+      spriteId: deb8ae479d6e5564b9186ecb3efca0a2
+    - name: golem_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 25
+        y: 4
+        width: 50
+        height: 57
+      spriteId: 62fafa9054a0da444a470e987beda25b
+    - name: golem_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 25
+        y: 4
+        width: 50
+        height: 58
+      spriteId: 34dfe2cce19389049a8936f60029da37
+    - name: golem_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 21
+        y: 6
+        width: 52
+        height: 62
+      spriteId: d340d28dc51ffe4449072022419d07dd
+    - name: golem_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 19
+        y: 6
+        width: 53
+        height: 59
+      spriteId: 1eabad37c07782447a1eae70de27ac59
+    - name: golem_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 23
+        y: 6
+        width: 53
+        height: 62
+      spriteId: e0ea3c35ac0ab374f9ec8c7629b01c32
+    - name: golem_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 23
+        y: 6
+        width: 53
+        height: 55
+      spriteId: 72039edc51ed05d4f82642a0be018d15
+    - name: golem_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 23
+        y: 6
+        width: 55
+        height: 58
+      spriteId: c3440bbc804d5094d998bf11d45edbd7
+    - name: golem_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 22
+        y: 6
+        width: 57
+        height: 59
+      spriteId: 2ba52d867ec61c44f8f4eb0dc4b34f91
+    - name: golem_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 23
+        y: 4
+        width: 54
+        height: 59
+      spriteId: 48d72439585a5614f9b7e63859975506
+    - name: golem_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 21
+        y: 4
+        width: 56
+        height: 59
+      spriteId: c1b817f216c3916499d286e2aa2a0d74
+    - name: golem_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 21
+        y: 4
+        width: 56
+        height: 63
+      spriteId: 25f4561997295b54ebe57762280460c5
+    - name: golem_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 26
+        y: 1
+        width: 53
+        height: 58
+      spriteId: 1de96d0e22220bf488677265f9830127
+    - name: golem_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 28
+        y: 3
+        width: 55
+        height: 47
+      spriteId: 48a906e99fd018345956361a272867d6
+    - name: golem_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 26
+        y: 1
+        width: 59
+        height: 43
+      spriteId: 6151c9dd07849624ba16e2bc0d380d4f
+    - name: golem_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 25
+        y: 0
+        width: 64
+        height: 36
+      spriteId: a3693037b08d46441a2ac8ce57751fef
+    - name: golem_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 29
+        y: 0
+        width: 60
+        height: 36
+      spriteId: 06fbac2ec13f3654990f487c06367a2c
+    - name: golem_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 29
+        y: 5
+        width: 59
+        height: 31
+      spriteId: 48faea95ef6a315499e4642b4026f3c1
+    - name: golem_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 21
+        y: 6
+        width: 52
+        height: 62
+      spriteId: d3bdafacd1256f94d9ea666da62b17ec
+    - name: golem_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 19
+        y: 6
+        width: 53
+        height: 59
+      spriteId: 85e51d1a234df3a45a275011051cc4ac
+    - name: golem_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 23
+        y: 6
+        width: 53
+        height: 62
+      spriteId: 3370a77b65319154081f3b098076a625
+    - name: golem_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 24
+        y: 6
+        width: 46
+        height: 58
+      spriteId: 5b5c8fd018e0b7c438d71b5e84bbdaf2
+    - name: golem_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 24
+        y: 3
+        width: 50
+        height: 53
+      spriteId: 7128b4ab7e200f34fb64776bb0b55175
+    - name: golem_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 21
+        y: 0
+        width: 64
+        height: 39
+      spriteId: 5081c574e0adabe49980de6f58f35901
+    - name: golem_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 22
+        y: 0
+        width: 68
+        height: 35
+      spriteId: af02ca7fede4519458f894868f7bc63d
+    - name: golem_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 20
+        y: 0
+        width: 70
+        height: 35
+      spriteId: a6a1ff885d8aaa540a879096b9863d62
+    - name: golem_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 24
+        y: 4
+        width: 66
+        height: 31
+      spriteId: a1b5f565c6af5aa48a89463a3645e2b2
+    - name: golem_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 27
+        y: 4
+        width: 47
+        height: 56
+      spriteId: 006b6fd3e73713d49bcb7e7aa6a03792
+    - name: golem_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 25
+        y: 4
+        width: 50
+        height: 57
+      spriteId: e93f0b6519c56a042b6cb3aee4abd3fc
+    - name: golem_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 25
+        y: 4
+        width: 50
+        height: 58
+      spriteId: a17faf264cb5bce4cae541856b7d2f75
+    - name: golem_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 25
+        y: 2
+        width: 53
+        height: 56
+      spriteId: 71ef60289e5796341add240ae38d7188
+    - name: golem_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 25
+        y: 2
+        width: 53
+        height: 46
+      spriteId: 6c89ffd7c3019d24cb6169d319b83904
+    - name: golem_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 24
+        y: 0
+        width: 58
+        height: 37
+      spriteId: 0305192818319404d91d03006ae8596f
+    - name: golem_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 22
+        y: 0
+        width: 70
+        height: 32
+      spriteId: 692a3c9133dde5148bbbf1f8560394c9
+    - name: golem_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 19
+        y: 0
+        width: 77
+        height: 30
+      spriteId: 374f4a6dca7e8a7499ea973301fa6715
+    - name: golem_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 25
+        y: 0
+        width: 71
+        height: 30
+      spriteId: 4fd080cb236d7e9469fb9bf878813446
+    - name: golem_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 23
+        y: 5
+        width: 53
+        height: 56
+      spriteId: f3cbba12bcb2f224291d3a7f4f8c9104
+    - name: golem_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 23
+        y: 5
+        width: 55
+        height: 59
+      spriteId: 7b8155a12abba66419d0a76b43f4b834
+    - name: golem_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 22
+        y: 5
+        width: 57
+        height: 60
+      spriteId: e6979561ff6a7584ea7dc32181699d22
+    - name: golem_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 22
+        y: 5
+        width: 53
+        height: 57
+      spriteId: 82c22832ba4235c49926433bc9f4ef01
+    - name: golem_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 22
+        y: -3
+        width: 59
+        height: 55
+      spriteId: ea50a3a059d3cbd4e84b178f1000d642
+    - name: golem_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 13
+        y: 2
+        width: 67
+        height: 34
+      spriteId: 6a3bede01d5b75242ab49aea82eba017
+    - name: golem_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 6
+        y: 1
+        width: 78
+        height: 34
+      spriteId: ff5b118806a09cc4ab5cdf07b3e51578
+    - name: golem_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 5
+        y: 0
+        width: 77
+        height: 35
+      spriteId: 50b4255ed9d9dba4eaf52c1b94d704d3
+    - name: golem_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 5
+        y: 0
+        width: 78
+        height: 35
+      spriteId: 1d6208e763128d845b515e85bd9122a3
+    - name: golem_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 17
+        y: 5
+        width: 60
+        height: 63
+      spriteId: 32df090044a4e6044b6eae34d100bad8
+    - name: golem_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 19
+        y: 5
+        width: 60
+        height: 60
+      spriteId: bc10d5a46e1e12c4cad69cfbee2ec91e
+    - name: golem_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 21
+        y: 7
+        width: 57
+        height: 63
+      spriteId: 49591fe1880cbe144acdf6cd131e65d0
+    - name: golem_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 21
+        y: 7
+        width: 59
+        height: 60
+      spriteId: 5c61f7336bc9f7b45b020493e2d5a4a1
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 76}
