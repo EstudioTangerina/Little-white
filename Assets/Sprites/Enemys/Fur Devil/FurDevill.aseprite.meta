@@ -2,7 +2,82 @@ fileFormatVersion: 2
 guid: 9a921f16ceedce043a852ea89002e312
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Attack
+    second: {fileID: 7400000, guid: f7ade55253aa2fc459a80415f34ba9aa, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: B.Attack
+    second: {fileID: 7400000, guid: af5a786a03995ed42828f9e05045daa8, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: B.Death
+    second: {fileID: 7400000, guid: 418ab84979c9c084aa99ff62fa0e91d1, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: B.Hit
+    second: {fileID: 7400000, guid: 6b1ad20890c278f499625571d08b0eec, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: B.Idle
+    second: {fileID: 7400000, guid: c3c9fe900a8e4464fb5f7dab360d922d, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: B.Run
+    second: {fileID: 7400000, guid: 131e264bae4822743ac671fbf836021a, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: F.Death
+    second: {fileID: 7400000, guid: 9bbd09a050a8d414a818710b50dd883a, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: F.Hit
+    second: {fileID: 7400000, guid: f2baedf28b6301f4bb0eadfcf03be617, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: F.Idle
+    second: {fileID: 7400000, guid: d11a89fd4368728479e0261f04bcd0b0, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: F.Run
+    second: {fileID: 7400000, guid: 4ceb24c6925c65347851a5a92b44bd93, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: S.Attack
+    second: {fileID: 7400000, guid: 20ba681f50be0184ea4498563775144f, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: S.Death
+    second: {fileID: 7400000, guid: ded4f07bacae01f428491e6c211131e0, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: S.Hit
+    second: {fileID: 7400000, guid: 108a6b91514cbad429982d44eab6ae79, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: S.Idle
+    second: {fileID: 7400000, guid: 5149694ee4669584d99353dd332088a2, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: S.Run
+    second: {fileID: 7400000, guid: d5b0ed95e99284e42a0ae02c42a79392, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -95,7 +170,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638284213605831061
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -2566,7 +2641,43 @@ ScriptedImporter:
       spriteId: 8b7ddc8624126af458bd1089b043575d
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 32, y: 32}
