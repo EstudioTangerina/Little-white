@@ -34,7 +34,7 @@ public class PlayerMovement : MonoBehaviour
     {
         AnimationPlayer();
         FlipSprite();
-        //ShootCheck();
+        ShootCheck();
         IdleAnimations();
     }
 
@@ -112,7 +112,7 @@ public class PlayerMovement : MonoBehaviour
     }
 
     #region Attack
-    /*void OnFire(InputValue inputValueFire)
+    void OnFire(InputValue inputValueFire)
     {
         bool isAttacking = inputValueFire.isPressed;
 
@@ -128,6 +128,7 @@ public class PlayerMovement : MonoBehaviour
     public void Start_Combo()
     {
         attack = false;
+        speed = 0f;
         if (combo < 1)
         {
             combo++;
@@ -138,21 +139,21 @@ public class PlayerMovement : MonoBehaviour
     {
         attack = false;
         combo = 0;
+        speed = 1f;
     }
 
     #endregion
-    */
     #endregion
 
     #region Shoot
-    /*void OnAim(InputValue inputValueAim)
+    void OnAim(InputValue inputValueAim)
     {
         bool isAiming = inputValueAim.isPressed;
-        animator.SetBool("Aiming", isAiming);
+        animator.SetBool("Shooting", isAiming);
 
         if (!isAiming)
         {
-            animator.SetBool("Aiming", false);
+            speed = 0f;
             animator.SetBool("Shooting", true);
         }
         else
@@ -174,7 +175,7 @@ public class PlayerMovement : MonoBehaviour
     public void FinishShoot()
     {
         animator.SetBool("Shooting", false);
-        animator.SetBool("Aiming", false);
+        speed = 1f;
     }
 
     void ShootCheck()
@@ -199,7 +200,7 @@ public class PlayerMovement : MonoBehaviour
             directionWhenStopped = Vector3.right;
             arrowPrefab.GetComponent<SpriteRenderer>().flipY = false;
         }
-    }*/
+    }
     #endregion
 
     void IdleAnimations()

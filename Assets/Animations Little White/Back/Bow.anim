@@ -55,8 +55,29 @@ AnimationClip:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-    genericBindings: []
-    pptrCurveMapping: []
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 8674338354447674977, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: 1673497657775758824, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: -3759058166959203649, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: -3408974994194631945, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: 4136165389433331168, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: 3322194610049330185, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: 4365991144532671126, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: 7978673159639366497, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: -7665048168842155008, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: -8772193088644925393, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: 8620978706832854503, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
+    - {fileID: 8620978706832854503, guid: a8c908ba8ee960d49865d96312ff4caa, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -81,4 +102,18 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0.42
+    functionName: Shoot
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.67
+    functionName: FinishShoot
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
