@@ -23,6 +23,8 @@ public class PlayerMovement : MonoBehaviour
     public GameObject arrowPrefab;
     public Vector3 directionWhenStopped;
 
+    public GameObject SideBoxAttack;
+
     void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
@@ -105,9 +107,11 @@ public class PlayerMovement : MonoBehaviour
         if(MoveInput.x < -0.01f)
         {
             GetComponent<SpriteRenderer>().flipX = true;
+            SideBoxAttack.GetComponent<BoxCollider2D>().offset = new Vector2(-0.085f, -0.035f);
         } else if (MoveInput.x > 0.01f)
         {
             GetComponent<SpriteRenderer>().flipX = false;
+            SideBoxAttack.GetComponent<BoxCollider2D>().offset = new Vector2(0.085f, -0.035f);
         }
     }
 

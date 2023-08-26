@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class EnemyFollow : MonoBehaviour
@@ -14,8 +15,8 @@ public class EnemyFollow : MonoBehaviour
 
     private void Start()
     {
-        //rb = GetComponent<Rigidbody2D>();
-        //animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     private void Update()
@@ -39,6 +40,11 @@ public class EnemyFollow : MonoBehaviour
             moveSpeed = 0;
             Walking = false;
             animator.SetBool("IsAttacking", true);
+        }
+
+        if (collision.CompareTag("HitBoxAttacks"))
+        {
+            //animator.SetBool("Hitting", true);
         }
     }
 
@@ -89,5 +95,4 @@ public class EnemyFollow : MonoBehaviour
             enemy.GetComponent<SpriteRenderer>().flipX = false;
         }
     }
-
 }
