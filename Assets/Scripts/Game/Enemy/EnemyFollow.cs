@@ -13,6 +13,12 @@ public class EnemyFollow : MonoBehaviour
     public bool Walking = true;
     public GameObject enemy;
 
+    public float forceDuration = 1.0f; // O tempo durante o qual a força é aplicada
+    private float forceTimer = 0.0f;
+    private Vector2 forceDirection = Vector2.zero;
+    private bool applyingForce = false;
+    public float forceMagnitude;
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -31,6 +37,7 @@ public class EnemyFollow : MonoBehaviour
 
         AnimationEnemy();
         FlipSprite();
+        Knockback();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -44,7 +51,7 @@ public class EnemyFollow : MonoBehaviour
 
         if (collision.CompareTag("HitBoxAttacks"))
         {
-            //animator.SetBool("Hitting", true);
+            StartCoroutine(Blink());
         }
     }
 
@@ -94,5 +101,37 @@ public class EnemyFollow : MonoBehaviour
         {
             enemy.GetComponent<SpriteRenderer>().flipX = false;
         }
+    }
+
+    void Knockback()
+    {
+        if (applyingForce)
+        {
+            forceTimer += Time.deltaTime;
+            float t = Mathf.Clamp01(forceTimer / forceDuration);
+            rb.velocity = Vector2.Lerp(Vector2.zero, forceDirection * forceMagnitude, t);
+
+            if (forceTimer >= forceDuration)
+            {
+                applyingForce = false;
+                forceTimer = 0.0f;
+                rb.velocity = Vector2.zero; // Reset velocity after applying force
+            }
+        }
+    }
+
+    public void ApplyForce(Vector2 direction)
+    {
+        forceDirection = direction.normalized;
+        applyingForce = true;
+    }
+
+    IEnumerator Blink()
+    {
+        yield return new WaitForSeconds(0.1f);
+        animator.SetBool("Hitting", true);
+        yield return new WaitForSeconds(1.5f);
+        animator.SetBool("Hitting", false);
+        StopCoroutine(Blink());
     }
 }
