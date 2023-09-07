@@ -13,11 +13,14 @@ public class EnemyFollow : MonoBehaviour
     public bool Walking = true;
     public GameObject enemy;
 
-    public float forceDuration = 1.0f; // O tempo durante o qual a força é aplicada
-    private float forceTimer = 0.0f;
-    private Vector2 forceDirection = Vector2.zero;
+    public float acceleration = 5.0f; // Aceleração do inimigo
+    public float maxSpeed = 2.0f;     // Velocidade máxima do inimigo
+    public float forceDuration = 1.0f; // Duração da força aplicada
+    private Vector2 currentVelocity;
     private bool applyingForce = false;
-    public float forceMagnitude;
+    private Vector2 forceDirection;
+    private float forceTimer = 0.0f;
+    public bool Test;
 
     private void Start()
     {
@@ -107,16 +110,25 @@ public class EnemyFollow : MonoBehaviour
     {
         if (applyingForce)
         {
-            forceTimer += Time.deltaTime;
+            forceTimer += Time.fixedDeltaTime;
             float t = Mathf.Clamp01(forceTimer / forceDuration);
-            rb.velocity = Vector2.Lerp(Vector2.zero, forceDirection * forceMagnitude, t);
+            currentVelocity = Vector2.Lerp(Vector2.zero, forceDirection * maxSpeed, t);
 
             if (forceTimer >= forceDuration)
             {
                 applyingForce = false;
                 forceTimer = 0.0f;
-                rb.velocity = Vector2.zero; // Reset velocity after applying force
             }
+        }
+
+        if (Test)
+        {
+            if (currentVelocity.magnitude > maxSpeed)
+            {
+                currentVelocity = currentVelocity.normalized * maxSpeed;
+            }
+
+            rb.velocity = currentVelocity;
         }
     }
 
@@ -130,8 +142,10 @@ public class EnemyFollow : MonoBehaviour
     {
         yield return new WaitForSeconds(0.1f);
         animator.SetBool("Hitting", true);
+        Test = true;
         yield return new WaitForSeconds(1.5f);
         animator.SetBool("Hitting", false);
+        Test = false;
         StopCoroutine(Blink());
     }
 }

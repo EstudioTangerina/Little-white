@@ -686,7 +686,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0.14}
   serializedVersion: 2
-  m_Radius: 0.12
+  m_Radius: 0.1
 --- !u!114 &5511891345900581339
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -706,8 +706,10 @@ MonoBehaviour:
   animator: {fileID: 4385447716531383156}
   Walking: 1
   enemy: {fileID: 5511891345900581332}
-  forceDuration: 1
-  forceMagnitude: 0.2
+  acceleration: 1
+  maxSpeed: 0.15
+  forceDuration: 0.4
+  Test: 0
 --- !u!61 &5511891345900581340
 BoxCollider2D:
   m_ObjectHideFlags: 0
