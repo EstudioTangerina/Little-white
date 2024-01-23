@@ -8,6 +8,7 @@ TagManager:
   - BlockedArea
   - HitBoxAttacks
   - Enemy
+  - Shadow
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - LightingSystem
+  - 2DWater
   - 
   - 
   - 
