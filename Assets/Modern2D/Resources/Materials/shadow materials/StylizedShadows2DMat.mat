@@ -117,10 +117,10 @@ Material:
     - _fastAntyaliasing: 0
     - _onlyRenderIn2DLight: 0
     - _sceneLighten: 0
-    - _shadowBaseAlpha: 0.35
-    - _shadowFalloff: 5.27
+    - _shadowBaseAlpha: 0.3
+    - _shadowFalloff: 4
     - _shadowLeftNarrowing: 0.033
-    - _shadowNarrowing: 0.564
+    - _shadowNarrowing: 0.6
     - _shadowReflectiveness: 0
     - _shadowRightNarrowing: 1
     - _shadowTexture: 0
