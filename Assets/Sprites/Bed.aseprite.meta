@@ -73,7 +73,7 @@ ScriptedImporter:
   previousAsepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
-    layerImportMode: 1
+    layerImportMode: 0
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
@@ -86,7 +86,7 @@ ScriptedImporter:
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
-    layerImportMode: 1
+    layerImportMode: 0
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638504345624063511
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,18 +121,38 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Bed
+  - name: Layer 3
     originalName: 
-    pivot: {x: 0.45000002, y: -0.03448276}
+    pivot: {x: 0.45000002, y: -2.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 4
+      width: 20
+      height: 9
+    spriteID: c61c58c80740fdb4cba0a12e79950fb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 4}
+  - name: Layer 2
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 20
-      height: 29
-    spriteID: 6dfe95903690a0349b95668393027cdc
+      width: 18
+      height: 13
+    spriteID: 9a15df84766268c48a7602563d731004
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,26 +161,153 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+  - name: Pillar
+    originalName: 
+    pivot: {x: 0.44444445, y: -3.3333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 38
+      width: 18
+      height: 6
+    spriteID: 5c313bd6dc9f77843863ed4b8fbe8b95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 38}
+  - name: Layer 4
+    originalName: 
+    pivot: {x: 0.45000002, y: -0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 21
+      width: 20
+      height: 9
+    spriteID: 5ac52843d22c67d45b20c078574136e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 21}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1290949767
-    name: Bed
-    layerFlags: 0
+    guid: 1317221950
+    name: Layer 3
+    layerFlags: 1
     layerType: 0
     blendMode: 0
     cells:
-    - name: Bed
+    - name: Layer 3
+      frameIndex: 0
+      cellRect:
+        x: 7
+        y: 21
+        width: 20
+        height: 9
+      spriteId: c61c58c80740fdb4cba0a12e79950fb3
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 1
+    guid: 1317221552
+    name: Layer 2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Layer 2
+      frameIndex: 0
+      cellRect:
+        x: 8
+        y: 8
+        width: 18
+        height: 13
+      spriteId: 9a15df84766268c48a7602563d731004
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 2
+    guid: 180480680
+    name: Pillar
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Pillar
+      frameIndex: 0
+      cellRect:
+        x: 8
+        y: 20
+        width: 18
+        height: 6
+      spriteId: 5c313bd6dc9f77843863ed4b8fbe8b95
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 3
+    guid: 1317223932
+    name: Layer 4
+    layerFlags: 1
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Layer 4
       frameIndex: 0
       cellRect:
         x: 7
         y: 1
         width: 20
-        height: 29
-      spriteId: 6dfe95903690a0349b95668393027cdc
+        height: 9
+      spriteId: 5ac52843d22c67d45b20c078574136e9
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
