@@ -105,6 +105,7 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -126,6 +127,7 @@ ScriptedImporter:
     pivot: {x: 0.58536583, y: -0.1304348}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -146,6 +148,7 @@ ScriptedImporter:
     pivot: {x: 0.58536583, y: -0.1304348}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -166,6 +169,7 @@ ScriptedImporter:
     pivot: {x: 0.58536583, y: -0.12765957}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -186,6 +190,7 @@ ScriptedImporter:
     pivot: {x: 0.58536583, y: -0.12765957}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -206,6 +211,7 @@ ScriptedImporter:
     pivot: {x: 0.58536583, y: -0.13636364}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -226,6 +232,7 @@ ScriptedImporter:
     pivot: {x: 0.48, y: -0.10416667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -246,6 +253,7 @@ ScriptedImporter:
     pivot: {x: 0.48, y: -0.10416667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -266,6 +274,7 @@ ScriptedImporter:
     pivot: {x: 0.50000006, y: -0.108695656}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 135
@@ -286,6 +295,7 @@ ScriptedImporter:
     pivot: {x: 0.5217391, y: -0.108695656}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 135
@@ -306,6 +316,7 @@ ScriptedImporter:
     pivot: {x: 0.48, y: -0.10416667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 102
@@ -326,6 +337,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.10000001}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 102
@@ -346,6 +358,7 @@ ScriptedImporter:
     pivot: {x: 0.48, y: -0.10204082}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -366,6 +379,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.14634147}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 166
@@ -386,6 +400,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.12244898}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 102
@@ -406,6 +421,7 @@ ScriptedImporter:
     pivot: {x: 0.48, y: -0.10416667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 102
@@ -426,6 +442,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.19354838}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 166
@@ -446,6 +463,7 @@ ScriptedImporter:
     pivot: {x: 0.48, y: -0.18181819}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -466,6 +484,7 @@ ScriptedImporter:
     pivot: {x: 0.49999997, y: -0.20000002}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -490,144 +509,162 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: witch aseprite_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 6
         width: 41
         height: 46
       spriteId: e576bdb185940794fbda2ea71abef5c0
-    - name: witch aseprite_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 6
         width: 41
         height: 46
       spriteId: f3ce1112586b98148bfaeb75c2e241d7
-    - name: witch aseprite_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 6
         width: 41
         height: 47
       spriteId: 4108f592daff7714091bac01bf194eaf
-    - name: witch aseprite_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 6
         width: 41
         height: 47
       spriteId: d014cce47f290a8409e17a34eefc9925
-    - name: witch aseprite_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 6
         width: 41
         height: 44
       spriteId: 16d77dc7261a67c4d96ceb2b8ae895d0
-    - name: witch aseprite_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 5
         width: 25
         height: 48
       spriteId: 43e2015307816f34190e67e0931213ab
-    - name: witch aseprite_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 5
         width: 25
         height: 48
       spriteId: 47da3ba39f263e4428fab6c69102956c
-    - name: witch aseprite_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 5
         width: 22
         height: 46
       spriteId: 114cfb52448bbd042bf433bf769b92ea
-    - name: witch aseprite_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 5
         width: 23
         height: 46
       spriteId: 47d863e1b37611643b7509f516f5182c
-    - name: witch aseprite_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 5
         width: 25
         height: 48
       spriteId: 87b74eb2a6fe2a34e95e422ea8b1aef8
-    - name: witch aseprite_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 5
         width: 24
         height: 50
       spriteId: 011e05f45e401754aa4fa72b1bba44a7
-    - name: witch aseprite_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 5
         width: 25
         height: 49
       spriteId: 8baa9ec048752f549a9500ea42ad180d
-    - name: witch aseprite_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 6
         width: 24
         height: 41
       spriteId: 15a16278151ddaa46a40ff2622a00854
-    - name: witch aseprite_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 6
         width: 24
         height: 49
       spriteId: 0d9f27e7ec395f44691e6c164f626315
-    - name: witch aseprite_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 5
         width: 25
         height: 48
       spriteId: 4a6377a9d9181fc4eb5345f9da155644
-    - name: witch aseprite_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 6
         width: 24
         height: 31
       spriteId: fe48646c82a0e6945b3a2899a5c7e490
-    - name: witch aseprite_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 4
         width: 25
         height: 22
       spriteId: 973f13eb96b8da54786041d88cb3c5a8
-    - name: witch aseprite_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 4

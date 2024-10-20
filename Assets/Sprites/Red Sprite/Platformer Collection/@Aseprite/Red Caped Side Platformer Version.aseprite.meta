@@ -105,6 +105,7 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -126,6 +127,7 @@ ScriptedImporter:
     pivot: {x: 2.9230769, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 415
@@ -146,6 +148,7 @@ ScriptedImporter:
     pivot: {x: 3.2727273, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 85
@@ -166,6 +169,7 @@ ScriptedImporter:
     pivot: {x: 2.9999998, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 173
@@ -186,6 +190,7 @@ ScriptedImporter:
     pivot: {x: 2.9999998, y: -0.9583334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 25
@@ -206,6 +211,7 @@ ScriptedImporter:
     pivot: {x: 2.846154, y: -0.9583334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -226,6 +232,7 @@ ScriptedImporter:
     pivot: {x: 2.6428573, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 103
@@ -246,6 +253,7 @@ ScriptedImporter:
     pivot: {x: 2.7692308, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 436
@@ -266,6 +274,7 @@ ScriptedImporter:
     pivot: {x: 2.7692308, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 349
@@ -286,6 +295,7 @@ ScriptedImporter:
     pivot: {x: 2.7692308, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 370
@@ -306,6 +316,7 @@ ScriptedImporter:
     pivot: {x: 2.9166665, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 423
@@ -326,6 +337,7 @@ ScriptedImporter:
     pivot: {x: 2.9166665, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 193
@@ -346,6 +358,7 @@ ScriptedImporter:
     pivot: {x: 1.52, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 134
@@ -366,6 +379,7 @@ ScriptedImporter:
     pivot: {x: 1.6956521, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 154
@@ -386,6 +400,7 @@ ScriptedImporter:
     pivot: {x: 1.8, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 476
@@ -406,6 +421,7 @@ ScriptedImporter:
     pivot: {x: 1.8, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 356
@@ -426,6 +442,7 @@ ScriptedImporter:
     pivot: {x: 1.8, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 384
@@ -446,6 +463,7 @@ ScriptedImporter:
     pivot: {x: 1.6818182, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 471
@@ -466,6 +484,7 @@ ScriptedImporter:
     pivot: {x: 1.5454546, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 486
@@ -486,6 +505,7 @@ ScriptedImporter:
     pivot: {x: 0.95, y: -1.0952381}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 45
@@ -506,6 +526,7 @@ ScriptedImporter:
     pivot: {x: 1.0294118, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 231
@@ -526,6 +547,7 @@ ScriptedImporter:
     pivot: {x: 1.36, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 167
@@ -546,6 +568,7 @@ ScriptedImporter:
     pivot: {x: 1.6, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 412
@@ -566,6 +589,7 @@ ScriptedImporter:
     pivot: {x: 1.6, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 440
@@ -586,6 +610,7 @@ ScriptedImporter:
     pivot: {x: 1.7222222, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 468
@@ -606,6 +631,7 @@ ScriptedImporter:
     pivot: {x: 1.8235295, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 200
@@ -626,6 +652,7 @@ ScriptedImporter:
     pivot: {x: 1.6666667, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 27
@@ -646,6 +673,7 @@ ScriptedImporter:
     pivot: {x: 1.2173913, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 72
@@ -666,6 +694,7 @@ ScriptedImporter:
     pivot: {x: 0.75, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 93
@@ -686,6 +715,7 @@ ScriptedImporter:
     pivot: {x: 0.8235294, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 189
@@ -706,6 +736,7 @@ ScriptedImporter:
     pivot: {x: 1.0384616, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 452
@@ -726,6 +757,7 @@ ScriptedImporter:
     pivot: {x: 1.173913, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 440
@@ -746,6 +778,7 @@ ScriptedImporter:
     pivot: {x: 1.1818181, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -766,6 +799,7 @@ ScriptedImporter:
     pivot: {x: 1.1818181, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 34
@@ -786,6 +820,7 @@ ScriptedImporter:
     pivot: {x: 1.1818181, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 64
@@ -806,6 +841,7 @@ ScriptedImporter:
     pivot: {x: 1.2272727, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 94
@@ -826,6 +862,7 @@ ScriptedImporter:
     pivot: {x: 1.1818181, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 124
@@ -846,6 +883,7 @@ ScriptedImporter:
     pivot: {x: 1.1428572, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 185
@@ -866,6 +904,7 @@ ScriptedImporter:
     pivot: {x: 0.8484849, y: -0.8846154}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -886,6 +925,7 @@ ScriptedImporter:
     pivot: {x: 0.7692308, y: -0.8518519}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -906,6 +946,7 @@ ScriptedImporter:
     pivot: {x: 0.8076923, y: -0.8518519}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 38
@@ -926,6 +967,7 @@ ScriptedImporter:
     pivot: {x: 1.0000001, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 85
@@ -946,6 +988,7 @@ ScriptedImporter:
     pivot: {x: 1.125, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 391
@@ -966,6 +1009,7 @@ ScriptedImporter:
     pivot: {x: 1.3333333, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 213
@@ -986,6 +1030,7 @@ ScriptedImporter:
     pivot: {x: 3.0833333, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 443
@@ -1006,6 +1051,7 @@ ScriptedImporter:
     pivot: {x: 3.0833333, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 463
@@ -1026,6 +1072,7 @@ ScriptedImporter:
     pivot: {x: 2.9230769, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 457
@@ -1046,6 +1093,7 @@ ScriptedImporter:
     pivot: {x: 2.9230769, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 478
@@ -1066,6 +1114,7 @@ ScriptedImporter:
     pivot: {x: 2.846154, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 45
@@ -1086,6 +1135,7 @@ ScriptedImporter:
     pivot: {x: 2.9999998, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 483
@@ -1106,6 +1156,7 @@ ScriptedImporter:
     pivot: {x: 2.846154, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 66
@@ -1126,6 +1177,7 @@ ScriptedImporter:
     pivot: {x: 2.846154, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 87
@@ -1146,6 +1198,7 @@ ScriptedImporter:
     pivot: {x: 2.846154, y: -1.0952381}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 373
@@ -1166,6 +1219,7 @@ ScriptedImporter:
     pivot: {x: 2.846154, y: -1.4375}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 494
@@ -1186,6 +1240,7 @@ ScriptedImporter:
     pivot: {x: 2.2222223, y: -1.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 225
@@ -1206,6 +1261,7 @@ ScriptedImporter:
     pivot: {x: 2.846154, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 64
@@ -1226,6 +1282,7 @@ ScriptedImporter:
     pivot: {x: 2.9999998, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 233
@@ -1246,6 +1303,7 @@ ScriptedImporter:
     pivot: {x: 2.9999998, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 253
@@ -1266,6 +1324,7 @@ ScriptedImporter:
     pivot: {x: 0.4347826, y: -1.15}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1286,6 +1345,7 @@ ScriptedImporter:
     pivot: {x: 0.024999976, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 141
@@ -1306,6 +1366,7 @@ ScriptedImporter:
     pivot: {x: 0.026315765, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 469
@@ -1326,6 +1387,7 @@ ScriptedImporter:
     pivot: {x: 0.24999996, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 273
@@ -1346,6 +1408,7 @@ ScriptedImporter:
     pivot: {x: 0.6521739, y: -1.15}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 415
@@ -1366,6 +1429,7 @@ ScriptedImporter:
     pivot: {x: 0.05263153, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 112
@@ -1386,6 +1450,7 @@ ScriptedImporter:
     pivot: {x: 0.049999952, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 30
@@ -1406,6 +1471,7 @@ ScriptedImporter:
     pivot: {x: 0.055555504, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 215
@@ -1426,6 +1492,7 @@ ScriptedImporter:
     pivot: {x: 0, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 293
@@ -1446,6 +1513,7 @@ ScriptedImporter:
     pivot: {x: 2.9999998, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 313
@@ -1466,6 +1534,7 @@ ScriptedImporter:
     pivot: {x: 2.7142859, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 156
@@ -1486,6 +1555,7 @@ ScriptedImporter:
     pivot: {x: 3.3636365, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 104
@@ -1506,6 +1576,7 @@ ScriptedImporter:
     pivot: {x: -0.41666666, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 333
@@ -1526,6 +1597,7 @@ ScriptedImporter:
     pivot: {x: -0.21428585, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 178
@@ -1546,6 +1618,7 @@ ScriptedImporter:
     pivot: {x: 0.18181823, y: -1.1818182}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 123
@@ -1566,6 +1639,7 @@ ScriptedImporter:
     pivot: {x: 0.3846154, y: -1.1818182}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 108
@@ -1586,6 +1660,7 @@ ScriptedImporter:
     pivot: {x: 1.6086956, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 103
@@ -1606,6 +1681,7 @@ ScriptedImporter:
     pivot: {x: 1.5454546, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 200
@@ -1626,6 +1702,7 @@ ScriptedImporter:
     pivot: {x: 1.5454546, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 230
@@ -1646,6 +1723,7 @@ ScriptedImporter:
     pivot: {x: 1.5454546, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 260
@@ -1666,6 +1744,7 @@ ScriptedImporter:
     pivot: {x: 1.5454546, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 290
@@ -1686,6 +1765,7 @@ ScriptedImporter:
     pivot: {x: 1.5454546, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 320
@@ -1706,6 +1786,7 @@ ScriptedImporter:
     pivot: {x: 1.5454546, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 350
@@ -1726,6 +1807,7 @@ ScriptedImporter:
     pivot: {x: 1.2592592, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 348
@@ -1746,6 +1828,7 @@ ScriptedImporter:
     pivot: {x: 0.59322035, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 281
@@ -1766,6 +1849,7 @@ ScriptedImporter:
     pivot: {x: 0.43037978, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1786,6 +1870,7 @@ ScriptedImporter:
     pivot: {x: 1.8888891, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 241
@@ -1806,6 +1891,7 @@ ScriptedImporter:
     pivot: {x: 1.8888891, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 267
@@ -1826,6 +1912,7 @@ ScriptedImporter:
     pivot: {x: 1.5454546, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 380
@@ -1846,6 +1933,7 @@ ScriptedImporter:
     pivot: {x: 0.47887328, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 342
@@ -1866,6 +1954,7 @@ ScriptedImporter:
     pivot: {x: 0.47297296, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 178
@@ -1886,6 +1975,7 @@ ScriptedImporter:
     pivot: {x: 0.49275362, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 421
@@ -1906,6 +1996,7 @@ ScriptedImporter:
     pivot: {x: 1.8888891, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 293
@@ -1926,6 +2017,7 @@ ScriptedImporter:
     pivot: {x: 1.8888891, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 319
@@ -1946,6 +2038,7 @@ ScriptedImporter:
     pivot: {x: 1.5454546, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 410
@@ -1966,6 +2059,7 @@ ScriptedImporter:
     pivot: {x: 1.2592592, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 383
@@ -1986,6 +2080,7 @@ ScriptedImporter:
     pivot: {x: 0.59322035, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 348
@@ -2006,6 +2101,7 @@ ScriptedImporter:
     pivot: {x: 0.43037978, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 91
@@ -2026,6 +2122,7 @@ ScriptedImporter:
     pivot: {x: 1.8888891, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 345
@@ -2046,6 +2143,7 @@ ScriptedImporter:
     pivot: {x: 1.8888891, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 371
@@ -2066,6 +2164,7 @@ ScriptedImporter:
     pivot: {x: 2.1764708, y: -1.0952381}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 166
@@ -2086,6 +2185,7 @@ ScriptedImporter:
     pivot: {x: 2.2941177, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 251
@@ -2106,6 +2206,7 @@ ScriptedImporter:
     pivot: {x: 2.9999998, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 353
@@ -2126,6 +2227,7 @@ ScriptedImporter:
     pivot: {x: 1.95, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 272
@@ -2146,6 +2248,7 @@ ScriptedImporter:
     pivot: {x: 0.36666667, y: -1.1578947}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 148
@@ -2166,6 +2269,7 @@ ScriptedImporter:
     pivot: {x: 0.37288138, y: -1.1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 81
@@ -2186,6 +2290,7 @@ ScriptedImporter:
     pivot: {x: 0.38596493, y: -1.1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 216
@@ -2206,6 +2311,7 @@ ScriptedImporter:
     pivot: {x: 0.84615386, y: -1.1578947}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 418
@@ -2226,6 +2332,7 @@ ScriptedImporter:
     pivot: {x: 1.3448277, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 311
@@ -2246,6 +2353,7 @@ ScriptedImporter:
     pivot: {x: 0.05263153, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 397
@@ -2266,6 +2374,7 @@ ScriptedImporter:
     pivot: {x: 0.57894737, y: -1.3684211}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 139
@@ -2286,6 +2395,7 @@ ScriptedImporter:
     pivot: {x: 0.6521739, y: -1.7857144}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 125
@@ -2306,6 +2416,7 @@ ScriptedImporter:
     pivot: {x: 0.7619047, y: -1.7692308}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 394
@@ -2326,6 +2437,7 @@ ScriptedImporter:
     pivot: {x: 0.7272727, y: -2.0909092}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -2346,6 +2458,7 @@ ScriptedImporter:
     pivot: {x: 2.263158, y: -1.15}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 58
@@ -2366,6 +2479,7 @@ ScriptedImporter:
     pivot: {x: 3.1666665, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -2386,6 +2500,7 @@ ScriptedImporter:
     pivot: {x: 3.0000002, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 129
@@ -2406,6 +2521,7 @@ ScriptedImporter:
     pivot: {x: 2.2941177, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 276
@@ -2426,6 +2542,7 @@ ScriptedImporter:
     pivot: {x: 2.1666667, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -2446,6 +2563,7 @@ ScriptedImporter:
     pivot: {x: 1.95, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 300
@@ -2466,6 +2584,7 @@ ScriptedImporter:
     pivot: {x: 1.8571429, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 214
@@ -2486,6 +2605,7 @@ ScriptedImporter:
     pivot: {x: 1.95, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 328
@@ -2506,6 +2626,7 @@ ScriptedImporter:
     pivot: {x: 1.3000001, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 273
@@ -2526,6 +2647,7 @@ ScriptedImporter:
     pivot: {x: 0.47297296, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 260
@@ -2546,6 +2668,7 @@ ScriptedImporter:
     pivot: {x: 2.1666667, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 424
@@ -2566,6 +2689,7 @@ ScriptedImporter:
     pivot: {x: 2.1764708, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -2586,6 +2710,7 @@ ScriptedImporter:
     pivot: {x: 1.8571429, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 243
@@ -2606,6 +2731,7 @@ ScriptedImporter:
     pivot: {x: 2.1666667, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 450
@@ -2626,6 +2752,7 @@ ScriptedImporter:
     pivot: {x: 2.1764708, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 78
@@ -2646,6 +2773,7 @@ ScriptedImporter:
     pivot: {x: 0, y: -1.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 150
@@ -2666,6 +2794,7 @@ ScriptedImporter:
     pivot: {x: -0.058823477, y: -1.2777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 301
@@ -2686,6 +2815,7 @@ ScriptedImporter:
     pivot: {x: 0, y: -1.15}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 326
@@ -2706,6 +2836,7 @@ ScriptedImporter:
     pivot: {x: 3.1666665, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 24
@@ -2726,6 +2857,7 @@ ScriptedImporter:
     pivot: {x: 0.3125, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 191
@@ -2746,6 +2878,7 @@ ScriptedImporter:
     pivot: {x: 0.24999996, y: -1.0454546}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 44
@@ -2766,6 +2899,7 @@ ScriptedImporter:
     pivot: {x: 2.4, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -2790,1064 +2924,1197 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Red Caped Side Platformer Version_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 23
         width: 13
         height: 22
       spriteId: f04cb7812ebd1ae4f9c218ec60d64bfc
-    - name: Red Caped Side Platformer Version_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 11
         height: 22
       spriteId: cb30bd19edf07ff43934e81bb81616b0
-    - name: Red Caped Side Platformer Version_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 12
         height: 23
       spriteId: 729a715bab3fc444681a3ac85ff555c3
-    - name: Red Caped Side Platformer Version_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 12
         height: 24
       spriteId: bebda673e4d67884daf3d5fc3b0c0c99
-    - name: Red Caped Side Platformer Version_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 13
         height: 24
       spriteId: 76bd32b8411f85a4eb357f80fa124afd
-    - name: Red Caped Side Platformer Version_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 14
         height: 23
       spriteId: 1dbfa2a735c2a93409fb6217913cd51b
-    - name: Red Caped Side Platformer Version_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 13
         height: 22
       spriteId: 497791a481125cb48862ac057d5c06ac
-    - name: Red Caped Side Platformer Version_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 13
         height: 23
       spriteId: 5e68a0ef82240e74a864cb8e31400da6
-    - name: Red Caped Side Platformer Version_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 13
         height: 23
       spriteId: 02173a15e41d8054bbe02e12e9f62bd6
-    - name: Red Caped Side Platformer Version_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 5
         y: 23
         width: 12
         height: 22
       spriteId: 225500d6872d50e4ea884563912a49df
-    - name: Red Caped Side Platformer Version_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 5
         y: 23
         width: 12
         height: 23
       spriteId: 95dbea915595e664a8d79c82a7c0c355
-    - name: Red Caped Side Platformer Version_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 23
         width: 25
         height: 17
       spriteId: 2fec3e09fa013e7429c7fda062ce90f7
-    - name: Red Caped Side Platformer Version_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 23
         height: 17
       spriteId: d07aa212b6e701b49bbfd7777db481a8
-    - name: Red Caped Side Platformer Version_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 20
         height: 17
       spriteId: e5fc9f52c14c863419a270eca1c32aa3
-    - name: Red Caped Side Platformer Version_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 20
         height: 17
       spriteId: aa898925da8aeb24390414efa60fd973
-    - name: Red Caped Side Platformer Version_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 20
         height: 17
       spriteId: dcc67a1058d966b40bfeadea14317b75
-    - name: Red Caped Side Platformer Version_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 22
         height: 18
       spriteId: aea05a677a0b19c489d99473d11038f9
-    - name: Red Caped Side Platformer Version_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 22
         height: 19
       spriteId: 22345fc9a22e74c4996e7fa5187af675
-    - name: Red Caped Side Platformer Version_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 23
         width: 40
         height: 21
       spriteId: 99f89a073f9339549aa6247f4a3f7f50
-    - name: Red Caped Side Platformer Version_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 5
         y: 23
         width: 34
         height: 17
       spriteId: c75509f7d04f96a4981e18133a21d4dc
-    - name: Red Caped Side Platformer Version_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 25
         height: 17
       spriteId: 01108e4beb143b5438612a5d8961b673
-    - name: Red Caped Side Platformer Version_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 8
         y: 23
         width: 20
         height: 17
       spriteId: add5174536cebb040b1f6e46a988742d
-    - name: Red Caped Side Platformer Version_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 8
         y: 23
         width: 20
         height: 17
       spriteId: e87f0cd1a9458f14e8bb1aa9eedca9d2
-    - name: Red Caped Side Platformer Version_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 23
         width: 18
         height: 18
       spriteId: 796f50f786c2845469180a9e644797e9
-    - name: Red Caped Side Platformer Version_Frame_26
+    - name: Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 23
         width: 17
         height: 18
       spriteId: eba8eee48a0e5164a88cb85e4431b730
-    - name: Red Caped Side Platformer Version_Frame_27
+    - name: Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 10
         y: 23
         width: 18
         height: 18
       spriteId: ef6e53ca1fce6524b9813628c19cc68e
-    - name: Red Caped Side Platformer Version_Frame_28
+    - name: Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 12
         y: 23
         width: 23
         height: 19
       spriteId: 061aee3240e52ff4c88e25cdedc70003
-    - name: Red Caped Side Platformer Version_Frame_29
+    - name: Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 10
         y: 23
         width: 40
         height: 19
       spriteId: d85dbc37aef3b614c90086df0284253c
-    - name: Red Caped Side Platformer Version_Frame_30
+    - name: Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 12
         y: 23
         width: 34
         height: 18
       spriteId: acc076a5b912f6746918e17d14704d17
-    - name: Red Caped Side Platformer Version_Frame_31
+    - name: Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 23
         width: 26
         height: 18
       spriteId: 37dc448d7edb417489d344e00499b111
-    - name: Red Caped Side Platformer Version_Frame_32
+    - name: Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 23
         width: 23
         height: 18
       spriteId: d5567689344fc0342a801bcb60dd8ef7
-    - name: Red Caped Side Platformer Version_Frame_33
+    - name: Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 14
         y: 23
         width: 22
         height: 18
       spriteId: 3b9fc8e6811e1b94ca54edf0fae05911
-    - name: Red Caped Side Platformer Version_Frame_34
+    - name: Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: 14
         y: 23
         width: 22
         height: 18
       spriteId: 5f1a1735220bdee4d8ba744b3a2a8f7b
-    - name: Red Caped Side Platformer Version_Frame_35
+    - name: Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: 14
         y: 23
         width: 22
         height: 18
       spriteId: 083a5a6cb4b3dea40811b72f5bf0aa40
-    - name: Red Caped Side Platformer Version_Frame_36
+    - name: Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 23
         width: 22
         height: 18
       spriteId: cebcf875609aeaf4ea68017564ed3860
-    - name: Red Caped Side Platformer Version_Frame_37
+    - name: Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: 14
         y: 23
         width: 22
         height: 18
       spriteId: 59a6825364637ff48943e0011d2b06bd
-    - name: Red Caped Side Platformer Version_Frame_38
+    - name: Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: 16
         y: 23
         width: 21
         height: 18
       spriteId: e7e1a523b1ac7c3419499ca36f43cfb2
-    - name: Red Caped Side Platformer Version_Frame_39
+    - name: Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: 12
         y: 23
         width: 33
         height: 26
       spriteId: a5b13a036ac95944b8bbbab9125d887a
-    - name: Red Caped Side Platformer Version_Frame_40
+    - name: Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 23
         width: 26
         height: 27
       spriteId: 6f719032e380aa449815d8051d4e7625
-    - name: Red Caped Side Platformer Version_Frame_41
+    - name: Frame_41
       frameIndex: 41
+      additiveSortOrder: 0
       cellRect:
         x: 19
         y: 23
         width: 26
         height: 27
       spriteId: 2ac97d7415f3f734788ab2a96382f003
-    - name: Red Caped Side Platformer Version_Frame_42
+    - name: Frame_42
       frameIndex: 42
+      additiveSortOrder: 0
       cellRect:
         x: 21
         y: 23
         width: 19
         height: 19
       spriteId: 527524c758a803f4c96080870a3034fb
-    - name: Red Caped Side Platformer Version_Frame_43
+    - name: Frame_43
       frameIndex: 43
+      additiveSortOrder: 0
       cellRect:
         x: 22
         y: 23
         width: 16
         height: 18
       spriteId: 0e345dbbbf6ebe14f9f2f2e6012563da
-    - name: Red Caped Side Platformer Version_Frame_44
+    - name: Frame_44
       frameIndex: 44
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 23
         width: 12
         height: 23
       spriteId: 09b7efc1c41bc0a4c80d5b90ae142e6e
-    - name: Red Caped Side Platformer Version_Frame_45
+    - name: Frame_45
       frameIndex: 45
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 12
         height: 22
       spriteId: ed91f68b2105f1c4782e09a05e21a3a8
-    - name: Red Caped Side Platformer Version_Frame_46
+    - name: Frame_46
       frameIndex: 46
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 12
         height: 22
       spriteId: e6259c97ae06a5e44b14dfdbaf1f7032
-    - name: Red Caped Side Platformer Version_Frame_47
+    - name: Frame_47
       frameIndex: 47
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 23
         width: 13
         height: 22
       spriteId: 94c87e1d199ff4e47937ca4b56fee40b
-    - name: Red Caped Side Platformer Version_Frame_48
+    - name: Frame_48
       frameIndex: 48
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 23
         width: 13
         height: 22
       spriteId: cfed3ced44d7f4d42b0eea26cb2819a1
-    - name: Red Caped Side Platformer Version_Frame_49
+    - name: Frame_49
       frameIndex: 49
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 13
         height: 22
       spriteId: df76075cb550d844c8b9e7f81f705608
-    - name: Red Caped Side Platformer Version_Frame_50
+    - name: Frame_50
       frameIndex: 50
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 12
         height: 22
       spriteId: 9cdf6836b74e0a0478094b0a1954dc07
-    - name: Red Caped Side Platformer Version_Frame_51
+    - name: Frame_51
       frameIndex: 51
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 13
         height: 22
       spriteId: 513bf297a896e82468a437619341d3bc
-    - name: Red Caped Side Platformer Version_Frame_52
+    - name: Frame_52
       frameIndex: 52
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 13
         height: 22
       spriteId: f88c620b40c69b84d969693a94425373
-    - name: Red Caped Side Platformer Version_Frame_53
+    - name: Frame_53
       frameIndex: 53
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 13
         height: 21
       spriteId: 1430bf17fa24b3a438f07d0af2bdff32
-    - name: Red Caped Side Platformer Version_Frame_54
+    - name: Frame_54
       frameIndex: 54
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 13
         height: 16
       spriteId: 4c99855d590891a40b5b17644557b9c9
-    - name: Red Caped Side Platformer Version_Frame_55
+    - name: Frame_55
       frameIndex: 55
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 23
         width: 18
         height: 17
       spriteId: 4a3e026d23886f441ac228d24bc9ba3f
-    - name: Red Caped Side Platformer Version_Frame_56
+    - name: Frame_56
       frameIndex: 56
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 13
         height: 19
       spriteId: d9149b3ddef70bb42a70048ab14a857b
-    - name: Red Caped Side Platformer Version_Frame_57
+    - name: Frame_57
       frameIndex: 57
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 12
         height: 23
       spriteId: 2a2673ba3d5639b488c394b6929c65db
-    - name: Red Caped Side Platformer Version_Frame_58
+    - name: Frame_58
       frameIndex: 58
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 12
         height: 23
       spriteId: deb89dcaf1acaca41b77eb7e60d99fde
-    - name: Red Caped Side Platformer Version_Frame_74
+    - name: Frame_74
       frameIndex: 74
+      additiveSortOrder: 0
       cellRect:
         x: 10
         y: 23
         width: 69
         height: 20
       spriteId: 4da3341a8c9920e41ad40175fb0318df
-    - name: Red Caped Side Platformer Version_Frame_75
+    - name: Frame_75
       frameIndex: 75
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 23
         width: 40
         height: 19
       spriteId: af65d7ad1a1de474b87622630f9b23f4
-    - name: Red Caped Side Platformer Version_Frame_76
+    - name: Frame_76
       frameIndex: 76
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 23
         width: 38
         height: 18
       spriteId: da0858d9a939a074cb6c10b29054cd24
-    - name: Red Caped Side Platformer Version_Frame_80
+    - name: Frame_80
       frameIndex: 80
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 23
         width: 12
         height: 23
       spriteId: 9d39d85c9664e8d47806d9e553ef8040
-    - name: Red Caped Side Platformer Version_Frame_84
+    - name: Frame_84
       frameIndex: 84
+      additiveSortOrder: 0
       cellRect:
         x: 10
         y: 23
         width: 46
         height: 20
       spriteId: 14302d7d0a2e8874ab8dda34f308277b
-    - name: Red Caped Side Platformer Version_Frame_85
+    - name: Frame_85
       frameIndex: 85
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 23
         width: 19
         height: 19
       spriteId: fbab7d689520f584d88675d3f87b6477
-    - name: Red Caped Side Platformer Version_Frame_86
+    - name: Frame_86
       frameIndex: 86
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 23
         width: 20
         height: 19
       spriteId: 6c69ce9d3ffa2104ba3506c514d7c69e
-    - name: Red Caped Side Platformer Version_Frame_87
+    - name: Frame_87
       frameIndex: 87
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 23
         width: 18
         height: 19
       spriteId: 25f3d2187310ca148b220ecdbe397071
-    - name: Red Caped Side Platformer Version_Frame_91
+    - name: Frame_91
       frameIndex: 91
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 23
         width: 12
         height: 23
       spriteId: e9e7e9e5c9b120a47ba2ce4ba5c2aafb
-    - name: Red Caped Side Platformer Version_Frame_92
+    - name: Frame_92
       frameIndex: 92
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 12
         height: 23
       spriteId: b65b36f59113ab84a8187b9765e07a19
-    - name: Red Caped Side Platformer Version_Frame_93
+    - name: Frame_93
       frameIndex: 93
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 23
         width: 14
         height: 22
       spriteId: 094b1427a3531a24aba43c040d102200
-    - name: Red Caped Side Platformer Version_Frame_94
+    - name: Frame_94
       frameIndex: 94
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 11
         height: 22
       spriteId: 2f8dd7c80ff66fe4abe383a897dee9c6
-    - name: Red Caped Side Platformer Version_Frame_95
+    - name: Frame_95
       frameIndex: 95
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 23
         width: 12
         height: 23
       spriteId: 615d403d8ca3d7143ad740415f33ddff
-    - name: Red Caped Side Platformer Version_Frame_96
+    - name: Frame_96
       frameIndex: 96
+      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 23
         width: 14
         height: 22
       spriteId: 24a130a329843ed49bfaf3db7a5cbab6
-    - name: Red Caped Side Platformer Version_Frame_97
+    - name: Frame_97
       frameIndex: 97
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 26
         width: 11
         height: 22
       spriteId: 1436af1483640e5469de6adda10ff521
-    - name: Red Caped Side Platformer Version_Frame_98
+    - name: Frame_98
       frameIndex: 98
+      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 26
         width: 13
         height: 22
       spriteId: 41f8165d97a751349934f601a1e0ce9d
-    - name: Red Caped Side Platformer Version_Frame_103
+    - name: Frame_103
       frameIndex: 103
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 23
         height: 19
       spriteId: a1b63cda133b184409a4bc43874662ad
-    - name: Red Caped Side Platformer Version_Frame_104
+    - name: Frame_104
       frameIndex: 104
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 22
         height: 19
       spriteId: da95e15fcf15e04488de910703eba8fd
-    - name: Red Caped Side Platformer Version_Frame_105
+    - name: Frame_105
       frameIndex: 105
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 22
         height: 19
       spriteId: 2b78ac65502a0b94bb30905d4af57ee8
-    - name: Red Caped Side Platformer Version_Frame_106
+    - name: Frame_106
       frameIndex: 106
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 22
         height: 19
       spriteId: 9c95aca18d43f364b8b83e612ed472d0
-    - name: Red Caped Side Platformer Version_Frame_107
+    - name: Frame_107
       frameIndex: 107
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 22
         height: 19
       spriteId: 8399a57d43aaa604386432669af43218
-    - name: Red Caped Side Platformer Version_Frame_108
+    - name: Frame_108
       frameIndex: 108
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 22
         height: 19
       spriteId: 3c68a924fd5f0a94283fb1dfec75849e
-    - name: Red Caped Side Platformer Version_Frame_109
+    - name: Frame_109
       frameIndex: 109
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 22
         height: 19
       spriteId: 5c709004c4c34204299217dc34db9308
-    - name: Red Caped Side Platformer Version_Frame_110
+    - name: Frame_110
       frameIndex: 110
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 27
         height: 19
       spriteId: 58dfb680972fa1340a64e88c4386d262
-    - name: Red Caped Side Platformer Version_Frame_111
+    - name: Frame_111
       frameIndex: 111
+      additiveSortOrder: 0
       cellRect:
         x: 5
         y: 23
         width: 59
         height: 19
       spriteId: e016e127c1fa1054193fdad9a3ac4693
-    - name: Red Caped Side Platformer Version_Frame_112
+    - name: Frame_112
       frameIndex: 112
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 79
         height: 19
       spriteId: bb28ea1512f4fef49854f411feb728fe
-    - name: Red Caped Side Platformer Version_Frame_113
+    - name: Frame_113
       frameIndex: 113
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 18
         height: 19
       spriteId: a3d336a6f12fd64459d470ac421d64ad
-    - name: Red Caped Side Platformer Version_Frame_114
+    - name: Frame_114
       frameIndex: 114
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 18
         height: 19
       spriteId: d992826291649c247a6fea8ca1f8a235
-    - name: Red Caped Side Platformer Version_Frame_115
+    - name: Frame_115
       frameIndex: 115
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 22
         height: 19
       spriteId: 58eb2f4efa769014b9e545cae93e1099
-    - name: Red Caped Side Platformer Version_Frame_116
+    - name: Frame_116
       frameIndex: 116
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 71
         height: 19
       spriteId: 46bce7212db15ad4cbbe29d5dbb5b3e6
-    - name: Red Caped Side Platformer Version_Frame_117
+    - name: Frame_117
       frameIndex: 117
+      additiveSortOrder: 0
       cellRect:
         x: 5
         y: 23
         width: 74
         height: 19
       spriteId: 5bb1f1b1e1ae5e242aefbafe1948b0ad
-    - name: Red Caped Side Platformer Version_Frame_118
+    - name: Frame_118
       frameIndex: 118
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 69
         height: 19
       spriteId: a2e0bdbf57705584281618f8bd83c4c0
-    - name: Red Caped Side Platformer Version_Frame_119
+    - name: Frame_119
       frameIndex: 119
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 18
         height: 19
       spriteId: 685a1af1d56be41479a12946157b1c9d
-    - name: Red Caped Side Platformer Version_Frame_120
+    - name: Frame_120
       frameIndex: 120
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 18
         height: 19
       spriteId: 725ba0c6417750641b9ecb6de80e0de8
-    - name: Red Caped Side Platformer Version_Frame_121
+    - name: Frame_121
       frameIndex: 121
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 22
         height: 19
       spriteId: 25c10f29639713f41887410c5a1a1cf7
-    - name: Red Caped Side Platformer Version_Frame_122
+    - name: Frame_122
       frameIndex: 122
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 27
         height: 19
       spriteId: 99b10e19b4cb64d41994a89a8ac282ff
-    - name: Red Caped Side Platformer Version_Frame_123
+    - name: Frame_123
       frameIndex: 123
+      additiveSortOrder: 0
       cellRect:
         x: 5
         y: 23
         width: 59
         height: 19
       spriteId: 16b060ed77b221d41839c6cee4ab4812
-    - name: Red Caped Side Platformer Version_Frame_124
+    - name: Frame_124
       frameIndex: 124
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 79
         height: 19
       spriteId: d14d470582bfe8c4eb386048a4384bbe
-    - name: Red Caped Side Platformer Version_Frame_125
+    - name: Frame_125
       frameIndex: 125
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 18
         height: 19
       spriteId: 042b262f9e1335b47b7c6be17791037d
-    - name: Red Caped Side Platformer Version_Frame_126
+    - name: Frame_126
       frameIndex: 126
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 23
         width: 18
         height: 19
       spriteId: 7c8fc5fb397a4964f8c0948e6a81b6de
-    - name: Red Caped Side Platformer Version_Frame_128
+    - name: Frame_128
       frameIndex: 128
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 17
         height: 21
       spriteId: e7bbbe64226c0404d8ce570e37612a01
-    - name: Red Caped Side Platformer Version_Frame_130
+    - name: Frame_130
       frameIndex: 130
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 17
         height: 18
       spriteId: 989f966dbe8d2d548ab9cd9ea4d08099
-    - name: Red Caped Side Platformer Version_Frame_132
+    - name: Frame_132
       frameIndex: 132
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23
         width: 12
         height: 23
       spriteId: 7bd31c1a7a9b2b84681fe29dab761f77
-    - name: Red Caped Side Platformer Version_Frame_63
+    - name: Frame_63
       frameIndex: 63
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 20
         height: 18
       spriteId: 060964d57c971984c964ab8cec72358a
-    - name: Red Caped Side Platformer Version_Frame_67
+    - name: Frame_67
       frameIndex: 67
+      additiveSortOrder: 0
       cellRect:
         x: 18
         y: 22
         width: 60
         height: 19
       spriteId: 056757e70031b544fb714827a36e0703
-    - name: Red Caped Side Platformer Version_Frame_68
+    - name: Frame_68
       frameIndex: 68
+      additiveSortOrder: 0
       cellRect:
         x: 18
         y: 22
         width: 59
         height: 20
       spriteId: 6e12c97907c71794e8542f74205c2ce9
-    - name: Red Caped Side Platformer Version_Frame_69
+    - name: Frame_69
       frameIndex: 69
+      additiveSortOrder: 0
       cellRect:
         x: 18
         y: 22
         width: 57
         height: 20
       spriteId: ea50fa3899885a54997094c32a9db8d2
-    - name: Red Caped Side Platformer Version_Frame_70
+    - name: Frame_70
       frameIndex: 70
+      additiveSortOrder: 0
       cellRect:
         x: 18
         y: 22
         width: 26
         height: 19
       spriteId: 6837b0f6625a66c4b813ac82922c0eb9
-    - name: Red Caped Side Platformer Version_Frame_71
+    - name: Frame_71
       frameIndex: 71
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 29
         height: 18
       spriteId: 87e83edc7daa38641a36175652fa8beb
-    - name: Red Caped Side Platformer Version_Frame_77
+    - name: Frame_77
       frameIndex: 77
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 23
         width: 19
         height: 18
       spriteId: 2210072bc24714443a1369e25972b05d
-    - name: Red Caped Side Platformer Version_Frame_99
+    - name: Frame_99
       frameIndex: 99
+      additiveSortOrder: 0
       cellRect:
         x: 29
         y: 26
         width: 19
         height: 19
       spriteId: 031432de184dc924e9bef4493e0cf8f3
-    - name: Red Caped Side Platformer Version_Frame_100
+    - name: Frame_100
       frameIndex: 100
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 25
         width: 23
         height: 14
       spriteId: d34f24be436501e4ca9c3dcf6568c42e
-    - name: Red Caped Side Platformer Version_Frame_101
+    - name: Frame_101
       frameIndex: 101
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 23
         width: 21
         height: 13
       spriteId: e9b6c2d9748228f4f89241a5c602910b
-    - name: Red Caped Side Platformer Version_Frame_102
+    - name: Frame_102
       frameIndex: 102
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 23
         width: 22
         height: 11
       spriteId: 72ce4becaee33714292d10fccbe95ad7
-    - name: Red Caped Side Platformer Version_Frame_129
+    - name: Frame_129
       frameIndex: 129
+      additiveSortOrder: 0
       cellRect:
         x: -3
         y: 23
         width: 19
         height: 20
       spriteId: c1a76a11e6f51954a9a70fe3fca37a2a
-    - name: Red Caped Side Platformer Version_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 23
         width: 12
         height: 22
       spriteId: 10413940b079dd949bc676a2de790032
-    - name: Red Caped Side Platformer Version_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 13
         height: 22
       spriteId: 7914d40c3071e8d4bb5db85c0ead615e
-    - name: Red Caped Side Platformer Version_Frame_59
+    - name: Frame_59
       frameIndex: 59
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 17
         height: 18
       spriteId: f5f1036d6d425d045a9423317ce3368b
-    - name: Red Caped Side Platformer Version_Frame_60
+    - name: Frame_60
       frameIndex: 60
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 18
         height: 22
       spriteId: e1d0b2914478b824294fa1e1b8811f94
-    - name: Red Caped Side Platformer Version_Frame_61
+    - name: Frame_61
       frameIndex: 61
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 20
         height: 18
       spriteId: cce87c7439f3f5542bafcaf6ba7d05fd
-    - name: Red Caped Side Platformer Version_Frame_62
+    - name: Frame_62
       frameIndex: 62
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 21
         height: 18
       spriteId: 182225e9c4ca49041aedb957bdf256da
-    - name: Red Caped Side Platformer Version_Frame_64
+    - name: Frame_64
       frameIndex: 64
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 20
         height: 18
       spriteId: dfa6efc682cd5f347a8a76869049ca14
-    - name: Red Caped Side Platformer Version_Frame_65
+    - name: Frame_65
       frameIndex: 65
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 30
         height: 19
       spriteId: af55fdf9d5ffd594f856ea88ba0ee57d
-    - name: Red Caped Side Platformer Version_Frame_66
+    - name: Frame_66
       frameIndex: 66
+      additiveSortOrder: 0
       cellRect:
         x: 5
         y: 23
         width: 74
         height: 19
       spriteId: 0a6ec61b865321b49a816ebb76cdd7ce
-    - name: Red Caped Side Platformer Version_Frame_72
+    - name: Frame_72
       frameIndex: 72
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 18
         height: 19
       spriteId: eb58650e749dee548ba108c135f2a956
-    - name: Red Caped Side Platformer Version_Frame_73
+    - name: Frame_73
       frameIndex: 73
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 17
         height: 19
       spriteId: 83058f207abac434081f00748efb11a2
-    - name: Red Caped Side Platformer Version_Frame_81
+    - name: Frame_81
       frameIndex: 81
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 21
         height: 18
       spriteId: 70405dbd76518464594182a3b2aa3cc2
-    - name: Red Caped Side Platformer Version_Frame_82
+    - name: Frame_82
       frameIndex: 82
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 23
         width: 18
         height: 19
       spriteId: 032eff0b3ef358e4a9358c71cf022d97
-    - name: Red Caped Side Platformer Version_Frame_83
+    - name: Frame_83
       frameIndex: 83
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 23
         width: 17
         height: 19
       spriteId: 91d96f57f933b8d4fab7eab77ef8c7ec
-    - name: Red Caped Side Platformer Version_Frame_88
+    - name: Frame_88
       frameIndex: 88
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 23
         width: 15
         height: 19
       spriteId: 6e2e48b5688c41a488b830e7004d017b
-    - name: Red Caped Side Platformer Version_Frame_89
+    - name: Frame_89
       frameIndex: 89
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 23
         width: 17
         height: 18
       spriteId: b038c2246370ff3409917475b51b26b7
-    - name: Red Caped Side Platformer Version_Frame_90
+    - name: Frame_90
       frameIndex: 90
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 23
         width: 15
         height: 20
       spriteId: d2867f61588fa0c4a851cfe2321ed03b
-    - name: Red Caped Side Platformer Version_Frame_131
+    - name: Frame_131
       frameIndex: 131
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 23
         width: 12
         height: 22
       spriteId: 31e627bcf00a4db4baa088b67ad36f28
-    - name: Red Caped Side Platformer Version_Frame_78
+    - name: Frame_78
       frameIndex: 78
+      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 23
         width: 16
         height: 22
       spriteId: 89140584b86992b4ca207dc53619be6c
-    - name: Red Caped Side Platformer Version_Frame_79
+    - name: Frame_79
       frameIndex: 79
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 23
         width: 12
         height: 22
       spriteId: 04ce01b0b51082f4bb0d85a72e608fc3
-    - name: Red Caped Side Platformer Version_Frame_127
+    - name: Frame_127
       frameIndex: 127
+      additiveSortOrder: 0
       cellRect:
         x: 4
         y: 23

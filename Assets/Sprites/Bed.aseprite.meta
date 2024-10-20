@@ -105,6 +105,7 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -126,6 +127,7 @@ ScriptedImporter:
     pivot: {x: 0.45000002, y: -2.3333333}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 30
@@ -146,6 +148,7 @@ ScriptedImporter:
     pivot: {x: 0.44444445, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -166,6 +169,7 @@ ScriptedImporter:
     pivot: {x: 0.44444445, y: -3.3333335}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 30
@@ -186,6 +190,7 @@ ScriptedImporter:
     pivot: {x: 0.45000002, y: -0.11111111}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 30
@@ -212,6 +217,7 @@ ScriptedImporter:
     cells:
     - name: Layer 3
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 7
         y: 21
@@ -229,6 +235,7 @@ ScriptedImporter:
     cells:
     - name: Layer 2
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 8
         y: 8
@@ -246,6 +253,7 @@ ScriptedImporter:
     cells:
     - name: Pillar
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 8
         y: 20
@@ -263,6 +271,7 @@ ScriptedImporter:
     cells:
     - name: Layer 4
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 7
         y: 1

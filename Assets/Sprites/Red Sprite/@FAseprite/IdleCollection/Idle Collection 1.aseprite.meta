@@ -130,6 +130,7 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -151,6 +152,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -171,6 +173,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -191,6 +194,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.45454547}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 106
@@ -211,6 +215,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -231,6 +236,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -251,6 +257,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -271,6 +278,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -291,6 +299,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 46
@@ -311,6 +320,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 46
@@ -331,6 +341,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.45454547}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -351,6 +362,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.45454547}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -371,6 +383,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 46
@@ -391,6 +404,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 46
@@ -411,6 +425,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 66
@@ -431,6 +446,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 66
@@ -451,6 +467,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 66
@@ -471,6 +488,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 66
@@ -491,6 +509,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 86
@@ -511,6 +530,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 86
@@ -531,6 +551,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 86
@@ -551,6 +572,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 86
@@ -571,6 +593,7 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 106
@@ -595,176 +618,198 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Idle Collection 1_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: dda91355c4a23e44a80b5543d60fd628
-    - name: Idle Collection 1_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: b5aa46f6efe0c1246b14cbb4d0638921
-    - name: Idle Collection 1_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 22
       spriteId: bcabbd6c6d00e68448000ec263b6166d
-    - name: Idle Collection 1_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: c97f43bb19f692d43b5b8d58fc837adc
-    - name: Idle Collection 1_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: c3e5a7f4985f9054dad53cf2aa826377
-    - name: Idle Collection 1_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: a207c3dba2680fc4eaa39764b77a6adc
-    - name: Idle Collection 1_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: a2bc1d9d2afbd8c45bbada0c4bd63baf
-    - name: Idle Collection 1_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 0ef83d127c63acf4d88bd4fd40c60bbe
-    - name: Idle Collection 1_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 9fbf82f9d5c14ed48bc1a1f6106acc55
-    - name: Idle Collection 1_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 22
         width: 14
         height: 22
       spriteId: 257423252a7b9b146ae84e967ca1b180
-    - name: Idle Collection 1_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 22
         width: 14
         height: 22
       spriteId: 09df865b86cfc6e4092ef9ed96e2317c
-    - name: Idle Collection 1_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 88475c82e794776468c8ff71a730233f
-    - name: Idle Collection 1_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: c5117e662219cae4fa82b3e4bbb9a256
-    - name: Idle Collection 1_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 4e971796fd8c89646b5054eb88714c65
-    - name: Idle Collection 1_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 20ae5714f9e516f4391524d39bec80aa
-    - name: Idle Collection 1_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 4e4b34a7e9717e84fb12ff1a50ebed15
-    - name: Idle Collection 1_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 5fb554d71729f834a936916dd1977bfd
-    - name: Idle Collection 1_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 33e9a915e6e533145ac80030f0eb1228
-    - name: Idle Collection 1_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 360d1d7436434604fab97e3f02d445c4
-    - name: Idle Collection 1_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: 41915409f4db0624aaaacf2c8ea211f9
-    - name: Idle Collection 1_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22
         width: 12
         height: 23
       spriteId: ed2f873b765a3ea4fa96200292be1d14
-    - name: Idle Collection 1_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 22

@@ -105,6 +105,7 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -126,6 +127,7 @@ ScriptedImporter:
     pivot: {x: 0.6666666, y: -0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -146,6 +148,7 @@ ScriptedImporter:
     pivot: {x: 0.7272727, y: -0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 24
@@ -166,6 +169,7 @@ ScriptedImporter:
     pivot: {x: 0.6666666, y: -0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -186,6 +190,7 @@ ScriptedImporter:
     pivot: {x: 0.6666666, y: -0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -206,6 +211,7 @@ ScriptedImporter:
     pivot: {x: 0.6666666, y: -0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -226,6 +232,7 @@ ScriptedImporter:
     pivot: {x: 0.63636357, y: -0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 24
@@ -246,6 +253,7 @@ ScriptedImporter:
     pivot: {x: 0.6666666, y: -0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 24
@@ -266,6 +274,7 @@ ScriptedImporter:
     pivot: {x: 0.6666666, y: -0.43478262}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 24
@@ -290,64 +299,72 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Test 8 Directional_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 10
         width: 12
         height: 23
       spriteId: 739c20b68befd224fab9db17bbd27666
-    - name: Test 8 Directional_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 10
         width: 11
         height: 23
       spriteId: 2fca1113694e32441b17d76ab6c1d07f
-    - name: Test 8 Directional_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 10
         width: 12
         height: 23
       spriteId: d1cd37e6c361c0b4581003f5331982ea
-    - name: Test 8 Directional_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 10
         width: 12
         height: 23
       spriteId: 44ca238b89c616446b910e1483b4eb79
-    - name: Test 8 Directional_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 10
         width: 12
         height: 23
       spriteId: f7f40b5abff999044aa0b587f0b680f1
-    - name: Test 8 Directional_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 14
         y: 10
         width: 11
         height: 23
       spriteId: 58bede7bec4a74740a26c08871075885
-    - name: Test 8 Directional_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 10
         width: 12
         height: 23
       spriteId: 5b6caa577e3132a4b934cd540e2f6285
-    - name: Test 8 Directional_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 10
