@@ -105,7 +105,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -127,7 +126,6 @@ ScriptedImporter:
     pivot: {x: 0.475, y: -0.026315792}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -148,7 +146,6 @@ ScriptedImporter:
     pivot: {x: 0.48717952, y: -0.14705883}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -169,7 +166,6 @@ ScriptedImporter:
     pivot: {x: 0.6956522, y: -0.7777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 52
@@ -190,7 +186,6 @@ ScriptedImporter:
     pivot: {x: 0.7307692, y: -0.7}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -211,7 +206,6 @@ ScriptedImporter:
     pivot: {x: 0.64, y: -0.7777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 52
@@ -232,7 +226,6 @@ ScriptedImporter:
     pivot: {x: 0.58620685, y: -0.7647059}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 52
@@ -253,7 +246,6 @@ ScriptedImporter:
     pivot: {x: 0.5121951, y: -0.029411767}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 52
@@ -274,7 +266,6 @@ ScriptedImporter:
     pivot: {x: 0.41176468, y: -0.6}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 89
@@ -295,7 +286,6 @@ ScriptedImporter:
     pivot: {x: 0.39999995, y: -0.631579}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 101
@@ -316,7 +306,6 @@ ScriptedImporter:
     pivot: {x: 0.42105258, y: -0.631579}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 89
@@ -337,7 +326,6 @@ ScriptedImporter:
     pivot: {x: 0.38888887, y: -0.631579}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 89
@@ -362,7 +350,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_5
+    - name: Wide Area SKill_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -371,7 +359,7 @@ ScriptedImporter:
         width: 40
         height: 38
       spriteId: a1de954cd5bc1624f82ca0ee049c57d0
-    - name: Frame_6
+    - name: Wide Area SKill_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -380,7 +368,7 @@ ScriptedImporter:
         width: 39
         height: 34
       spriteId: d73734878752c2445b83f33cb5443cf2
-    - name: Frame_0
+    - name: Wide Area SKill_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -389,7 +377,7 @@ ScriptedImporter:
         width: 23
         height: 18
       spriteId: 449e0bdceccbcfe4da203629cd23aaa9
-    - name: Frame_1
+    - name: Wide Area SKill_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -398,7 +386,7 @@ ScriptedImporter:
         width: 26
         height: 20
       spriteId: 5d3a00e95d26f434689e638fa56b8971
-    - name: Frame_2
+    - name: Wide Area SKill_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -407,7 +395,7 @@ ScriptedImporter:
         width: 25
         height: 18
       spriteId: 98be54a226e45f4479e2d40369d70e11
-    - name: Frame_3
+    - name: Wide Area SKill_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -416,7 +404,7 @@ ScriptedImporter:
         width: 29
         height: 17
       spriteId: 712b3d85791e5f04ab54fee409ec5609
-    - name: Frame_4
+    - name: Wide Area SKill_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -425,7 +413,7 @@ ScriptedImporter:
         width: 41
         height: 34
       spriteId: b0ed78aeccf947849a3ebe72d9ffdb24
-    - name: Frame_7
+    - name: Wide Area SKill_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -434,7 +422,7 @@ ScriptedImporter:
         width: 17
         height: 20
       spriteId: 195399bbb6683a04a9cabe4a21f938ad
-    - name: Frame_8
+    - name: Wide Area SKill_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -443,7 +431,7 @@ ScriptedImporter:
         width: 20
         height: 19
       spriteId: 75e80638b89472e478b7938a2301556a
-    - name: Frame_9
+    - name: Wide Area SKill_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -452,7 +440,7 @@ ScriptedImporter:
         width: 19
         height: 19
       spriteId: ca282b5034cb1884d9acf507ea0f6a1e
-    - name: Frame_10
+    - name: Wide Area SKill_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:

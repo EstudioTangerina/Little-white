@@ -180,7 +180,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -202,7 +201,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -223,7 +221,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -244,7 +241,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -265,7 +261,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -286,7 +281,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 164
@@ -307,7 +301,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -328,7 +321,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.53333336}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 238
@@ -349,7 +341,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.47058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -370,7 +361,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -391,7 +381,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5833334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -412,7 +401,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -433,7 +421,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -454,7 +441,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.53333336}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -475,7 +461,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -496,7 +481,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -517,7 +501,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -538,7 +521,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.53333336}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -559,7 +541,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.47058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -580,7 +561,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -601,7 +581,6 @@ ScriptedImporter:
     pivot: {x: 0.53333336, y: -0.9166667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -622,7 +601,6 @@ ScriptedImporter:
     pivot: {x: 0.5294118, y: -0.71428573}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 188
@@ -643,7 +621,6 @@ ScriptedImporter:
     pivot: {x: 0.5263158, y: -0.6923077}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 107
@@ -664,7 +641,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 164
@@ -685,7 +661,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -706,7 +681,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.53333336}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -727,7 +701,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.47058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -748,7 +721,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.3529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -769,7 +741,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.25}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -790,7 +761,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.2857143}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 38
@@ -811,7 +781,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -832,7 +801,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -853,7 +821,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -874,7 +841,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -895,7 +861,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 164
@@ -916,7 +881,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -937,7 +901,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.53333336}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -958,7 +921,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.47058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -979,7 +941,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1000,7 +961,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6363636}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -1021,7 +981,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1042,7 +1001,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1063,7 +1021,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.53333336}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -1084,7 +1041,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -1105,7 +1061,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1126,7 +1081,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1147,7 +1101,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.53333336}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -1168,7 +1121,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5714286}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -1189,7 +1141,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -1210,7 +1161,6 @@ ScriptedImporter:
     pivot: {x: 0.53333336, y: -0.5833334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -1231,7 +1181,6 @@ ScriptedImporter:
     pivot: {x: 0.5294118, y: -0.42857146}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 213
@@ -1252,7 +1201,6 @@ ScriptedImporter:
     pivot: {x: 0.5263158, y: -0.3846154}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 134
@@ -1273,7 +1221,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 164
@@ -1294,7 +1241,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -1315,7 +1261,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.53333336}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -1336,7 +1281,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.4}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1357,7 +1301,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1378,7 +1321,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.47058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -1399,7 +1341,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.53333336}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1420,7 +1361,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1441,7 +1381,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 75
@@ -1462,7 +1401,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1483,7 +1421,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1504,7 +1441,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 164
@@ -1525,7 +1461,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -1546,7 +1481,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -1567,7 +1501,6 @@ ScriptedImporter:
     pivot: {x: 0.42857146, y: -0.47058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -1588,7 +1521,6 @@ ScriptedImporter:
     pivot: {x: 0.42857146, y: -0.47058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1609,7 +1541,6 @@ ScriptedImporter:
     pivot: {x: 0.42857146, y: -0.5833334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1630,7 +1561,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1651,7 +1581,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
@@ -1672,7 +1601,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -1693,7 +1621,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 164
@@ -1714,7 +1641,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -1735,7 +1661,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -1756,7 +1681,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -1777,7 +1701,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.47058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1798,7 +1721,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.47058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1819,7 +1741,6 @@ ScriptedImporter:
     pivot: {x: 0.53333336, y: -0.75}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 119
@@ -1840,7 +1761,6 @@ ScriptedImporter:
     pivot: {x: 0.5294118, y: -0.5714286}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -1861,7 +1781,6 @@ ScriptedImporter:
     pivot: {x: 0.5263158, y: -0.53846157}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 161
@@ -1882,7 +1801,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 164
@@ -1903,7 +1821,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 142
@@ -1924,7 +1841,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -1945,7 +1861,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: -0.42105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -1966,7 +1881,6 @@ ScriptedImporter:
     pivot: {x: 0.4666667, y: -0.4117647}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -1987,7 +1901,6 @@ ScriptedImporter:
     pivot: {x: 0.40000004, y: -0.33333334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 50
@@ -2008,7 +1921,6 @@ ScriptedImporter:
     pivot: {x: 0.4074074, y: -0.4615385}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 72
@@ -2033,7 +1945,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: FurDevill_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -2042,7 +1954,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: fcdf21b0b830b934d8a579bc12947e9b
-    - name: Frame_1
+    - name: FurDevill_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -2051,7 +1963,7 @@ ScriptedImporter:
         width: 14
         height: 13
       spriteId: d2d02041474f2a648b71d778ee63670b
-    - name: Frame_2
+    - name: FurDevill_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -2060,7 +1972,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 158527922b183d940b871639cb192fa4
-    - name: Frame_3
+    - name: FurDevill_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -2069,7 +1981,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: a020c38db5b250942bcf568965f443b4
-    - name: Frame_4
+    - name: FurDevill_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -2078,7 +1990,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 154b12e41b1ab83498070c6af3385a23
-    - name: Frame_5
+    - name: FurDevill_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -2087,7 +1999,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 244f774091888e0409ad36ba38228c98
-    - name: Frame_6
+    - name: FurDevill_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -2096,7 +2008,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: f05925b5242768c4d949a24acc1297ca
-    - name: Frame_7
+    - name: FurDevill_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -2105,7 +2017,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 5c5cb5e6be80e5e47adbc89bf9f2bbe3
-    - name: Frame_8
+    - name: FurDevill_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -2114,7 +2026,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 75f7bc4001c3edf418213cd97365545a
-    - name: Frame_9
+    - name: FurDevill_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -2123,7 +2035,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: c576a0f873a79aa44b830b3889e57232
-    - name: Frame_10
+    - name: FurDevill_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -2132,7 +2044,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: df13628dca96a7d48979c469e3337e69
-    - name: Frame_11
+    - name: FurDevill_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -2141,7 +2053,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 64b726b5087afe343aa6f795ccd9b0e7
-    - name: Frame_12
+    - name: FurDevill_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -2150,7 +2062,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 5a9518f0934f5f8498512320904d2710
-    - name: Frame_13
+    - name: FurDevill_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -2159,7 +2071,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 3fb9e51b99e1d39438a425eda88c64dc
-    - name: Frame_14
+    - name: FurDevill_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -2168,7 +2080,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: a87e7afcd0ba5ff469a035be5dfc50ab
-    - name: Frame_15
+    - name: FurDevill_Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -2177,7 +2089,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 7588673aae898124884be4f11106384f
-    - name: Frame_16
+    - name: FurDevill_Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -2186,7 +2098,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 8bbee80a3187886408697dc73aad2671
-    - name: Frame_17
+    - name: FurDevill_Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -2195,7 +2107,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 6d028ed642cc2744e856c69ec84a08f0
-    - name: Frame_18
+    - name: FurDevill_Frame_18
       frameIndex: 18
       additiveSortOrder: 0
       cellRect:
@@ -2204,7 +2116,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 43625f3dcbcaddf4f84d55f716b6440f
-    - name: Frame_19
+    - name: FurDevill_Frame_19
       frameIndex: 19
       additiveSortOrder: 0
       cellRect:
@@ -2213,7 +2125,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 50ce5a2b0000383468a4f8993596f342
-    - name: Frame_20
+    - name: FurDevill_Frame_20
       frameIndex: 20
       additiveSortOrder: 0
       cellRect:
@@ -2222,7 +2134,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 92cd92a59a277fd409d05add4316ca0e
-    - name: Frame_21
+    - name: FurDevill_Frame_21
       frameIndex: 21
       additiveSortOrder: 0
       cellRect:
@@ -2231,7 +2143,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 82e518ec0532f4147aa371acda668c41
-    - name: Frame_22
+    - name: FurDevill_Frame_22
       frameIndex: 22
       additiveSortOrder: 0
       cellRect:
@@ -2240,7 +2152,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: a46c204bc90872f41bd8812eed9693a2
-    - name: Frame_23
+    - name: FurDevill_Frame_23
       frameIndex: 23
       additiveSortOrder: 0
       cellRect:
@@ -2249,7 +2161,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 6c07d5a1b68808143a7c15f5c5c22253
-    - name: Frame_24
+    - name: FurDevill_Frame_24
       frameIndex: 24
       additiveSortOrder: 0
       cellRect:
@@ -2258,7 +2170,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 323533cb8f7d77841b2e9222daa33b9e
-    - name: Frame_25
+    - name: FurDevill_Frame_25
       frameIndex: 25
       additiveSortOrder: 0
       cellRect:
@@ -2267,7 +2179,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: cc509e2ffe30aec4693839aa75c73ffa
-    - name: Frame_26
+    - name: FurDevill_Frame_26
       frameIndex: 26
       additiveSortOrder: 0
       cellRect:
@@ -2276,7 +2188,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: f2321a05e0a08df4783e00db0b2c9660
-    - name: Frame_27
+    - name: FurDevill_Frame_27
       frameIndex: 27
       additiveSortOrder: 0
       cellRect:
@@ -2285,7 +2197,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: f2d761eb0002341429ead3c18812700f
-    - name: Frame_28
+    - name: FurDevill_Frame_28
       frameIndex: 28
       additiveSortOrder: 0
       cellRect:
@@ -2294,7 +2206,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: bc0cc754161ed47469814490058cdee8
-    - name: Frame_29
+    - name: FurDevill_Frame_29
       frameIndex: 29
       additiveSortOrder: 0
       cellRect:
@@ -2303,7 +2215,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 4211c3de38a7f1f439eb4831d253252f
-    - name: Frame_30
+    - name: FurDevill_Frame_30
       frameIndex: 30
       additiveSortOrder: 0
       cellRect:
@@ -2312,7 +2224,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 36e5e82eead06bd4b84c586292595ffd
-    - name: Frame_31
+    - name: FurDevill_Frame_31
       frameIndex: 31
       additiveSortOrder: 0
       cellRect:
@@ -2321,7 +2233,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 2582c0048ce227f4888fb9e3d8736c63
-    - name: Frame_32
+    - name: FurDevill_Frame_32
       frameIndex: 32
       additiveSortOrder: 0
       cellRect:
@@ -2330,7 +2242,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: a0f48301119b2aa4fb99a6f55ad1ffc3
-    - name: Frame_33
+    - name: FurDevill_Frame_33
       frameIndex: 33
       additiveSortOrder: 0
       cellRect:
@@ -2339,7 +2251,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 6a648aca88bfd5241b4bd52efafbb493
-    - name: Frame_34
+    - name: FurDevill_Frame_34
       frameIndex: 34
       additiveSortOrder: 0
       cellRect:
@@ -2348,7 +2260,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 636a14b0b9523264ab3c262740dc2384
-    - name: Frame_35
+    - name: FurDevill_Frame_35
       frameIndex: 35
       additiveSortOrder: 0
       cellRect:
@@ -2357,7 +2269,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 9f09b6c889954f145b1fa65bd1bfbf69
-    - name: Frame_36
+    - name: FurDevill_Frame_36
       frameIndex: 36
       additiveSortOrder: 0
       cellRect:
@@ -2366,7 +2278,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 37a9954771079cd4fa9167ce5baac7ff
-    - name: Frame_37
+    - name: FurDevill_Frame_37
       frameIndex: 37
       additiveSortOrder: 0
       cellRect:
@@ -2375,7 +2287,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: ba9a2afa3ab9185429db5ae769611cb1
-    - name: Frame_38
+    - name: FurDevill_Frame_38
       frameIndex: 38
       additiveSortOrder: 0
       cellRect:
@@ -2384,7 +2296,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 8221ed0d18a54b047ab8f4dd74339a64
-    - name: Frame_39
+    - name: FurDevill_Frame_39
       frameIndex: 39
       additiveSortOrder: 0
       cellRect:
@@ -2393,7 +2305,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: df7c5df831d4d534d8156576aefea942
-    - name: Frame_40
+    - name: FurDevill_Frame_40
       frameIndex: 40
       additiveSortOrder: 0
       cellRect:
@@ -2402,7 +2314,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: b7b31b60792823c4bb810ab162231d64
-    - name: Frame_41
+    - name: FurDevill_Frame_41
       frameIndex: 41
       additiveSortOrder: 0
       cellRect:
@@ -2411,7 +2323,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 7aed8cd7d30c4cd448692e83cf431a51
-    - name: Frame_42
+    - name: FurDevill_Frame_42
       frameIndex: 42
       additiveSortOrder: 0
       cellRect:
@@ -2420,7 +2332,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 42bd4cb65989e7c4180f7131d8472c9d
-    - name: Frame_43
+    - name: FurDevill_Frame_43
       frameIndex: 43
       additiveSortOrder: 0
       cellRect:
@@ -2429,7 +2341,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 2e0ae73bab5fd2647bcee7b4deedd7dd
-    - name: Frame_44
+    - name: FurDevill_Frame_44
       frameIndex: 44
       additiveSortOrder: 0
       cellRect:
@@ -2438,7 +2350,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: d46db80b1b3a803478958b4fdf7c4713
-    - name: Frame_45
+    - name: FurDevill_Frame_45
       frameIndex: 45
       additiveSortOrder: 0
       cellRect:
@@ -2447,7 +2359,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: db40773aa5ee1b54ca72d4fac7634480
-    - name: Frame_46
+    - name: FurDevill_Frame_46
       frameIndex: 46
       additiveSortOrder: 0
       cellRect:
@@ -2456,7 +2368,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 1b275af96f0b3f14a9e56ac2457f9870
-    - name: Frame_47
+    - name: FurDevill_Frame_47
       frameIndex: 47
       additiveSortOrder: 0
       cellRect:
@@ -2465,7 +2377,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 5f0a5c5f7d1ec9c49b89dc9307541adb
-    - name: Frame_48
+    - name: FurDevill_Frame_48
       frameIndex: 48
       additiveSortOrder: 0
       cellRect:
@@ -2474,7 +2386,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 3ba6e4aaa7c59e54fbc6735bface9770
-    - name: Frame_49
+    - name: FurDevill_Frame_49
       frameIndex: 49
       additiveSortOrder: 0
       cellRect:
@@ -2483,7 +2395,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 33bd84baafac25e418ce2e6390bfc554
-    - name: Frame_50
+    - name: FurDevill_Frame_50
       frameIndex: 50
       additiveSortOrder: 0
       cellRect:
@@ -2492,7 +2404,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 074f5060ba0358d47bcc3f09545bb925
-    - name: Frame_51
+    - name: FurDevill_Frame_51
       frameIndex: 51
       additiveSortOrder: 0
       cellRect:
@@ -2501,7 +2413,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: d62ed8be06e65a44e8550f6f8e907436
-    - name: Frame_52
+    - name: FurDevill_Frame_52
       frameIndex: 52
       additiveSortOrder: 0
       cellRect:
@@ -2510,7 +2422,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: c97b0fc47ca40a24ab532f5eb59b44b6
-    - name: Frame_53
+    - name: FurDevill_Frame_53
       frameIndex: 53
       additiveSortOrder: 0
       cellRect:
@@ -2519,7 +2431,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: b868c8c783c34a944acbdfa4efb4633b
-    - name: Frame_54
+    - name: FurDevill_Frame_54
       frameIndex: 54
       additiveSortOrder: 0
       cellRect:
@@ -2528,7 +2440,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 7d31cba2b63832b408f3f0acd2e2f2b3
-    - name: Frame_55
+    - name: FurDevill_Frame_55
       frameIndex: 55
       additiveSortOrder: 0
       cellRect:
@@ -2537,7 +2449,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 549e66a9399b2884dae33ddce5a1aca4
-    - name: Frame_56
+    - name: FurDevill_Frame_56
       frameIndex: 56
       additiveSortOrder: 0
       cellRect:
@@ -2546,7 +2458,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: aaa44e0c64e56794cb8663b2c76aa8ab
-    - name: Frame_57
+    - name: FurDevill_Frame_57
       frameIndex: 57
       additiveSortOrder: 0
       cellRect:
@@ -2555,7 +2467,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 7019f69ed6d027a47a7270cd52d5a81e
-    - name: Frame_58
+    - name: FurDevill_Frame_58
       frameIndex: 58
       additiveSortOrder: 0
       cellRect:
@@ -2564,7 +2476,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: d56b704432950d84080d994630eb8be6
-    - name: Frame_59
+    - name: FurDevill_Frame_59
       frameIndex: 59
       additiveSortOrder: 0
       cellRect:
@@ -2573,7 +2485,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: d2ab2efb0dfa70f43bf16bd7d3524a78
-    - name: Frame_60
+    - name: FurDevill_Frame_60
       frameIndex: 60
       additiveSortOrder: 0
       cellRect:
@@ -2582,7 +2494,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 60db4fad70d7b19479910aa4d2d81332
-    - name: Frame_61
+    - name: FurDevill_Frame_61
       frameIndex: 61
       additiveSortOrder: 0
       cellRect:
@@ -2591,7 +2503,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: ffd59afd6ed7e6a468a4aa3bc4206a15
-    - name: Frame_62
+    - name: FurDevill_Frame_62
       frameIndex: 62
       additiveSortOrder: 0
       cellRect:
@@ -2600,7 +2512,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: ecfcc06f60674bb409f3cb7f662fe54e
-    - name: Frame_63
+    - name: FurDevill_Frame_63
       frameIndex: 63
       additiveSortOrder: 0
       cellRect:
@@ -2609,7 +2521,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 18614835152e5e34087ba8b439eeaccf
-    - name: Frame_64
+    - name: FurDevill_Frame_64
       frameIndex: 64
       additiveSortOrder: 0
       cellRect:
@@ -2618,7 +2530,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: a61531be1b18a7e44847f5595726a863
-    - name: Frame_65
+    - name: FurDevill_Frame_65
       frameIndex: 65
       additiveSortOrder: 0
       cellRect:
@@ -2627,7 +2539,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: c0d6ed513557b5b4faad2ea593ececa0
-    - name: Frame_66
+    - name: FurDevill_Frame_66
       frameIndex: 66
       additiveSortOrder: 0
       cellRect:
@@ -2636,7 +2548,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 83fe2943c9fafe34f8aad3570c2f2db0
-    - name: Frame_67
+    - name: FurDevill_Frame_67
       frameIndex: 67
       additiveSortOrder: 0
       cellRect:
@@ -2645,7 +2557,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 7f1e164cf4008e446b3126b187b4c94d
-    - name: Frame_68
+    - name: FurDevill_Frame_68
       frameIndex: 68
       additiveSortOrder: 0
       cellRect:
@@ -2654,7 +2566,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: bfdd3847522874041bde1037eeee6758
-    - name: Frame_69
+    - name: FurDevill_Frame_69
       frameIndex: 69
       additiveSortOrder: 0
       cellRect:
@@ -2663,7 +2575,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: c8dbff75d80f169429cdf3cf96746fa7
-    - name: Frame_70
+    - name: FurDevill_Frame_70
       frameIndex: 70
       additiveSortOrder: 0
       cellRect:
@@ -2672,7 +2584,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 2542ab0b059302c4fbdc2a9adc2e1c34
-    - name: Frame_71
+    - name: FurDevill_Frame_71
       frameIndex: 71
       additiveSortOrder: 0
       cellRect:
@@ -2681,7 +2593,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 15391fddf301534498898e70a3c50c8d
-    - name: Frame_72
+    - name: FurDevill_Frame_72
       frameIndex: 72
       additiveSortOrder: 0
       cellRect:
@@ -2690,7 +2602,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: f88c6429758987240bd7116a39965d4a
-    - name: Frame_73
+    - name: FurDevill_Frame_73
       frameIndex: 73
       additiveSortOrder: 0
       cellRect:
@@ -2699,7 +2611,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 9ad6e9f9d95972a4997af868e0559691
-    - name: Frame_74
+    - name: FurDevill_Frame_74
       frameIndex: 74
       additiveSortOrder: 0
       cellRect:
@@ -2708,7 +2620,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 890866433f484e04ebb5743a256d521a
-    - name: Frame_75
+    - name: FurDevill_Frame_75
       frameIndex: 75
       additiveSortOrder: 0
       cellRect:
@@ -2717,7 +2629,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 0ece560725f5775488791c6981fa6dc6
-    - name: Frame_76
+    - name: FurDevill_Frame_76
       frameIndex: 76
       additiveSortOrder: 0
       cellRect:
@@ -2726,7 +2638,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 11d340fc77988da4c891d3774e94317e
-    - name: Frame_77
+    - name: FurDevill_Frame_77
       frameIndex: 77
       additiveSortOrder: 0
       cellRect:
@@ -2735,7 +2647,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: bb3a89ab333bca6459a0e8a8fff6bb6a
-    - name: Frame_78
+    - name: FurDevill_Frame_78
       frameIndex: 78
       additiveSortOrder: 0
       cellRect:
@@ -2744,7 +2656,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 7b67f6d3e901c534d8f5703b6ac599ce
-    - name: Frame_79
+    - name: FurDevill_Frame_79
       frameIndex: 79
       additiveSortOrder: 0
       cellRect:
@@ -2753,7 +2665,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 95502e4b4d6f615469bd5d1fc4ba745f
-    - name: Frame_80
+    - name: FurDevill_Frame_80
       frameIndex: 80
       additiveSortOrder: 0
       cellRect:
@@ -2762,7 +2674,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: bf17fc87f87aaed40b01ec1ba26c9bcf
-    - name: Frame_81
+    - name: FurDevill_Frame_81
       frameIndex: 81
       additiveSortOrder: 0
       cellRect:
@@ -2771,7 +2683,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 7dac08f54e3c98849b1edf37fb42a692
-    - name: Frame_82
+    - name: FurDevill_Frame_82
       frameIndex: 82
       additiveSortOrder: 0
       cellRect:
@@ -2780,7 +2692,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: e1c51ba4cbbe71545ac00848c28f8bf5
-    - name: Frame_83
+    - name: FurDevill_Frame_83
       frameIndex: 83
       additiveSortOrder: 0
       cellRect:
@@ -2789,7 +2701,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 2f922fae1dffb9d45851d60d08049743
-    - name: Frame_84
+    - name: FurDevill_Frame_84
       frameIndex: 84
       additiveSortOrder: 0
       cellRect:
@@ -2798,7 +2710,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 8db2e45f5f743e54cb38e09a3f622c33
-    - name: Frame_85
+    - name: FurDevill_Frame_85
       frameIndex: 85
       additiveSortOrder: 0
       cellRect:
@@ -2807,7 +2719,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: a76b1445b006d1f4798bffbcfc83c841
-    - name: Frame_86
+    - name: FurDevill_Frame_86
       frameIndex: 86
       additiveSortOrder: 0
       cellRect:

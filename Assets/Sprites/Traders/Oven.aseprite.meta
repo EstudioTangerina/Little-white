@@ -105,7 +105,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -127,7 +126,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -148,7 +146,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -169,7 +166,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -190,7 +186,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -215,7 +210,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Oven_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -224,7 +219,7 @@ ScriptedImporter:
         width: 32
         height: 16
       spriteId: 3ef60399c4640f64c980e0dfe75c1563
-    - name: Frame_1
+    - name: Oven_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -233,7 +228,7 @@ ScriptedImporter:
         width: 32
         height: 16
       spriteId: 72b4cd18aa4a46344941a2371683870f
-    - name: Frame_2
+    - name: Oven_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -242,7 +237,7 @@ ScriptedImporter:
         width: 32
         height: 16
       spriteId: ce5849212faf9a14f96d469c3c8e0755
-    - name: Frame_3
+    - name: Oven_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:

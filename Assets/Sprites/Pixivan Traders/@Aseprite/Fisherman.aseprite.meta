@@ -105,7 +105,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -127,7 +126,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 26
@@ -148,7 +146,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -169,7 +166,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -190,7 +186,6 @@ ScriptedImporter:
     pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -215,7 +210,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Fisherman_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -224,7 +219,7 @@ ScriptedImporter:
         width: 14
         height: 26
       spriteId: 3df4c2ee695c0034ea1c37e50d652528
-    - name: Frame_1
+    - name: Fisherman_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -233,7 +228,7 @@ ScriptedImporter:
         width: 14
         height: 26
       spriteId: b74482b4afe7ae7448d1c2bd0b34dbcb
-    - name: Frame_2
+    - name: Fisherman_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -242,7 +237,7 @@ ScriptedImporter:
         width: 14
         height: 26
       spriteId: cbe03d5b3dbe40e4c8ef4dd8a04b05ee
-    - name: Frame_3
+    - name: Fisherman_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
