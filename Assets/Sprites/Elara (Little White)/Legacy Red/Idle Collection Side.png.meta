@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: d78ee7ac82d5f354daaa8d62a016023f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 823301603060553497
+    second: Idle Collection Side_0
+  - first:
+      213: 2141584074148193144
+    second: Idle Collection Side_1
+  - first:
+      213: 5444414745706834266
+    second: Idle Collection Side_2
+  - first:
+      213: -4929558613689862425
+    second: Idle Collection Side_3
+  - first:
+      213: 2013081647327392472
+    second: Idle Collection Side_4
+  - first:
+      213: -1513997944204474032
+    second: Idle Collection Side_5
+  - first:
+      213: -7180084468557680691
+    second: Idle Collection Side_6
+  - first:
+      213: -3828233582835093608
+    second: Idle Collection Side_7
+  - first:
+      213: -4392737184240769397
+    second: Idle Collection Side_8
+  - first:
+      213: -8821349492850936704
+    second: Idle Collection Side_9
+  - first:
+      213: 7821861909765475130
+    second: Idle Collection Side_10
+  - first:
+      213: -3782116971882639326
+    second: Idle Collection Side_11
+  - first:
+      213: -864429259558419983
+    second: Idle Collection Side_12
+  - first:
+      213: 766489376054742612
+    second: Idle Collection Side_13
+  - first:
+      213: -4437770729220597249
+    second: Idle Collection Side_14
+  - first:
+      213: 2238606415291103364
+    second: Idle Collection Side_15
+  - first:
+      213: -8604927195997364786
+    second: Idle Collection Side_16
+  - first:
+      213: -6383386066057068928
+    second: Idle Collection Side_17
+  - first:
+      213: 3274468178396257817
+    second: Idle Collection Side_18
+  - first:
+      213: 6757213744956071544
+    second: Idle Collection Side_19
+  - first:
+      213: -5175578128721752761
+    second: Idle Collection Side_20
+  - first:
+      213: 217336093087459796
+    second: Idle Collection Side_21
+  - first:
+      213: 228481562895438139
+    second: Idle Collection Side_22
+  - first:
+      213: -4950966472916201714
+    second: Idle Collection Side_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Collection Side_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 271
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9171f692274fc6b00800000000000000
+      internalID: 823301603060553497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 271
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873ac3c6e5f68bd10800000000000000
+      internalID: 2141584074148193144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 271
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5921cf8d527e8b40800000000000000
+      internalID: 5444414745706834266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 271
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e67c8b0f80b69bb0800000000000000
+      internalID: -4929558613689862425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 271
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2becca717efeb10800000000000000
+      internalID: 2013081647327392472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 207
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059450924e23dfae0800000000000000
+      internalID: -1513997944204474032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 207
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfe152b7373b5c90800000000000000
+      internalID: -7180084468557680691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 207
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fa4e9d6d16fdac0800000000000000
+      internalID: -3828233582835093608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 207
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86edadfdccd903c0800000000000000
+      internalID: -4392737184240769397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 207
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0843c0faf55449580800000000000000
+      internalID: -8821349492850936704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 143
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bcab507f5dc8c60800000000000000
+      internalID: 7821861909765475130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 143
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22095ff07a8338bc0800000000000000
+      internalID: -3782116971882639326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 143
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1019a1b2ee004f0800000000000000
+      internalID: -864429259558419983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 143
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e8ad7c60e13aa00800000000000000
+      internalID: 766489376054742612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 143
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff91e2ab80fd962c0800000000000000
+      internalID: -4437770729220597249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 79
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488365f8ca0211f10800000000000000
+      internalID: 2238606415291103364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 79
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd9a7c5e48259880800000000000000
+      internalID: -8604927195997364786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 79
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e7d7c8138a967a0800000000000000
+      internalID: -6383386066057068928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 79
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e11a9957f317d20800000000000000
+      internalID: 3274468178396257817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e5e7b891276cd50800000000000000
+      internalID: 6757213744956071544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d42420d17ac28b0800000000000000
+      internalID: -5175578128721752761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d969517602240300800000000000000
+      internalID: 217336093087459796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31db1a55cabb2300800000000000000
+      internalID: 228481562895438139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Collection Side_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 15
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f06f66932aa4bb0800000000000000
+      internalID: -4950966472916201714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle Collection Side_0: 823301603060553497
+      Idle Collection Side_1: 2141584074148193144
+      Idle Collection Side_10: 7821861909765475130
+      Idle Collection Side_11: -3782116971882639326
+      Idle Collection Side_12: -864429259558419983
+      Idle Collection Side_13: 766489376054742612
+      Idle Collection Side_14: -4437770729220597249
+      Idle Collection Side_15: 2238606415291103364
+      Idle Collection Side_16: -8604927195997364786
+      Idle Collection Side_17: -6383386066057068928
+      Idle Collection Side_18: 3274468178396257817
+      Idle Collection Side_19: 6757213744956071544
+      Idle Collection Side_2: 5444414745706834266
+      Idle Collection Side_20: -5175578128721752761
+      Idle Collection Side_21: 217336093087459796
+      Idle Collection Side_22: 228481562895438139
+      Idle Collection Side_23: -4950966472916201714
+      Idle Collection Side_3: -4929558613689862425
+      Idle Collection Side_4: 2013081647327392472
+      Idle Collection Side_5: -1513997944204474032
+      Idle Collection Side_6: -7180084468557680691
+      Idle Collection Side_7: -3828233582835093608
+      Idle Collection Side_8: -4392737184240769397
+      Idle Collection Side_9: -8821349492850936704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

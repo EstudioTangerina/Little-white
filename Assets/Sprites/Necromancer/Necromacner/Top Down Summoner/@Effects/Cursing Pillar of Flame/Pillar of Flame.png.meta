@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: e44f9ba87a0500d4fb71789e1cd3600e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2477753959652562697
+    second: Pillar of Flame_0
+  - first:
+      213: 8115477952872847568
+    second: Pillar of Flame_1
+  - first:
+      213: 9126168096141548471
+    second: Pillar of Flame_2
+  - first:
+      213: -1709672046935523289
+    second: Pillar of Flame_3
+  - first:
+      213: 3666542691138114165
+    second: Pillar of Flame_4
+  - first:
+      213: 4398395513964358756
+    second: Pillar of Flame_5
+  - first:
+      213: 8658618353443224268
+    second: Pillar of Flame_6
+  - first:
+      213: -922352169709336172
+    second: Pillar of Flame_7
+  - first:
+      213: 8110748915229476574
+    second: Pillar of Flame_8
+  - first:
+      213: 1450268259390787788
+    second: Pillar of Flame_9
+  - first:
+      213: -8252111466179865435
+    second: Pillar of Flame_10
+  - first:
+      213: -2757741094968277921
+    second: Pillar of Flame_11
+  - first:
+      213: 9133669477559440355
+    second: Pillar of Flame_12
+  - first:
+      213: 7024428633157825880
+    second: Pillar of Flame_13
+  - first:
+      213: -7739045707939601701
+    second: Pillar of Flame_14
+  - first:
+      213: -6505834649032836482
+    second: Pillar of Flame_15
+  - first:
+      213: -6186330347234567202
+    second: Pillar of Flame_16
+  - first:
+      213: 1279311301909613004
+    second: Pillar of Flame_17
+  - first:
+      213: -7349334553588645476
+    second: Pillar of Flame_18
+  - first:
+      213: 9083441016790077067
+    second: Pillar of Flame_19
+  - first:
+      213: -7823193024816955954
+    second: Pillar of Flame_20
+  - first:
+      213: 9177972426975443830
+    second: Pillar of Flame_21
+  - first:
+      213: -3596901939182323500
+    second: Pillar of Flame_22
+  - first:
+      213: 2696201067229912135
+    second: Pillar of Flame_23
+  - first:
+      213: -7434863788367161799
+    second: Pillar of Flame_24
+  - first:
+      213: -7872634984210285685
+    second: Pillar of Flame_25
+  - first:
+      213: -6671211071090449705
+    second: Pillar of Flame_26
+  - first:
+      213: -3592305381908383175
+    second: Pillar of Flame_27
+  - first:
+      213: 8375587226667874098
+    second: Pillar of Flame_28
+  - first:
+      213: -2533704415502538099
+    second: Pillar of Flame_29
+  - first:
+      213: -3426265773459142574
+    second: Pillar of Flame_30
+  - first:
+      213: -4887677480209388648
+    second: Pillar of Flame_31
+  - first:
+      213: -5053180652032054917
+    second: Pillar of Flame_32
+  - first:
+      213: 2647773769945308275
+    second: Pillar of Flame_33
+  - first:
+      213: 4865143878043219203
+    second: Pillar of Flame_34
+  - first:
+      213: 2977447516496240935
+    second: Pillar of Flame_35
+  - first:
+      213: -9166518084409218900
+    second: Pillar of Flame_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pillar of Flame_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f86712c6ef3d9dd0800000000000000
+      internalID: -2477753959652562697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d810835338ff9070800000000000000
+      internalID: 8115477952872847568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb150be789a6ae70800000000000000
+      internalID: 9126168096141548471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 69
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7204effd4560648e0800000000000000
+      internalID: -1709672046935523289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5729713c62d22e230800000000000000
+      internalID: 3666542691138114165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c648f8a6d3a0d30800000000000000
+      internalID: 4398395513964358756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca39a26487992870800000000000000
+      internalID: 8658618353443224268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4990aa6a6952333f0800000000000000
+      internalID: -922352169709336172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed643a27a2b2f8070800000000000000
+      internalID: 8110748915229476574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 67
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0130e4c43602410800000000000000
+      internalID: 1450268259390787788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4db63d75c9a7d80800000000000000
+      internalID: -8252111466179865435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_11
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f544be3d5198ab9d0800000000000000
+      internalID: -2757741094968277921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e312c16fff41ce70800000000000000
+      internalID: 9133669477559440355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 69
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8557475ff98cb7160800000000000000
+      internalID: 7024428633157825880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2afbd8ee2699490800000000000000
+      internalID: -7739045707939601701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a38f82bd1a6b5a0800000000000000
+      internalID: -6505834649032836482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_16
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 68
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb5dd5635db52aa0800000000000000
+      internalID: -6186330347234567202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_17
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 5
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9077bd9d601c110800000000000000
+      internalID: 1279311301909613004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9148d5792be10a90800000000000000
+      internalID: -7349334553588645476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 67
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e4cf78a7dde0e70800000000000000
+      internalID: 9083441016790077067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdb87a946f6e6390800000000000000
+      internalID: -7823193024816955954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_21
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b733c9b45be5f70800000000000000
+      internalID: 9177972426975443830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_22
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8bf175ebc351ec0800000000000000
+      internalID: -3596901939182323500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_23
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c9447e594da6520800000000000000
+      internalID: 2696201067229912135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_24
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 3
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936d5fca6ce02d890800000000000000
+      internalID: -7434863788367161799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_25
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 19
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b35df5138ceb290800000000000000
+      internalID: -7872634984210285685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_26
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 28
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2200e50e81b63a0800000000000000
+      internalID: -6671211071090449705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_27
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a70aab941952ec0800000000000000
+      internalID: -3592305381908383175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_28
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 31
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23776d6f4301c3470800000000000000
+      internalID: 8375587226667874098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_29
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 63
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ae12c124976dcd0800000000000000
+      internalID: -2533704415502538099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_30
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 55
+        width: 121
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25883e2ae657370d0800000000000000
+      internalID: -3426265773459142574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b617f4a3b7b2cb0800000000000000
+      internalID: -4887677480209388648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_32
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 22
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79a0c948fe7fd9b0800000000000000
+      internalID: -5053180652032054917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cdf2b1738ceb420800000000000000
+      internalID: 2647773769945308275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305bee79496748340800000000000000
+      internalID: 4865143878043219203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_35
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a026bdb4025920800000000000000
+      internalID: 2977447516496240935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar of Flame_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca828975e5cf9c080800000000000000
+      internalID: -9166518084409218900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pillar of Flame_0: -2477753959652562697
+      Pillar of Flame_1: 8115477952872847568
+      Pillar of Flame_10: -8252111466179865435
+      Pillar of Flame_11: -2757741094968277921
+      Pillar of Flame_12: 9133669477559440355
+      Pillar of Flame_13: 7024428633157825880
+      Pillar of Flame_14: -7739045707939601701
+      Pillar of Flame_15: -6505834649032836482
+      Pillar of Flame_16: -6186330347234567202
+      Pillar of Flame_17: 1279311301909613004
+      Pillar of Flame_18: -7349334553588645476
+      Pillar of Flame_19: 9083441016790077067
+      Pillar of Flame_2: 9126168096141548471
+      Pillar of Flame_20: -7823193024816955954
+      Pillar of Flame_21: 9177972426975443830
+      Pillar of Flame_22: -3596901939182323500
+      Pillar of Flame_23: 2696201067229912135
+      Pillar of Flame_24: -7434863788367161799
+      Pillar of Flame_25: -7872634984210285685
+      Pillar of Flame_26: -6671211071090449705
+      Pillar of Flame_27: -3592305381908383175
+      Pillar of Flame_28: 8375587226667874098
+      Pillar of Flame_29: -2533704415502538099
+      Pillar of Flame_3: -1709672046935523289
+      Pillar of Flame_30: -3426265773459142574
+      Pillar of Flame_31: -4887677480209388648
+      Pillar of Flame_32: -5053180652032054917
+      Pillar of Flame_33: 2647773769945308275
+      Pillar of Flame_34: 4865143878043219203
+      Pillar of Flame_35: 2977447516496240935
+      Pillar of Flame_36: -9166518084409218900
+      Pillar of Flame_4: 3666542691138114165
+      Pillar of Flame_5: 4398395513964358756
+      Pillar of Flame_6: 8658618353443224268
+      Pillar of Flame_7: -922352169709336172
+      Pillar of Flame_8: 8110748915229476574
+      Pillar of Flame_9: 1450268259390787788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

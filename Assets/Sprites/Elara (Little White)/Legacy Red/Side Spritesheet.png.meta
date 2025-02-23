@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 17669d687d5068c44a5c9b71314691d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9221146812766510324
+    second: Side Spritesheet_0
+  - first:
+      213: 8943287289028943779
+    second: Side Spritesheet_1
+  - first:
+      213: 2299619347929060143
+    second: Side Spritesheet_2
+  - first:
+      213: 1601495007383416664
+    second: Side Spritesheet_3
+  - first:
+      213: 2755585762237254321
+    second: Side Spritesheet_4
+  - first:
+      213: 5539626107677631463
+    second: Side Spritesheet_5
+  - first:
+      213: -6748572342052735416
+    second: Side Spritesheet_6
+  - first:
+      213: 5165751818152655915
+    second: Side Spritesheet_7
+  - first:
+      213: -878938189209925804
+    second: Side Spritesheet_8
+  - first:
+      213: -26692633166616724
+    second: Side Spritesheet_9
+  - first:
+      213: 4348956708766363641
+    second: Side Spritesheet_10
+  - first:
+      213: 8517924985558286104
+    second: Side Spritesheet_11
+  - first:
+      213: -162642911151899334
+    second: Side Spritesheet_12
+  - first:
+      213: 3598361933996463999
+    second: Side Spritesheet_13
+  - first:
+      213: 3803532539131970991
+    second: Side Spritesheet_14
+  - first:
+      213: 834960542679121738
+    second: Side Spritesheet_15
+  - first:
+      213: 6124776176623599295
+    second: Side Spritesheet_16
+  - first:
+      213: -3445580621849105738
+    second: Side Spritesheet_17
+  - first:
+      213: 6586696327234523718
+    second: Side Spritesheet_18
+  - first:
+      213: -3651943574218630670
+    second: Side Spritesheet_19
+  - first:
+      213: 6781044241973943877
+    second: Side Spritesheet_20
+  - first:
+      213: -5304496727493719655
+    second: Side Spritesheet_21
+  - first:
+      213: 893881389646798387
+    second: Side Spritesheet_22
+  - first:
+      213: 8095890209908818272
+    second: Side Spritesheet_23
+  - first:
+      213: -695887251368226778
+    second: Side Spritesheet_24
+  - first:
+      213: 6183562272328138273
+    second: Side Spritesheet_25
+  - first:
+      213: -4861174727474428583
+    second: Side Spritesheet_26
+  - first:
+      213: -5030245636579808427
+    second: Side Spritesheet_27
+  - first:
+      213: 7019720008432390961
+    second: Side Spritesheet_28
+  - first:
+      213: -5558117204490515864
+    second: Side Spritesheet_29
+  - first:
+      213: 6542771711477798559
+    second: Side Spritesheet_30
+  - first:
+      213: 258484134713600843
+    second: Side Spritesheet_31
+  - first:
+      213: 1998639162297590794
+    second: Side Spritesheet_32
+  - first:
+      213: -793761530955725497
+    second: Side Spritesheet_33
+  - first:
+      213: -4327341387514973743
+    second: Side Spritesheet_34
+  - first:
+      213: 4075205692862451399
+    second: Side Spritesheet_35
+  - first:
+      213: -3493036573436036946
+    second: Side Spritesheet_36
+  - first:
+      213: 7992590809867521529
+    second: Side Spritesheet_37
+  - first:
+      213: 3338455083749357824
+    second: Side Spritesheet_38
+  - first:
+      213: -8273817257186679210
+    second: Side Spritesheet_39
+  - first:
+      213: -6611247231377832145
+    second: Side Spritesheet_40
+  - first:
+      213: -6588559719689407107
+    second: Side Spritesheet_41
+  - first:
+      213: 1760995749684383357
+    second: Side Spritesheet_42
+  - first:
+      213: -7442741944162507898
+    second: Side Spritesheet_43
+  - first:
+      213: 6474749022512672255
+    second: Side Spritesheet_44
+  - first:
+      213: 708071879043187829
+    second: Side Spritesheet_45
+  - first:
+      213: 1907094381151175882
+    second: Side Spritesheet_46
+  - first:
+      213: 6169110281991747792
+    second: Side Spritesheet_47
+  - first:
+      213: -9189928499065686194
+    second: Side Spritesheet_48
+  - first:
+      213: 3425353542851830636
+    second: Side Spritesheet_49
+  - first:
+      213: -3168127579765061152
+    second: Side Spritesheet_50
+  - first:
+      213: 3220051834267464347
+    second: Side Spritesheet_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Side Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 655
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03a35b54d7e70080800000000000000
+      internalID: -9221146812766510324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 591
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af16d2e760fc1c70800000000000000
+      internalID: 8943287289028943779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 591
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f235defec93e9ef10800000000000000
+      internalID: 2299619347929060143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 591
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f66a06937a93610800000000000000
+      internalID: 1601495007383416664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 591
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba864aa6aecd3620800000000000000
+      internalID: 2755585762237254321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 591
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3ea904894b0ec40800000000000000
+      internalID: 5539626107677631463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 591
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846bbead5314852a0800000000000000
+      internalID: -6748572342052735416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 527
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c31d6c8ef60b740800000000000000
+      internalID: 5165751818152655915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 527
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4570e9caf526dc3f0800000000000000
+      internalID: -878938189209925804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 527
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67ebf9013b21aff0800000000000000
+      internalID: -26692633166616724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 527
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff2299b5199a5c30800000000000000
+      internalID: 4348956708766363641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 463
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f30abf4afb53670800000000000000
+      internalID: 8517924985558286104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 463
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d3e8f422d2ebdf0800000000000000
+      internalID: -162642911151899334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 463
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7795213d13ffe130800000000000000
+      internalID: 3598361933996463999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 463
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5c99e31bcd8c430800000000000000
+      internalID: 3803532539131970991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 463
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f3bd39030669b00800000000000000
+      internalID: 834960542679121738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 463
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbebc607b739ff450800000000000000
+      internalID: 6124776176623599295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 463
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bae6bd0ea6de20d0800000000000000
+      internalID: -3445580621849105738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 463
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6421f2c6965a86b50800000000000000
+      internalID: 6586696327234523718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 463
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f99de60ba0b15dc0800000000000000
+      internalID: -3651943574218630670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 463
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e90118fcb1b1e50800000000000000
+      internalID: 6781044241973943877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 399
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999c38da454a266b0800000000000000
+      internalID: -5304496727493719655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 399
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eda3d4364b76c00800000000000000
+      internalID: 893881389646798387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 399
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618d2680416a5070800000000000000
+      internalID: 8095890209908818272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 399
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620597a5b36b756f0800000000000000
+      internalID: -695887251368226778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 335
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e30a0ff1d60d550800000000000000
+      internalID: 6183562272328138273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 335
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955c7c94753a98cb0800000000000000
+      internalID: -4861174727474428583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ba3b2be3af03ab0800000000000000
+      internalID: -5030245636579808427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 265
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1339055d72e0b6160800000000000000
+      internalID: 7019720008432390961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 265
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a0b56c9d99dd2b0800000000000000
+      internalID: -5558117204490515864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 265
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96db1dd4389cca50800000000000000
+      internalID: 6542771711477798559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 271
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bada573f1569300800000000000000
+      internalID: 258484134713600843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 271
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04aee69ab79cbb10800000000000000
+      internalID: 1998639162297590794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 271
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7458307d71efbf4f0800000000000000
+      internalID: -793761530955725497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 207
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1f25f6fe132f3c0800000000000000
+      internalID: -4327341387514973743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 202
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce47bd7cf90e8830800000000000000
+      internalID: 4075205692862451399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 207
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b5ec4ebd368fc0800000000000000
+      internalID: -3493036573436036946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 207
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd8439bef26bee60800000000000000
+      internalID: 7992590809867521529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 207
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093a75f533945e20800000000000000
+      internalID: 3338455083749357824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 207
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65624e88a0f7d2d80800000000000000
+      internalID: -8273817257186679210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 143
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f278073cba12044a0800000000000000
+      internalID: -6611247231377832145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 143
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753776b7dbb094a0800000000000000
+      internalID: -6588559719689407107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e09eedd40507810800000000000000
+      internalID: 1760995749684383357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6832b4792a116b890800000000000000
+      internalID: -7442741944162507898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdeca86eedead950800000000000000
+      internalID: 6474749022512672255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 80
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57400d95f9393d900800000000000000
+      internalID: 708071879043187829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4c8a54c3c577a10800000000000000
+      internalID: 1907094381151175882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 80
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8f35abd151d9550800000000000000
+      internalID: 6169110281991747792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 80
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4773fd68b0d67080800000000000000
+      internalID: -9189928499065686194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 80
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c632fcf16ec498f20800000000000000
+      internalID: 3425353542851830636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 80
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e94cfc60cc8804d0800000000000000
+      internalID: -3168127579765061152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b927bdb251cefac20800000000000000
+      internalID: 3220051834267464347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Side Spritesheet_0: -9221146812766510324
+      Side Spritesheet_1: 8943287289028943779
+      Side Spritesheet_10: 4348956708766363641
+      Side Spritesheet_11: 8517924985558286104
+      Side Spritesheet_12: -162642911151899334
+      Side Spritesheet_13: 3598361933996463999
+      Side Spritesheet_14: 3803532539131970991
+      Side Spritesheet_15: 834960542679121738
+      Side Spritesheet_16: 6124776176623599295
+      Side Spritesheet_17: -3445580621849105738
+      Side Spritesheet_18: 6586696327234523718
+      Side Spritesheet_19: -3651943574218630670
+      Side Spritesheet_2: 2299619347929060143
+      Side Spritesheet_20: 6781044241973943877
+      Side Spritesheet_21: -5304496727493719655
+      Side Spritesheet_22: 893881389646798387
+      Side Spritesheet_23: 8095890209908818272
+      Side Spritesheet_24: -695887251368226778
+      Side Spritesheet_25: 6183562272328138273
+      Side Spritesheet_26: -4861174727474428583
+      Side Spritesheet_27: -5030245636579808427
+      Side Spritesheet_28: 7019720008432390961
+      Side Spritesheet_29: -5558117204490515864
+      Side Spritesheet_3: 1601495007383416664
+      Side Spritesheet_30: 6542771711477798559
+      Side Spritesheet_31: 258484134713600843
+      Side Spritesheet_32: 1998639162297590794
+      Side Spritesheet_33: -793761530955725497
+      Side Spritesheet_34: -4327341387514973743
+      Side Spritesheet_35: 4075205692862451399
+      Side Spritesheet_36: -3493036573436036946
+      Side Spritesheet_37: 7992590809867521529
+      Side Spritesheet_38: 3338455083749357824
+      Side Spritesheet_39: -8273817257186679210
+      Side Spritesheet_4: 2755585762237254321
+      Side Spritesheet_40: -6611247231377832145
+      Side Spritesheet_41: -6588559719689407107
+      Side Spritesheet_42: 1760995749684383357
+      Side Spritesheet_43: -7442741944162507898
+      Side Spritesheet_44: 6474749022512672255
+      Side Spritesheet_45: 708071879043187829
+      Side Spritesheet_46: 1907094381151175882
+      Side Spritesheet_47: 6169110281991747792
+      Side Spritesheet_48: -9189928499065686194
+      Side Spritesheet_49: 3425353542851830636
+      Side Spritesheet_5: 5539626107677631463
+      Side Spritesheet_50: -3168127579765061152
+      Side Spritesheet_51: 3220051834267464347
+      Side Spritesheet_6: -6748572342052735416
+      Side Spritesheet_7: 5165751818152655915
+      Side Spritesheet_8: -878938189209925804
+      Side Spritesheet_9: -26692633166616724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

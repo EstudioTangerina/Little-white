@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: b8ddbb4d520944f45a6fc4a6ecbb048f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4288114010012159079
+    second: Back Side Spritesheet_0
+  - first:
+      213: -7812767692860224597
+    second: Back Side Spritesheet_1
+  - first:
+      213: 4050458915859463340
+    second: Back Side Spritesheet_2
+  - first:
+      213: 5606940065943648310
+    second: Back Side Spritesheet_3
+  - first:
+      213: 1149573638131826610
+    second: Back Side Spritesheet_4
+  - first:
+      213: -8115496410136489837
+    second: Back Side Spritesheet_5
+  - first:
+      213: 1396098301784070670
+    second: Back Side Spritesheet_6
+  - first:
+      213: -6753700628797845473
+    second: Back Side Spritesheet_7
+  - first:
+      213: -9108888022778944985
+    second: Back Side Spritesheet_8
+  - first:
+      213: 500240187267427056
+    second: Back Side Spritesheet_9
+  - first:
+      213: 7674075554620538882
+    second: Back Side Spritesheet_10
+  - first:
+      213: -1331211925530228107
+    second: Back Side Spritesheet_11
+  - first:
+      213: -768629223724508501
+    second: Back Side Spritesheet_12
+  - first:
+      213: -2103429413715066463
+    second: Back Side Spritesheet_13
+  - first:
+      213: 2223047824399046264
+    second: Back Side Spritesheet_14
+  - first:
+      213: -763115371599370618
+    second: Back Side Spritesheet_15
+  - first:
+      213: -1449004846122000562
+    second: Back Side Spritesheet_16
+  - first:
+      213: -8469925257891559662
+    second: Back Side Spritesheet_17
+  - first:
+      213: -2520064824084288537
+    second: Back Side Spritesheet_18
+  - first:
+      213: 7016890186546160795
+    second: Back Side Spritesheet_19
+  - first:
+      213: 5703145152939691836
+    second: Back Side Spritesheet_20
+  - first:
+      213: -2674061897506940257
+    second: Back Side Spritesheet_21
+  - first:
+      213: -8115276411254835899
+    second: Back Side Spritesheet_22
+  - first:
+      213: 8789784560501227012
+    second: Back Side Spritesheet_23
+  - first:
+      213: -9137158280139095566
+    second: Back Side Spritesheet_24
+  - first:
+      213: -4453639372120505507
+    second: Back Side Spritesheet_25
+  - first:
+      213: -3823653727307723603
+    second: Back Side Spritesheet_26
+  - first:
+      213: -6113676291620922324
+    second: Back Side Spritesheet_27
+  - first:
+      213: -7632829557237435411
+    second: Back Side Spritesheet_28
+  - first:
+      213: -6898215680218218814
+    second: Back Side Spritesheet_29
+  - first:
+      213: 9074790573856872862
+    second: Back Side Spritesheet_30
+  - first:
+      213: 6588245907513240142
+    second: Back Side Spritesheet_31
+  - first:
+      213: -3023683857444941189
+    second: Back Side Spritesheet_32
+  - first:
+      213: 9189533573972758472
+    second: Back Side Spritesheet_33
+  - first:
+      213: 7066730912426901832
+    second: Back Side Spritesheet_34
+  - first:
+      213: 6372931039970288073
+    second: Back Side Spritesheet_35
+  - first:
+      213: -3999698176179697952
+    second: Back Side Spritesheet_36
+  - first:
+      213: -4551642262943582783
+    second: Back Side Spritesheet_37
+  - first:
+      213: 7353615108201601135
+    second: Back Side Spritesheet_38
+  - first:
+      213: 5438314632520047820
+    second: Back Side Spritesheet_39
+  - first:
+      213: -6628730306347411693
+    second: Back Side Spritesheet_40
+  - first:
+      213: -720420058317861566
+    second: Back Side Spritesheet_41
+  - first:
+      213: -1640132243352131154
+    second: Back Side Spritesheet_42
+  - first:
+      213: 94664126146676184
+    second: Back Side Spritesheet_43
+  - first:
+      213: -5095153218034984402
+    second: Back Side Spritesheet_44
+  - first:
+      213: -393730390769783633
+    second: Back Side Spritesheet_45
+  - first:
+      213: 4226757527775013692
+    second: Back Side Spritesheet_46
+  - first:
+      213: -4140401862025016022
+    second: Back Side Spritesheet_47
+  - first:
+      213: -5561038234369949451
+    second: Back Side Spritesheet_48
+  - first:
+      213: -5111898471858419334
+    second: Back Side Spritesheet_49
+  - first:
+      213: 9181037796759588306
+    second: Back Side Spritesheet_50
+  - first:
+      213: 9037368192940688153
+    second: Back Side Spritesheet_51
+  - first:
+      213: 3589858205878831158
+    second: Back Side Spritesheet_52
+  - first:
+      213: -5455682573456167845
+    second: Back Side Spritesheet_53
+  - first:
+      213: 8863232912712831034
+    second: Back Side Spritesheet_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back Side Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 655
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c862309f0728b30800000000000000
+      internalID: 4288114010012159079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 591
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab0b6a5d29739390800000000000000
+      internalID: -7812767692860224597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 591
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacfd197cee163830800000000000000
+      internalID: 4050458915859463340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 591
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638f97b784adfcd40800000000000000
+      internalID: 5606940065943648310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 591
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf3008122b14ff00800000000000000
+      internalID: 1149573638131826610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 591
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3905bd14307ff5f80800000000000000
+      internalID: -8115496410136489837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 591
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a9d553200ff5310800000000000000
+      internalID: 1396098301784070670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 527
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f101c2d8f090642a0800000000000000
+      internalID: -6753700628797845473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 527
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722637faa9ab69180800000000000000
+      internalID: -9108888022778944985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 527
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa2378ccc531f600800000000000000
+      internalID: 500240187267427056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 527
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2008aa4de0bcf7a60800000000000000
+      internalID: 7674075554620538882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 463
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ac10a8ec5968de0800000000000000
+      internalID: -1331211925530228107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 463
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa9aeb1bc74555f0800000000000000
+      internalID: -768629223724508501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 463
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c769b71e1fc2e0800000000000000
+      internalID: -2103429413715066463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 463
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8769204d73ad9de10800000000000000
+      internalID: 2223047824399046264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 463
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686ed29dc9ed865f0800000000000000
+      internalID: -763115371599370618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 463
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f141505c914ebe0800000000000000
+      internalID: -1449004846122000562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 463
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217c3418ad7c47a80800000000000000
+      internalID: -8469925257891559662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 463
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebaf75f46ee60dd0800000000000000
+      internalID: -2520064824084288537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 463
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9422059270016160800000000000000
+      internalID: 7016890186546160795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 463
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f067fcc44a52f40800000000000000
+      internalID: 5703145152939691836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 399
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a11bb3fd2d3ead0800000000000000
+      internalID: -2674061897506940257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 399
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5457c0db91fb06f80800000000000000
+      internalID: -8115276411254835899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 399
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e73eccc769bf970800000000000000
+      internalID: 8789784560501227012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 399
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f14ac774fa423180800000000000000
+      internalID: -9137158280139095566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 335
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d534013669e7132c0800000000000000
+      internalID: -4453639372120505507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 335
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac89bf8137afeac0800000000000000
+      internalID: -3823653727307723603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 335
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c153eedcbd72ba0800000000000000
+      internalID: -6113676291620922324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 271
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3b2c945fdb21690800000000000000
+      internalID: -7632829557237435411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 271
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce309c136d9440a0800000000000000
+      internalID: -6898215680218218814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 273
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995dc552f120fd70800000000000000
+      internalID: 9074790573856872862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 271
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a6f323fb62e6b50800000000000000
+      internalID: 6588245907513240142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 271
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7259e34d87b906d0800000000000000
+      internalID: -3023683857444941189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 271
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf0c28e818c78f70800000000000000
+      internalID: 9189533573972758472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 271
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8414a7ed252121260800000000000000
+      internalID: 7066730912426901832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 207
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c16d7ff303317850800000000000000
+      internalID: 6372931039970288073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 207
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6080833b73e78c0800000000000000
+      internalID: -3999698176179697952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 219
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5b79c3a7155d0c0800000000000000
+      internalID: -4551642262943582783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 207
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f685d43daf94d0660800000000000000
+      internalID: 7353615108201601135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 218
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc9a284856c87b40800000000000000
+      internalID: 5438314632520047820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 207
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317db4a28e40204a0800000000000000
+      internalID: -6628730306347411693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 207
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc5ee16cd8006f0800000000000000
+      internalID: -720420058317861566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 207
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9e45a1a641d39e0800000000000000
+      internalID: -1640132243352131154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 143
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d502fb6580505100800000000000000
+      internalID: 94664126146676184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 143
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a16dab4216a49b0800000000000000
+      internalID: -5095153218034984402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 79
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac24e0bb40398af0800000000000000
+      internalID: -393730390769783633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 79
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3becb2c39578aa30800000000000000
+      internalID: 4226757527775013692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 79
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d02aa71765a86c0800000000000000
+      internalID: -4140401862025016022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 79
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f08302803933d2b0800000000000000
+      internalID: -5561038234369949451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7944018c63ee09b0800000000000000
+      internalID: -5111898471858419334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 79
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd4a41ab39996f70800000000000000
+      internalID: 9181037796759588306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 79
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913c4ac4d7e2b6d70800000000000000
+      internalID: 9037368192940688153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 79
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638cd63b40db1d130800000000000000
+      internalID: 3589858205878831158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 79
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c2bd9da958944b0800000000000000
+      internalID: -5455682573456167845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Side Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a309ccbef57800b70800000000000000
+      internalID: 8863232912712831034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Back Side Spritesheet_0: 4288114010012159079
+      Back Side Spritesheet_1: -7812767692860224597
+      Back Side Spritesheet_10: 7674075554620538882
+      Back Side Spritesheet_11: -1331211925530228107
+      Back Side Spritesheet_12: -768629223724508501
+      Back Side Spritesheet_13: -2103429413715066463
+      Back Side Spritesheet_14: 2223047824399046264
+      Back Side Spritesheet_15: -763115371599370618
+      Back Side Spritesheet_16: -1449004846122000562
+      Back Side Spritesheet_17: -8469925257891559662
+      Back Side Spritesheet_18: -2520064824084288537
+      Back Side Spritesheet_19: 7016890186546160795
+      Back Side Spritesheet_2: 4050458915859463340
+      Back Side Spritesheet_20: 5703145152939691836
+      Back Side Spritesheet_21: -2674061897506940257
+      Back Side Spritesheet_22: -8115276411254835899
+      Back Side Spritesheet_23: 8789784560501227012
+      Back Side Spritesheet_24: -9137158280139095566
+      Back Side Spritesheet_25: -4453639372120505507
+      Back Side Spritesheet_26: -3823653727307723603
+      Back Side Spritesheet_27: -6113676291620922324
+      Back Side Spritesheet_28: -7632829557237435411
+      Back Side Spritesheet_29: -6898215680218218814
+      Back Side Spritesheet_3: 5606940065943648310
+      Back Side Spritesheet_30: 9074790573856872862
+      Back Side Spritesheet_31: 6588245907513240142
+      Back Side Spritesheet_32: -3023683857444941189
+      Back Side Spritesheet_33: 9189533573972758472
+      Back Side Spritesheet_34: 7066730912426901832
+      Back Side Spritesheet_35: 6372931039970288073
+      Back Side Spritesheet_36: -3999698176179697952
+      Back Side Spritesheet_37: -4551642262943582783
+      Back Side Spritesheet_38: 7353615108201601135
+      Back Side Spritesheet_39: 5438314632520047820
+      Back Side Spritesheet_4: 1149573638131826610
+      Back Side Spritesheet_40: -6628730306347411693
+      Back Side Spritesheet_41: -720420058317861566
+      Back Side Spritesheet_42: -1640132243352131154
+      Back Side Spritesheet_43: 94664126146676184
+      Back Side Spritesheet_44: -5095153218034984402
+      Back Side Spritesheet_45: -393730390769783633
+      Back Side Spritesheet_46: 4226757527775013692
+      Back Side Spritesheet_47: -4140401862025016022
+      Back Side Spritesheet_48: -5561038234369949451
+      Back Side Spritesheet_49: -5111898471858419334
+      Back Side Spritesheet_5: -8115496410136489837
+      Back Side Spritesheet_50: 9181037796759588306
+      Back Side Spritesheet_51: 9037368192940688153
+      Back Side Spritesheet_52: 3589858205878831158
+      Back Side Spritesheet_53: -5455682573456167845
+      Back Side Spritesheet_54: 8863232912712831034
+      Back Side Spritesheet_6: 1396098301784070670
+      Back Side Spritesheet_7: -6753700628797845473
+      Back Side Spritesheet_8: -9108888022778944985
+      Back Side Spritesheet_9: 500240187267427056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
