@@ -390,11 +390,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   colors:
-  - {r: 1, g: 1, b: 1, a: 1}
-  enableOnAwake: 1
+  - {r: 1, g: 1, b: 1, a: 0}
+  enableOnAwake: 0
   singleColorShader: 1
   updateInterval: 0.01
-  ghosts: 4
+  ghosts: 12
   ghostLayerOrder: 0
   spriteRenderers: []
 --- !u!1660057539 &9223372036854775807
