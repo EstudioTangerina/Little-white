@@ -7,14 +7,15 @@ public class ElaraScript : MonoBehaviour
     [SerializeField] private Rigidbody2D _rigidbody;
     [SerializeField] private float speed;
     [SerializeField] private float speedMultiplier;
-
-    // Parâmetros para o dash instantâneo
+    
     [SerializeField] private float dashSpeed;
-    [SerializeField] private float dashDuration; // duração curta, ex: 0.2f
+    [SerializeField] private float dashDuration;
 
     private Animator _animator;
     private Vector2 _moveInput;
-    public bool isDashing;
+    private bool isDashing;
+    public bool isAttacking;
+    public int attackStep = 0; // Alterna entre os ataques
 
     private void Awake()
     {
@@ -24,8 +25,7 @@ public class ElaraScript : MonoBehaviour
 
     private void Update()
     {
-        // Se não estiver dashando, atualiza as animações e o flip do sprite
-        if (!isDashing)
+        if (!isDashing && !isAttacking)
         {
             HandleAnimation();
             FlipSprite();
@@ -34,7 +34,7 @@ public class ElaraScript : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (!isDashing)
+        if (!isDashing && !isAttacking)
         {
             MoveCharacter();
         }
@@ -51,7 +51,6 @@ public class ElaraScript : MonoBehaviour
         _animator.SetBool("Running", isRunning);
     }
 
-    // Método acionado pelo input de dash
     public void OnDash(InputValue inputValueDash)
     {
         if (inputValueDash.isPressed && _moveInput != Vector2.zero)
@@ -64,17 +63,41 @@ public class ElaraScript : MonoBehaviour
     {
         isDashing = true;
         GetComponent<SpriteGhostTrailRenderer>().enabled = true;
-        _animator.SetBool("Dashing", isDashing);
+        _animator.SetBool("Dashing", true);
 
-        // Dash instantâneo: aplica a velocidade de dash imediatamente
         _rigidbody.linearVelocity = dashDirection * dashSpeed;
 
-        // Aguarda o tempo de dash (pode ser um valor muito curto para efeito instantâneo)
         yield return new WaitForSeconds(dashDuration);
 
         _animator.SetBool("Dashing", false);
         GetComponent<SpriteGhostTrailRenderer>().enabled = false;
         isDashing = false;
+    }
+
+    public void OnAttack(InputValue inputValue)
+    {
+        if (!isAttacking && inputValue.isPressed)
+        {
+            isAttacking = true;
+            attackStep = (attackStep + 1) % 2; // Alterna entre 0 e 1
+
+            if (attackStep == 0)
+            {
+                _animator.SetBool("Attack1", true);
+            }
+            else
+            {
+                _animator.SetBool("Attack2", true);
+            }
+
+            StartCoroutine(ResetAttack());
+        }
+    }
+
+    private IEnumerator ResetAttack()
+    {
+        yield return new WaitForSeconds(0.5f); // Tempo da animação de ataque
+        isAttacking = false;
     }
 
     private void MoveCharacter()
