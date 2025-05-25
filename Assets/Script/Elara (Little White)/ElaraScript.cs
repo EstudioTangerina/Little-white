@@ -74,32 +74,6 @@ public class ElaraScript : MonoBehaviour
         isDashing = false;
     }
 
-    public void OnAttack(InputValue inputValue)
-    {
-        if (!isAttacking && inputValue.isPressed)
-        {
-            isAttacking = true;
-            attackStep = (attackStep + 1) % 2; // Alterna entre 0 e 1
-
-            if (attackStep == 0)
-            {
-                _animator.SetBool("Attack1", true);
-            }
-            else
-            {
-                _animator.SetBool("Attack2", true);
-            }
-
-            StartCoroutine(ResetAttack());
-        }
-    }
-
-    private IEnumerator ResetAttack()
-    {
-        yield return new WaitForSeconds(0.5f); // Tempo da animação de ataque
-        isAttacking = false;
-    }
-
     private void MoveCharacter()
     {
         float adjustedSpeed = _animator.GetBool("Running") ? speed * speedMultiplier : speed;
