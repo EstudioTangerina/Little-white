@@ -2966,7 +2966,7 @@ Canvas:
   m_GameObject: {fileID: 693718268}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 519420031}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -2978,7 +2978,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!224 &693718272
 RectTransform:
@@ -3239,6 +3239,81 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -8435245712485981826, guid: 039b60790cf14114ca6ee0f675011cd5, type: 3}
+--- !u!1 &1603907572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1603907573}
+  - component: {fileID: 1603907575}
+  - component: {fileID: 1603907574}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1603907573
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603907572}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 662735574}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -474.45, y: 116.9}
+  m_SizeDelta: {x: 380.82, y: 201.78}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1603907574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603907572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -3352333929547219395, guid: 1d1984b2ba7e22743bfd47d561d51ebb, type: 3}
+  m_Type: 2
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1603907575
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603907572}
+  m_CullTransparentMesh: 1
 --- !u!1 &1805146940
 GameObject:
   m_ObjectHideFlags: 0
@@ -3524,6 +3599,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 693718272}
     m_Modifications:
+    - target: {fileID: 958999369923100151, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 323.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 958999369923100151, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 99.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 958999369923100151, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -474.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 958999369923100151, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 120.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 2674766088955449748, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -479.99997
+      objectReference: {fileID: 0}
+    - target: {fileID: 2674766088955449748, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 155.7
+      objectReference: {fileID: 0}
     - target: {fileID: 2782904217514652706, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -3608,9 +3707,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: DialogueBox
       objectReference: {fileID: 0}
+    - target: {fileID: 8206525553729981708, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_text
+      value: "Olaaaaaa\n[Pressione Espa\xE7o]"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206525553729981708, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 8206525553729981708, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 8206525553729981708, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206525553729981708, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206525553729981708, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 2782904217514652706, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
+      insertIndex: 0
+      addedObject: {fileID: 1603907573}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a92fb00227b4df640aed12a6321d9bb4, type: 3}
 --- !u!1001 &4456649008849942066
