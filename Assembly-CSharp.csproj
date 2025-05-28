@@ -59,14 +59,20 @@
     <UnityVersion>6000.0.41f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\Bonni\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.2\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\João Bonifácio\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.2\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\TimelineTalk\MensageTrack.cs" />
+    <Compile Include="Assets\Script\TextCoroutineRunner.cs" />
     <Compile Include="Assets\Script\Elara (Little White)\ElaraScript.cs" />
     <Compile Include="Assets\Script\SpriteTrailRendere.cs" />
+    <Compile Include="Assets\Script\TimelineTalk\MensageBehaviour.cs" />
+    <Compile Include="Assets\Script\TimelineTalk\MensageMixerBehaviour.cs" />
+    <Compile Include="Assets\Script\Dialogo.cs" />
+    <Compile Include="Assets\Script\TimelineTalk\MensageClip.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

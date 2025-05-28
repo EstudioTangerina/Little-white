@@ -441,8 +441,14 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Script/Dialogo.cs"
 "Assets/Script/Elara (Little White)/ElaraScript.cs"
 "Assets/Script/SpriteTrailRendere.cs"
+"Assets/Script/TextCoroutineRunner.cs"
+"Assets/Script/TimelineTalk/MensageBehaviour.cs"
+"Assets/Script/TimelineTalk/MensageClip.cs"
+"Assets/Script/TimelineTalk/MensageMixerBehaviour.cs"
+"Assets/Script/TimelineTalk/MensageTrack.cs"
 -langversion:9.0
 /deterministic
 /optimize+
