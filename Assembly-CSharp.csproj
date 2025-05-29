@@ -59,20 +59,28 @@
     <UnityVersion>6000.0.41f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\Bonni\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.2\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\João Bonifácio\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.2\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\DialogueSystem\DialogueReceiver.cs" />
+    <Compile Include="Assets\Script\DialogueSystem\DialoguePlayableTrack.cs" />
     <Compile Include="Assets\Script\TimelineTalk\MensageTrack.cs" />
+    <Compile Include="Assets\Script\DialogueSystem\DialoguePlayableAssetEditor.cs" />
     <Compile Include="Assets\Script\TextCoroutineRunner.cs" />
+    <Compile Include="Assets\Script\MensagePlayableAsset.cs" />
     <Compile Include="Assets\Script\Elara (Little White)\ElaraScript.cs" />
+    <Compile Include="Assets\Script\DialogueSystem\DialoguePlayableAsset.cs" />
     <Compile Include="Assets\Script\SpriteTrailRendere.cs" />
+    <Compile Include="Assets\Script\DialogueSystem\DialoguePlayableBehaviour.cs" />
     <Compile Include="Assets\Script\TimelineTalk\MensageBehaviour.cs" />
     <Compile Include="Assets\Script\TimelineTalk\MensageMixerBehaviour.cs" />
+    <Compile Include="Assets\Script\DialogueSystem\TimelineResumer.cs" />
     <Compile Include="Assets\Script\Dialogo.cs" />
     <Compile Include="Assets\Script\TimelineTalk\MensageClip.cs" />
+    <Compile Include="Assets\Script\DialogueSystem\TimelineController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -576,8 +584,20 @@
       <HintPath>Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd\net40\unity-custom\nunit.framework.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Mono.Cecil">
@@ -1342,6 +1362,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>
