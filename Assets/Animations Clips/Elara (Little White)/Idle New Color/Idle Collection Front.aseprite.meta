@@ -2,7 +2,37 @@ fileFormatVersion: 2
 guid: 54b49365f37b7394aaff841b00c0bb2c
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Approve
+    second: {fileID: 7400000, guid: 69f9829e11f4da744a71cb735182bcf5, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Blinking
+    second: {fileID: 7400000, guid: 3fef4535cccc9f6488e90a448c96f152, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Cry
+    second: {fileID: 7400000, guid: 53ddfb897525c2a4188e6ddf46c34a71, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Decline
+    second: {fileID: 7400000, guid: 5e9eafcaa295f1a4fad45a94bf18ce55, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Default
+    second: {fileID: 7400000, guid: 7142307a8d50863438017df449366a3e, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Down
+    second: {fileID: 7400000, guid: 81b3a0052a3f99d44bf61a1e261dab28, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -98,7 +128,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638673050857663700
+  platformSettingsDirtyTick: 638841443993823419
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -886,6 +916,18 @@ ScriptedImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     forceMaximumCompressionQuality_BC6H_BC7: 0
     crunchedCompression: 0
